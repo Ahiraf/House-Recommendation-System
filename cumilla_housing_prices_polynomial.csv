@@ -1,0 +1,2001 @@
+Area,Location_Score,Square_Feet,Num_Bedrooms,Building_Age,Owner_Name,Street_Address,Price_BDT
+Chawkbazar,2.2,1884,3,1,রাসেল হক,"৬৯, উত্তর বদরগড় স্ট্যান্ড, Chawkbazar, Cumilla",7352594.32
+Chawkbazar,2.2,1480,2,22,সাবের মৃধা,"৪, নতুন অভয়লেন, Chawkbazar, Cumilla",5733277.67
+Race Course,3.2,1434,2,15,অভিষেক আবদুল্লাহ,"৩০৩, মোহনহাট, Race Course, Cumilla",6448018.8
+Race Course,3.2,2349,4,5,অলোকা তালুকদার,"১৭৭, শরণমহাসড়ক, Race Course, Cumilla",10340112.52
+Shashongacha,2.0,1639,2,17,আব্বাস সিনহা,"২, দক্ষিণ নড়িয়ালেন, Shashongacha, Cumilla",4602630.22
+Kandirpar,4.0,1441,2,17,কবিতা রাও,"৫, পুরাতন শাজাহানদিয়া, Kandirpar, Cumilla",6588513.27
+Race Course,3.2,1831,3,17,অন্তরা বর্মন,"৫২, নন্দীপ্লাজা, Race Course, Cumilla",7883832.15
+Kotbari,2.5,2152,3,17,প্রিয়াঙ্কা পাণ্ডে,"৩৪, পুরাতন মধুচত্বর, Kotbari, Cumilla",8493389.32
+Police Line,3.1,1349,2,20,মুনতাকিম সরকার,"৩, কমলদিয়া এভিনিউ, Police Line, Cumilla",5480463.1
+Dharmapur,1.8,2141,3,24,ইজাজ চৌধুরী,"৪২, নতুন হোসেনরাস্তা, Dharmapur, Cumilla",7327195.61
+Shashongacha,2.0,1048,2,7,অদিতি মোড়ল,"২৭৬, নতুন কবিরহাট গলি, Shashongacha, Cumilla",4307263.79
+Police Line,3.1,1431,2,20,প্রদীপ মন্ডল,"৭১, উত্তর মানিকলেন, Police Line, Cumilla",5611361.15
+Dharmapur,1.8,1800,3,16,আরিয়ান উদ্দিন,"২, পশ্চিম দেবগাঁ লেন, Dharmapur, Cumilla",7292530.64
+Chawkbazar,2.2,1616,2,8,আজাদ মৃধা,"৭, দক্ষিণ আনোয়ারহাট, Chawkbazar, Cumilla",6276681.44
+Race Course,3.2,1525,2,14,তামিম তালুকদার,"৯৫৯, জগন্নাথমোড়, Race Course, Cumilla",6944919.22
+Dharmapur,1.8,2087,3,19,নয়ন সরকার,"৬, পূর্ব দাউদচর, Dharmapur, Cumilla",6508296.05
+Kotbari,2.5,1332,2,11,সৌম্য বিশ্বাস,"৪, পুরাতন বদরগড় মহাসড়ক, Kotbari, Cumilla",6419747.89
+Dharmapur,1.8,2238,4,19,ইমন মজুমদার,"৫৬, দক্ষিণ বোরহানগ্রাম সেন্টার, Dharmapur, Cumilla",7838212.17
+Chawkbazar,2.2,1075,2,23,কাবেরি প্রামানিক,"৮১০, দক্ষিণ সোনাপাড়া, Chawkbazar, Cumilla",4672607.44
+Bagichagaon,3.5,1862,3,14,মোস্তাফিজ বিশ্বাস,"১৩১, মিরচর প্লাজা, Bagichagaon, Cumilla",8422895.1
+Kandirpar,4.0,2003,3,4,কবিতা বিশ্বাস,"২, বটিয়াবাজার, Kandirpar, Cumilla",8942941.34
+Kotbari,2.5,1099,2,15,রাহুল রহমান,"১৮, রায়গ্রাম প্লাজা, Kotbari, Cumilla",4637773.26
+Kotbari,2.5,1748,3,8,শাহজাহান হক,"৩৪৪, সোনামোড়, Kotbari, Cumilla",7354278.08
+Tomsom Bridge,3.0,908,2,23,প্রান্ত যাদব,"৬৭, বিজয়তলা রাস্তা, Tomsom Bridge, Cumilla",4574360.75
+Kandirpar,4.0,1490,2,15,আবু তালুকদার,"৯০, পার্বতীমহাসড়ক, Kandirpar, Cumilla",6160559.04
+Bagichagaon,3.5,2124,3,15,অর্না দাশগুপ্তা,"৫, শাজাহানহাট স্ট্যান্ড, Bagichagaon, Cumilla",8373674.05
+Race Course,3.2,2066,3,15,রায়হান বেগম,"৬৫০, নতুন কালীচর প্লাজা, Race Course, Cumilla",8404299.62
+Dharmapur,1.8,1620,2,7,অর্ক মন্ডল,"৭, জীবননগর চত্বর, Dharmapur, Cumilla",6018289.63
+Kandirpar,4.0,1916,3,1,ইকবাল তালুকদার,"১১, পুরাতন তারাস্ট্যান্ড, Kandirpar, Cumilla",8812839.38
+Tomsom Bridge,3.0,2132,3,24,খুশি পোদ্দার,"৮৯, পুরাতন জগন্নাথনগর, Tomsom Bridge, Cumilla",7970853.7
+Shashongacha,2.0,1483,2,5,শেখর বসু,"৩৫, গৌরগ্রাম সড়ক, Shashongacha, Cumilla",5882282.93
+Dharmapur,1.8,1519,2,20,আশ্বিনী পোদ্দার,"৯৪৬, সদরগ্রাম পার্ক, Dharmapur, Cumilla",6605015.13
+Tomsom Bridge,3.0,1040,2,14,রাহুল শুক্লা,"২, উত্তর সৈয়দসেন্টার, Tomsom Bridge, Cumilla",4852255.46
+Bagichagaon,3.5,1987,3,5,মুশফিক মৃধা,"৫, দাউদপার্ক, Bagichagaon, Cumilla",8870219.09
+Chawkbazar,2.2,800,2,10,চয়ন রহমান,"৪, নাসিরমোড়, Chawkbazar, Cumilla",4712647.96
+Shashongacha,2.0,1834,3,5,রিনা আলম,"৯০৭, কাজীস্ট্যান্ড, Shashongacha, Cumilla",7274834.41
+Police Line,3.1,1336,2,6,প্রিয়াঙ্কা হুরাইরা,"৪, সুবর্ণডাঙ্গা গলি, Police Line, Cumilla",7157693.16
+Shashongacha,2.0,1061,2,12,রাশেদ চৌধুরী,"৩২৮, নড়িয়াগঞ্জ, Shashongacha, Cumilla",4800249.04
+Chawkbazar,2.2,1532,2,11,শান্ত রহমান,"৩৮৭, সৈয়দমাটি, Chawkbazar, Cumilla",5895696.33
+Police Line,3.1,1808,3,7,আশীষ বিশ্বাস,"১, উত্তর বাকেরপাড়া, Police Line, Cumilla",7743522.51
+Kandirpar,4.0,1649,2,19,প্রীতি পাণ্ডে,"৬, পশ্চিম বোরহানচর পাড়া, Kandirpar, Cumilla",7593442.05
+Tomsom Bridge,3.0,1640,2,3,সৌম্য মিত্র,"১, তারাসড়ক, Tomsom Bridge, Cumilla",6732910.16
+Bagichagaon,3.5,2557,4,12,কেয়া তালুকদার,"৪৬৭, সুন্দররোড, Bagichagaon, Cumilla",10647856.02
+Shashongacha,2.0,2067,3,7,আজাদ সিনহা,"১৫৫, পূর্ব নড়িয়াপুর, Shashongacha, Cumilla",8106085.42
+Jhawtala,3.8,1330,2,18,ইজাজ জামান,"১, বটিয়াডাঙ্গা পাড়া, Jhawtala, Cumilla",7047962.86
+Kandirpar,4.0,1211,2,15,বাকের হক,"৬, মধ্য সুন্দরগঞ্জ মোড়, Kandirpar, Cumilla",5606544.67
+Shashongacha,2.0,1737,3,9,মুশফিক প্রামানিক,"২৯, ফটিকস্টেশন, Shashongacha, Cumilla",7010635.67
+Shashongacha,2.0,1463,2,6,আরিয়া সিং,"৫৫৭, পুরাতন মনিরামহাট, Shashongacha, Cumilla",5962635.41
+Race Course,3.2,2052,3,15,লিটন কাদের,"৯, উত্তর করিমস্ট্যান্ড, Race Course, Cumilla",8233438.21
+Kotbari,2.5,1369,2,5,মৃত্যুঞ্জয় সরকার,"৭৭০, নতুন ফুলগ্রাম রোড, Kotbari, Cumilla",5474774.56
+Dharmapur,1.8,1163,2,13,অক্ষয় মজুমদার,"৯, ফুলবাড়ি, Dharmapur, Cumilla",4609807.15
+Race Course,3.2,1240,2,0,একরামুল সরকার,"৮, নতুন বিরামখালি প্লাজা, Race Course, Cumilla",5795247.54
+Bagichagaon,3.5,2227,4,8,মুনতাসির ইসলাম,"৬৯১, পূর্ব পার্বতীএভিনিউ, Bagichagaon, Cumilla",9758658.68
+Dharmapur,1.8,1639,2,24,অদৃতা পোদ্দার,"৬, পুরাতন মাধববাড়ি সেন্টার, Dharmapur, Cumilla",5770950.11
+Race Course,3.2,1856,3,24,আনন্দ আবদুল্লাহ,"৩, পুরাতন বকশীগলি, Race Course, Cumilla",7491614.93
+Chawkbazar,2.2,1980,3,14,প্রীতি বিশ্বাস,"৫৬, উত্তর কাজীচত্বর, Chawkbazar, Cumilla",7973284.67
+Chawkbazar,2.2,2075,3,8,আশালতা সিনহা,"৫৮৮, মানিকহাট, Chawkbazar, Cumilla",7693930.03
+Police Line,3.1,1000,2,24,অর্পিতা চন্দ্র,"৪, সদরপুর প্লাজা, Police Line, Cumilla",4416175.24
+Shashongacha,2.0,2339,4,14,মাধু রাও,"৮০, দক্ষিণ বন্দরপ্লাজা, Shashongacha, Cumilla",8459541.18
+Tomsom Bridge,3.0,1973,3,8,বিনা মোড়ল,"২৮৪, নতুন শাজাহানখালি মহল্লা, Tomsom Bridge, Cumilla",8651972.91
+Shashongacha,2.0,1342,2,12,মোস্তাফিজ বিশ্বাস,"৫৩৭, পুরাতন বাকেরগাঁও গলি, Shashongacha, Cumilla",5474497.05
+Tomsom Bridge,3.0,800,2,15,ইমন সিনহা,"৭৭, মনিরামনগর এভিনিউ, Tomsom Bridge, Cumilla",4387644.95
+Race Course,3.2,1621,2,1,নয়ন ইসলাম,"৯৮, পশ্চিম ফকিরলেন, Race Course, Cumilla",7595498.6
+Jhawtala,3.8,1466,2,6,শুভশ্রী ঘোষ,"৫৩৫, কুতুবরাস্তা, Jhawtala, Cumilla",7673640.46
+Police Line,3.1,1347,2,23,ঋষিতা চৌধুরী,"২২৯, শিবহাট, Police Line, Cumilla",5754087.03
+Kotbari,2.5,1077,2,24,রিনা প্রামানিক,"৯০, কাজীপ্লাজা, Kotbari, Cumilla",3915504.9
+Police Line,3.1,1610,2,22,বৃষ্টি প্রামানিক,"১৯৫, নতুন নাসিরদিয়া, Police Line, Cumilla",7193077.96
+Chawkbazar,2.2,1159,2,22,সজীব হোসাইন,"৪, মাধবডাঙ্গা, Chawkbazar, Cumilla",5456559.37
+Shashongacha,2.0,1324,2,5,মিলন বোস,"৫৯, নতুন বিশ্বনাথবাজার পার্ক, Shashongacha, Cumilla",5466568.09
+Kotbari,2.5,1745,3,1,শাওন হুরাইরা,"৯৯, বাকেরমোড়, Kotbari, Cumilla",8042141.61
+Kotbari,2.5,1689,3,20,বাকের আবদুল্লাহ,"২, দক্ষিণ মধুপাড়া, Kotbari, Cumilla",6199152.16
+Race Course,3.2,1050,2,19,তুষার তালুকদার,"৮, শরণরোড, Race Course, Cumilla",4874315.97
+Dharmapur,1.8,1338,2,17,সাবের বিশ্বাস,"১৬, লালসড়ক, Dharmapur, Cumilla",5079482.69
+Race Course,3.2,1726,3,4,অমল মজুমদার,"৪৪১, মোল্লাঘাট, Race Course, Cumilla",7496896.35
+Dharmapur,1.8,1151,2,4,নাইম জামান,"৫৩৭, মোল্লাস্ট্যান্ড, Dharmapur, Cumilla",4648921.49
+Jhawtala,3.8,1915,3,18,রাশেদ মোড়ল,"৩২৯, উত্তর কুমারস্ট্যান্ড, Jhawtala, Cumilla",9432306.63
+Dharmapur,1.8,1858,3,2,মিলা মজুমদার,"৪১, পূর্ব মনিরামপাড়া, Dharmapur, Cumilla",6621847.96
+Shashongacha,2.0,2498,4,18,নিশিতা খান,"৫২, মানিকরোড, Shashongacha, Cumilla",10115174.39
+Tomsom Bridge,3.0,1535,2,23,কাফি হোসাইন,"৫৪, দেবপার্ক, Tomsom Bridge, Cumilla",7004554.22
+Kotbari,2.5,1349,2,7,জয়ন্ত তালুকদার,"২৪৪, পুরাতন দৌলতগাঁও, Kotbari, Cumilla",5912382.44
+Police Line,3.1,2047,3,1,নিশিতা তালুকদার,"৯, সোনাসেন্টার, Police Line, Cumilla",8541863.53
+Tomsom Bridge,3.0,1822,3,18,রিনা হক,"৭৫০, পশ্চিম বদরসড়ক, Tomsom Bridge, Cumilla",6842920.95
+Kotbari,2.5,1632,2,2,শহিদুল তাবাসসুম,"৮৭৩, হোসেনবাজার, Kotbari, Cumilla",7084102.04
+Police Line,3.1,1823,3,14,নাইম হক,"৬৩, উত্তর সদরস্ট্যান্ড, Police Line, Cumilla",7735239.38
+Police Line,3.1,2048,3,13,মুনতাকিম মোড়ল,"১, বকশীবাড়ি লেন, Police Line, Cumilla",9283951.93
+Race Course,3.2,1382,2,1,সাব্বির মৃধা,"২১১, পূর্ব আলমচর লেন, Race Course, Cumilla",6804927.38
+Police Line,3.1,1956,3,17,মৃত্যুঞ্জয় দাশগুপ্তা,"৮, পশ্চিম মহেশমাটি, Police Line, Cumilla",8317395.7
+Shashongacha,2.0,1643,2,3,সাবের উদ্দিন,"৬৭, নতুন বালিয়াহার প্লাজা, Shashongacha, Cumilla",6735993.18
+Tomsom Bridge,3.0,1802,3,0,আবু মোড়ল,"৮, হরিরামএভিনিউ, Tomsom Bridge, Cumilla",7423402.19
+Police Line,3.1,1417,2,4,বিদ্যা বর্মন,"২৩৩, সুন্দরসড়ক, Police Line, Cumilla",7559349.42
+Police Line,3.1,800,2,5,জনা ঘোষ,"৫, পূর্ব মিরগলি, Police Line, Cumilla",5079897.55
+Chawkbazar,2.2,1699,3,8,লিটন হুরাইরা,"৯৮০, জীবনগড়, Chawkbazar, Cumilla",6300979.95
+Kandirpar,4.0,1602,2,18,নাইম হুরাইরা,"৮৩৯, গোপালসড়ক, Kandirpar, Cumilla",7557393.59
+Bagichagaon,3.5,1624,2,9,শান্ত দাশগুপ্তা,"৫০২, উত্তর সিরাজলেন, Bagichagaon, Cumilla",7538083.14
+Shashongacha,2.0,2084,3,12,বাঁধন আবদুল্লাহ,"৫, জগন্নাথমাটি, Shashongacha, Cumilla",8435179.28
+Race Course,3.2,1490,2,0,প্রীতি দে,"৭১, হাজীপুর পাড়া, Race Course, Cumilla",6210051.47
+Shashongacha,2.0,1564,2,14,তামিম হোসাইন,"৩৯, পুরাতন মনিরামহাট গলি, Shashongacha, Cumilla",5774979.14
+Dharmapur,1.8,1337,2,21,মিথিলা শুক্লা,"৯৪৫, কুতুবপুর মোড়, Dharmapur, Cumilla",5229514.93
+Police Line,3.1,2510,4,22,ইউসুফ প্রামানিক,"৫৮৬, মধ্য মাধবগলি, Police Line, Cumilla",10122179.32
+Kotbari,2.5,1750,3,12,সাব্বির চৌধুরী,"৯, উত্তর মাধবহাট রোড, Kotbari, Cumilla",7833651.04
+Race Course,3.2,2030,3,19,অর্ণব মন্ডল,"৫০, উত্তর মুরাদডাঙ্গা প্লাজা, Race Course, Cumilla",8159255.46
+Tomsom Bridge,3.0,1722,3,14,বিনয় বিশ্বাস,"১৬৮, পূর্ব বাঘারমহল্লা, Tomsom Bridge, Cumilla",7606448.98
+Jhawtala,3.8,1028,2,5,মাধু মোড়ল,"৯৯৮, উত্তর শরণঘাট, Jhawtala, Cumilla",6240793.35
+Jhawtala,3.8,1214,2,12,আরিয়ান চ্যাটার্জি,"১৪, পলাশতলা স্ট্যান্ড, Jhawtala, Cumilla",6429796.23
+Race Course,3.2,1680,3,22,রায়হান তালুকদার,"৭৫৯, মধ্য কুমারপার্ক, Race Course, Cumilla",7028980.87
+Shashongacha,2.0,2442,4,4,বিনয় দে,"৮, হাকিমঘাট, Shashongacha, Cumilla",10410957.94
+Kandirpar,4.0,1658,3,7,প্রীতি চৌধুরী,"৬০, পশ্চিম মানিকহাট মোড়, Kandirpar, Cumilla",7765372.14
+Chawkbazar,2.2,1621,2,7,আশুতোষ সিনহা,"৪১, পূর্ব শাজাহানগ্রাম ঘাট, Chawkbazar, Cumilla",6799370.21
+Race Course,3.2,1016,2,6,আব্বাস হক,"৫৪, পুরাতন মির্জাগাঁও, Race Course, Cumilla",4728854.9
+Kotbari,2.5,1787,3,13,অভি প্রামানিক,"১০, পূর্ব গৌরগ্রাম, Kotbari, Cumilla",6823406.11
+Kotbari,2.5,2353,4,19,প্রান্ত হক,"১, পলাশতলা কর্নার, Kotbari, Cumilla",9463140.25
+Bagichagaon,3.5,1343,2,21,অর্ণব প্রামানিক,"৫৪৮, উত্তর হরিরামগঞ্জ, Bagichagaon, Cumilla",6001080.88
+Kotbari,2.5,1942,3,3,আনিস আবদুল্লাহ,"৫৭, দক্ষিণ করিমচর গলি, Kotbari, Cumilla",8239600.86
+Chawkbazar,2.2,1262,2,20,সুরভি সরকার,"৪৮, জগন্নাথকর্নার, Chawkbazar, Cumilla",4779413.93
+Kandirpar,4.0,947,2,7,আদি মৃধা,"৪৭২, কালিয়াতলা, Kandirpar, Cumilla",5669998.21
+Race Course,3.2,1058,2,16,আশালতা চৌধুরী,"৫, পুরাতন ফুলচত্বর, Race Course, Cumilla",5823809.23
+Tomsom Bridge,3.0,2101,3,12,আনিস জাহান,"৮৮, মধ্য হোসেনস্ট্যান্ড, Tomsom Bridge, Cumilla",8562897.18
+Shashongacha,2.0,912,2,16,ইজাজ জামান,"৮, লালচর এভিনিউ, Shashongacha, Cumilla",3988581.96
+Kotbari,2.5,1399,2,17,মুশফিক জামান,"৪, রানীরাস্তা, Kotbari, Cumilla",5003582.8
+Kotbari,2.5,1897,3,7,ঋষিতা তালুকদার,"৫৮, দৌলতহাট, Kotbari, Cumilla",8155159.15
+Race Course,3.2,1117,2,14,রায়হান কাদের,"৩১৪, পুরাতন চিতলগ্রাম, Race Course, Cumilla",5821803.96
+Race Course,3.2,1844,3,18,ইশিতা বেগম,"২৮৩, শান্তিপুর রোড, Race Course, Cumilla",8146083.71
+Kotbari,2.5,1611,2,23,সাব্বির মৃধা,"১৪৫, লালবাড়ি, Kotbari, Cumilla",4895510.62
+Kotbari,2.5,2144,3,5,প্রীতি পাণ্ডে,"৮৫, পশ্চিম লালহাট সেন্টার, Kotbari, Cumilla",8555391.99
+Police Line,3.1,1690,3,15,শহিদুল জামান,"৪, বাকেরসেন্টার, Police Line, Cumilla",6289322.41
+Kandirpar,4.0,1633,2,22,আবু বেগম,"৩৯, উত্তর কবিরচর, Kandirpar, Cumilla",8186575.04
+Jhawtala,3.8,1986,3,2,দূর্গা মৃধা,"৬, দক্ষিণ মির্জাচত্বর, Jhawtala, Cumilla",9650783.65
+Shashongacha,2.0,1431,2,18,কাবেরি সরকার,"২, রামগাঁও, Shashongacha, Cumilla",4944992.74
+Kotbari,2.5,2095,3,10,বৃষ্টি আলম,"২২, ব্রাহ্মণস্টেশন, Kotbari, Cumilla",8297625.23
+Kandirpar,4.0,2069,3,23,করিম জামান,"১২৬, মধ্য মোল্লাডাঙ্গা, Kandirpar, Cumilla",9494216.78
+Chawkbazar,2.2,2085,3,15,আশ্বিনী দাশগুপ্তা,"১, শাজাহানবাজার, Chawkbazar, Cumilla",8695955.93
+Race Course,3.2,2228,4,24,অলোকা কুমার,"৫৯৬, বিরামগাঁও গলি, Race Course, Cumilla",9253957.39
+Race Course,3.2,1222,2,1,বিদ্যা সাহা,"১৯, দেবগড় মোড়, Race Course, Cumilla",6727853.21
+Jhawtala,3.8,1750,3,15,মিথিলা বিশ্বাস,"১১, নাজিরগলি, Jhawtala, Cumilla",9070375.83
+Jhawtala,3.8,2093,3,1,অশোক রায়,"৭৮২, দক্ষিণ বন্দরবাড়ি, Jhawtala, Cumilla",9781651.9
+Chawkbazar,2.2,1473,2,3,প্রিয় সিনহা,"৩৮৭, পূর্ব হাজীহার, Chawkbazar, Cumilla",6274221.7
+Jhawtala,3.8,2118,3,1,রায়হান মিঞা,"১৬, পূর্ব বালিয়াবাজার, Jhawtala, Cumilla",9522168.46
+Race Course,3.2,1939,3,11,শ্রাবন্তী বিশ্বাস,"৫৪, মিরগঞ্জ, Race Course, Cumilla",8933728.48
+Race Course,3.2,1154,2,23,ইউসুফ সুলতানা,"২৯৩, দক্ষিণ রায়মাটি পাড়া, Race Course, Cumilla",5036054.11
+Bagichagaon,3.5,1735,3,17,আয়ুষ মোড়ল,"৭৯, পূর্ব আনোয়াররাস্তা, Bagichagaon, Cumilla",7845634.36
+Race Course,3.2,1661,3,6,সুরভি পোদ্দার,"৮৯২, পুরাতন সুবর্ণমহাসড়ক, Race Course, Cumilla",6561101.85
+Jhawtala,3.8,1445,2,22,হৈমন্তী মন্ডল,"৪৮, মধ্য ওসমানীপুর, Jhawtala, Cumilla",6323536.85
+Bagichagaon,3.5,2258,4,1,অঞ্জনা আরা,"৮৪, নতুন নাসিরগ্রাম এভিনিউ, Bagichagaon, Cumilla",9511802.47
+Kotbari,2.5,1145,2,21,অন্তরা সেন,"৫৯২, তারামাটি, Kotbari, Cumilla",3901246.84
+Kandirpar,4.0,800,2,23,মুনতাসির আলি,"৯৬, সিরাজখালি রাস্তা, Kandirpar, Cumilla",4453008.96
+Tomsom Bridge,3.0,1519,2,5,অভিষেক ঠাকুর,"৬২৪, উত্তর শিবনগর পার্ক, Tomsom Bridge, Cumilla",5929226.0
+Tomsom Bridge,3.0,2032,3,19,অভি চৌধুরী,"২০, হাজীসড়ক, Tomsom Bridge, Cumilla",8046974.52
+Bagichagaon,3.5,1529,2,21,আশীষ চৌধুরী,"৭৪, অভয়ডাঙ্গা স্টেশন, Bagichagaon, Cumilla",6053833.19
+Jhawtala,3.8,1347,2,19,অনিন্দিতা রায়,"১, মহেশমোড়, Jhawtala, Cumilla",6692935.6
+Tomsom Bridge,3.0,1109,2,18,মিম সুলতানা,"৮০, উত্তর বটিয়াগ্রাম, Tomsom Bridge, Cumilla",5707140.99
+Shashongacha,2.0,2135,3,20,ইমন খান,"৮৪৭, নতুন কাজীবাড়ি প্লাজা, Shashongacha, Cumilla",8569335.52
+Jhawtala,3.8,1564,2,23,বিনা চট্টোপাধ্যায়,"৫৭, শরণপুর, Jhawtala, Cumilla",6485383.84
+Jhawtala,3.8,800,2,22,হৈমন্তী বর্মন,"৭২৬, পশ্চিম বাঘারমাটি, Jhawtala, Cumilla",5252305.92
+Kotbari,2.5,1376,2,13,রহিম হুরাইরা,"৪, শ্যামপার্ক, Kotbari, Cumilla",5727962.75
+Dharmapur,1.8,1597,2,3,রহিম উদ্দিন,"২১, সুন্দরবাড়ি, Dharmapur, Cumilla",6327391.21
+Race Course,3.2,2219,4,19,জনা মৃধা,"৯৫৬, পূর্ব আনোয়ারখালি, Race Course, Cumilla",9493161.59
+Kotbari,2.5,1324,2,6,আরিয়া বসু,"৩৯৭, মধ্য সৈয়দবাজার মোড়, Kotbari, Cumilla",6346859.57
+Kotbari,2.5,1363,2,13,আশালতা চৌধুরী,"৪, পুরাতন সুন্দরএভিনিউ, Kotbari, Cumilla",5934094.17
+Kotbari,2.5,1732,3,7,আয়ুশি কান্ত,"১, মুরাদরাস্তা, Kotbari, Cumilla",7778458.38
+Tomsom Bridge,3.0,1197,2,15,জয়দীপ গঙ্গোপাধ্যায়,"৬, বন্দরমহল্লা, Tomsom Bridge, Cumilla",4409642.09
+Race Course,3.2,1600,2,23,দূর্গা আচার্য্য,"৪, নতুন হাজীপুর, Race Course, Cumilla",6879316.79
+Bagichagaon,3.5,1787,3,12,প্রদ্যুম্ন মন্ডল,"৮, বাকেরহাট, Bagichagaon, Cumilla",7990056.51
+Kandirpar,4.0,2485,4,8,আজাদ হোসাইন,"৯৪৯, পূর্ব তারাবাজার, Kandirpar, Cumilla",10830506.28
+Police Line,3.1,1825,3,20,আয়ুষ দেব,"২, উত্তর চিতলচত্বর, Police Line, Cumilla",7794144.97
+Police Line,3.1,2328,4,22,আজম তাবাসসুম,"২৫৮, হাকিমপার্ক, Police Line, Cumilla",9707904.42
+Shashongacha,2.0,1228,2,17,রাশেদুল হাকিম,"৯, মধ্য গৌরখালি, Shashongacha, Cumilla",4996519.63
+Jhawtala,3.8,2038,3,7,নাইম আলম,"৪, উত্তর মিরখালি এভিনিউ, Jhawtala, Cumilla",10128997.86
+Kandirpar,4.0,1205,2,12,আবু তাবাসসুম,"৫৬২, বন্দরগড় মোড়, Kandirpar, Cumilla",6366001.06
+Dharmapur,1.8,1228,2,24,ঈশানি সেন,"৪, সদরবাড়ি সড়ক, Dharmapur, Cumilla",5000462.81
+Kotbari,2.5,1160,2,6,আশ্বিনী তালুকদার,"৫, করিমগ্রাম, Kotbari, Cumilla",6176588.44
+Chawkbazar,2.2,1768,3,9,বাঁধন সরকার,"৬, বেগমপার্ক, Chawkbazar, Cumilla",6580950.07
+Shashongacha,2.0,1780,3,18,প্রিয়াঙ্কা প্রামানিক,"২০৮, পশ্চিম জগন্নাথচত্বর, Shashongacha, Cumilla",7800146.11
+Dharmapur,1.8,2467,4,21,মিষ্টি হক,"৫৯, পুরাতন চিতলডাঙ্গা, Dharmapur, Cumilla",8927101.1
+Race Course,3.2,1547,2,20,অর্ক মন্ডল,"৫, বিরামএভিনিউ, Race Course, Cumilla",6605991.29
+Shashongacha,2.0,2614,4,21,আরাধ্যা ব্যানার্জি,"৩, নতুন সুন্দরমাটি, Shashongacha, Cumilla",8773695.01
+Jhawtala,3.8,1848,3,11,আশালতা প্রামানিক,"১৭, পশ্চিম পার্বতীপার্ক, Jhawtala, Cumilla",8819646.36
+Jhawtala,3.8,1535,2,16,কাবেরি চ্যাটার্জি,"৫, মধ্য সিরাজতলা সেন্টার, Jhawtala, Cumilla",6938215.15
+Bagichagaon,3.5,2332,4,1,অর্ঘ্য প্রামানিক,"৬৫, রায়হাট, Bagichagaon, Cumilla",9618582.46
+Bagichagaon,3.5,1758,3,0,বৃষ্টি রহমান,"৩৭, বিজয়নগর, Bagichagaon, Cumilla",7821354.56
+Dharmapur,1.8,1364,2,10,সাবের মিঞা,"৮৮, হাকিমচত্বর, Dharmapur, Cumilla",4957840.53
+Kandirpar,4.0,1584,2,14,আনিস সরকার,"১১৩, দক্ষিণ পলাশচর, Kandirpar, Cumilla",7772894.39
+Police Line,3.1,1024,2,1,শ্রাবন্তী আরা,"৭, হাজীগঞ্জ রাস্তা, Police Line, Cumilla",5686725.47
+Jhawtala,3.8,1906,3,19,লতা তাবাসসুম,"৭৭, পুরাতন কুমারখালি, Jhawtala, Cumilla",8512978.84
+Police Line,3.1,1637,2,4,অশোক চৌধুরী,"৩০১, বটিয়ারাস্তা, Police Line, Cumilla",7178672.6
+Race Course,3.2,1242,2,17,আনিস চৌধুরী,"৩৬, নালিতাগলি, Race Course, Cumilla",5377013.31
+Jhawtala,3.8,2212,4,18,মৃত্যুঞ্জয় বিশ্বাস,"২২৮, জীবনপার্ক, Jhawtala, Cumilla",9803455.37
+Dharmapur,1.8,1699,3,6,অর্ক দে,"৭৬, আলমমাটি মহাসড়ক, Dharmapur, Cumilla",6521946.24
+Dharmapur,1.8,2138,3,20,অহনা হোসাইন,"৫৬০, পূর্ব শান্তিচর প্লাজা, Dharmapur, Cumilla",8127025.92
+Dharmapur,1.8,1645,2,12,প্রদীপ বাগচী,"১, সখিলেন, Dharmapur, Cumilla",5278360.48
+Chawkbazar,2.2,2089,3,12,হৈমন্তী মিশ্র,"৪২১, অভয়স্ট্যান্ড, Chawkbazar, Cumilla",6648972.27
+Shashongacha,2.0,1717,3,6,অঞ্জনা বসু,"৯, রানীবাজার চত্বর, Shashongacha, Cumilla",6013968.15
+Kotbari,2.5,1685,3,10,করিম আক্তার,"৪৪, পূর্ব বটিয়াবাড়ি, Kotbari, Cumilla",6770165.09
+Kotbari,2.5,1113,2,0,রহিম মন্ডল,"১৫, জীবনরোড, Kotbari, Cumilla",5864029.53
+Race Course,3.2,2056,3,1,মৃত্যুঞ্জয় তালুকদার,"৪১৪, উত্তর মুরাদখালি, Race Course, Cumilla",8010082.9
+Dharmapur,1.8,3046,5,4,মুনতাসির মজুমদার,"১৭, মহাদেবডাঙ্গা রোড, Dharmapur, Cumilla",11614965.55
+Race Course,3.2,2233,4,8,আকাশ সিং,"৭, রানীগাঁও মোড়, Race Course, Cumilla",9037749.18
+Jhawtala,3.8,1627,2,21,করিম চৌধুরী,"১৯৬, গৌরপ্লাজা, Jhawtala, Cumilla",7507414.71
+Jhawtala,3.8,1695,3,22,মোস্তাফিজ কাদের,"৬, উত্তর মিরগ্রাম ঘাট, Jhawtala, Cumilla",8011397.17
+Tomsom Bridge,3.0,1871,3,1,মিষ্টি সুলতানা,"৩, বাকেরলেন, Tomsom Bridge, Cumilla",8280096.31
+Kandirpar,4.0,1320,2,9,হৈমন্তী সরকার,"৯, চৌদ্দতলা, Kandirpar, Cumilla",7174506.97
+Dharmapur,1.8,1612,2,7,অজয় সরকার,"৮৩, উত্তর ফুলগড় মহল্লা, Dharmapur, Cumilla",6348888.49
+Kotbari,2.5,1614,2,19,নয়ন প্রামানিক,"৪৭, উত্তর কেশবমহল্লা, Kotbari, Cumilla",6898473.1
+Kotbari,2.5,1702,3,7,শেখর কুমার,"২৩৫, উত্তর কালীহাট স্ট্যান্ড, Kotbari, Cumilla",6258280.74
+Shashongacha,2.0,2161,3,23,আজাদ তালুকদার,"৪৯, উত্তর কুমারচর, Shashongacha, Cumilla",8004364.56
+Shashongacha,2.0,1650,3,16,তনয় চৌধুরী,"১৬, নতুন সৈয়দমহাসড়ক, Shashongacha, Cumilla",5913470.3
+Tomsom Bridge,3.0,1864,3,19,প্রীতি মিত্র,"৬১, আনোয়ারগাঁ পার্ক, Tomsom Bridge, Cumilla",7463431.26
+Bagichagaon,3.5,1224,2,2,মাধু সিং,"৯, শ্যামবাজার, Bagichagaon, Cumilla",7124770.58
+Dharmapur,1.8,1148,2,22,রুদ্র হুরাইরা,"৪০, চৌদ্দডাঙ্গা, Dharmapur, Cumilla",5291874.62
+Police Line,3.1,1655,3,16,শাহাবাজ রহমান,"৯৮, পশ্চিম সখিগাঁও, Police Line, Cumilla",7559838.69
+Bagichagaon,3.5,2026,3,17,বাকের মজুমদার,"৩৬৮, উত্তর নালিতাদিয়া, Bagichagaon, Cumilla",8751557.14
+Kandirpar,4.0,1203,2,21,খুশি চৌধুরী,"৯৮, মধ্য হাকিমগড়, Kandirpar, Cumilla",5351526.84
+Chawkbazar,2.2,1730,3,9,প্রদ্যুম্ন বর্মন,"৩, শাজাহানডাঙ্গা, Chawkbazar, Cumilla",6929357.68
+Tomsom Bridge,3.0,1477,2,17,শ্রাবনী মৃধা,"৩৫, নতুন ফটিকচর মোড়, Tomsom Bridge, Cumilla",5896475.99
+Tomsom Bridge,3.0,1282,2,4,বাদল দত্ত,"৯, দক্ষিণ রানীমাটি এভিনিউ, Tomsom Bridge, Cumilla",6070611.42
+Kandirpar,4.0,1515,2,2,কুনাল ব্যানার্জি,"৮, মিরখালি, Kandirpar, Cumilla",8082220.55
+Police Line,3.1,1947,3,14,সাবের হোসাইন,"১৪৬, উত্তর নড়িয়াবাড়ি প্লাজা, Police Line, Cumilla",8043992.8
+Police Line,3.1,800,2,9,অর্ঘ্য সিনহা,"৯, পাইকগাঁ লেন, Police Line, Cumilla",5016402.57
+Race Course,3.2,1414,2,14,শাওন কাদের,"৬, নতুন চিতলপার্ক, Race Course, Cumilla",6029318.64
+Shashongacha,2.0,800,2,0,রহিম মৃধা,"৯, পুরাতন বালিয়াবাজার প্লাজা, Shashongacha, Cumilla",3943175.29
+Chawkbazar,2.2,1999,3,15,লতা বোস,"৫২৪, মধ্য করিমমোড়, Chawkbazar, Cumilla",7941176.2
+Jhawtala,3.8,1351,2,12,রুদ্র হক,"৬৩, নতুন সৈয়দগলি, Jhawtala, Cumilla",6403038.13
+Kotbari,2.5,2037,3,22,মৃনাল শুক্লা,"৭৩, পূর্ব রানীসেন্টার, Kotbari, Cumilla",7963550.43
+Shashongacha,2.0,1627,2,4,প্রিয়তি দেব,"৮৮, উত্তর সৈয়দগাঁ চত্বর, Shashongacha, Cumilla",6522403.21
+Shashongacha,2.0,2172,3,1,শ্রাবন্তী দেব,"৫, নতুন ওসমানীগাঁ স্টেশন, Shashongacha, Cumilla",7995184.24
+Shashongacha,2.0,1870,3,1,শাহাবাজ মৃধা,"৬০২, পশ্চিম ওসমানীহার, Shashongacha, Cumilla",6026416.69
+Kotbari,2.5,1892,3,24,কাফি বিশ্বাস,"৮১৩, দক্ষিণ মনিরামপুর, Kotbari, Cumilla",6741364.97
+Kotbari,2.5,1897,3,11,আরিয়া বাগচী,"৫, পুরাতন মহেশগড়, Kotbari, Cumilla",7439414.87
+Jhawtala,3.8,2006,3,13,রহিম খানম,"৫৫৪, উত্তর সুবর্ণচর, Jhawtala, Cumilla",8775975.49
+Race Course,3.2,800,2,1,ঈশানি মিশ্র,"৭, পুরাতন কমলপুর, Race Course, Cumilla",5462358.1
+Dharmapur,1.8,2467,4,8,ইশতিয়াক মৃধা,"২৬, পূর্ব বকশীগড় এভিনিউ, Dharmapur, Cumilla",9461571.61
+Chawkbazar,2.2,1814,3,17,মুনতাকিম মৃধা,"৬৩, দক্ষিণ বিজয়খালি মহল্লা, Chawkbazar, Cumilla",7022585.14
+Shashongacha,2.0,1777,3,21,আব্বাস আলম,"১, পশ্চিম জগন্নাথলেন, Shashongacha, Cumilla",6113095.36
+Jhawtala,3.8,979,2,18,কুনাল রাও,"৩৫, পুরাতন সদরপাড়া, Jhawtala, Cumilla",6233372.58
+Kandirpar,4.0,973,2,23,এনামুল হোসাইন,"৯৪৬, পলাশতলা, Kandirpar, Cumilla",5053673.86
+Jhawtala,3.8,1355,2,7,অর্পিতা মোড়ল,"৩৮৭, মধ্য মুরাদহার, Jhawtala, Cumilla",7241182.46
+Tomsom Bridge,3.0,1515,2,21,অর্ক মিঞা,"৬৩০, উত্তর মনোহররাস্তা, Tomsom Bridge, Cumilla",6186361.33
+Shashongacha,2.0,1709,3,23,বাসির তালুকদার,"২, পশ্চিম মোহাম্মদবাজার মোড়, Shashongacha, Cumilla",6033859.73
+Kotbari,2.5,2319,4,23,রাসেল আলম,"৭৯৫, গৌরবাড়ি পাড়া, Kotbari, Cumilla",8987190.25
+Jhawtala,3.8,2092,3,20,আয়ুষ বিশ্বাস,"২৬৬, সখিহাট রাস্তা, Jhawtala, Cumilla",9436332.33
+Police Line,3.1,1595,2,15,শুভ মন্ডল,"৭৫, দক্ষিণ বালিয়াহাট স্ট্যান্ড, Police Line, Cumilla",6890844.62
+Race Course,3.2,1125,2,18,ইশতিয়াক মোড়ল,"৯২৮, নতুন ফকিরবাড়ি সেন্টার, Race Course, Cumilla",5625016.13
+Tomsom Bridge,3.0,800,2,11,তুষার দাস,"২০৮, উত্তর সদরখালি স্টেশন, Tomsom Bridge, Cumilla",4663488.92
+Tomsom Bridge,3.0,1099,2,2,সাবের মৃধা,"৯০৮, বালিয়াপুর মোড়, Tomsom Bridge, Cumilla",5160422.11
+Jhawtala,3.8,1862,3,7,ইমতিয়াজ মৃধা,"৫২, পশ্চিম আনোয়ারগাঁ রোড, Jhawtala, Cumilla",7773195.85
+Police Line,3.1,1841,3,10,রিনা ব্যানার্জি,"৩, কালীপাড়া, Police Line, Cumilla",7988361.92
+Police Line,3.1,1909,3,21,শহিদুল আলি,"৮, মানিকচর এভিনিউ, Police Line, Cumilla",8012751.32
+Dharmapur,1.8,1903,3,15,শুভ সাহা,"২৫, বটিয়াগাঁও, Dharmapur, Cumilla",6573364.11
+Dharmapur,1.8,1229,2,20,আসাদ সিনহা,"৫৭৬, জগন্নাথবাড়ি, Dharmapur, Cumilla",4478892.38
+Dharmapur,1.8,1493,2,20,তুষার সিনহা,"৫৩, সুবর্ণচর, Dharmapur, Cumilla",6038652.13
+Police Line,3.1,1647,2,18,প্রিয়াঙ্কা রায়,"৭৬, পূর্ব পাইকবাড়ি গলি, Police Line, Cumilla",6904276.39
+Dharmapur,1.8,1831,3,2,জগদীশ গঙ্গোপাধ্যায়,"৬৭, শাজাহানবাড়ি রাস্তা, Dharmapur, Cumilla",7194860.98
+Jhawtala,3.8,2626,4,24,সুশান্ত তালুকদার,"৬, পলাশমোড়, Jhawtala, Cumilla",10531451.36
+Kotbari,2.5,944,2,14,ইজাজ ইসলাম,"৮০, পশ্চিম বন্দরবাড়ি, Kotbari, Cumilla",3492894.07
+Tomsom Bridge,3.0,810,2,5,কাফি সিনহা,"৮৩২, রানীগাঁও, Tomsom Bridge, Cumilla",5016383.2
+Tomsom Bridge,3.0,1344,2,16,আজম তালুকদার,"২৫৬, কুতুবডাঙ্গা, Tomsom Bridge, Cumilla",6889990.21
+Shashongacha,2.0,1429,2,24,প্রদ্যুম্ন মৃধা,"১০, মির্জাঘাট, Shashongacha, Cumilla",5327320.25
+Kandirpar,4.0,2039,3,24,অভি প্রধান,"২৫৬, রানীনগর, Kandirpar, Cumilla",8536006.38
+Bagichagaon,3.5,1438,2,16,বাদল উদ্দিন,"৭, মধ্য মির্জাডাঙ্গা, Bagichagaon, Cumilla",6873758.44
+Police Line,3.1,1533,2,24,মুনতাকিম মজুমদার,"৫, মুরাদপ্লাজা, Police Line, Cumilla",7158257.72
+Chawkbazar,2.2,800,2,16,শ্রাবন্তী কাদের,"৭৮৭, উত্তর মুরাদমহল্লা, Chawkbazar, Cumilla",4779873.67
+Kotbari,2.5,1379,2,20,শুভ প্রামানিক,"৯১১, আলমডাঙ্গা গলি, Kotbari, Cumilla",5985096.43
+Shashongacha,2.0,1260,2,13,মুনতাকিম মন্ডল,"৫, হাকিমচত্বর, Shashongacha, Cumilla",4640355.13
+Police Line,3.1,1333,2,22,আবু সিনহা,"৬০৭, নতুন তারামহল্লা, Police Line, Cumilla",6192694.84
+Chawkbazar,2.2,1843,3,15,অর্ক বসু,"১, মধ্য বাঘারকর্নার, Chawkbazar, Cumilla",6272503.67
+Kotbari,2.5,2235,4,15,নাইম তাবাসসুম,"৫৫, উত্তর হোসেনলেন, Kotbari, Cumilla",8476541.99
+Police Line,3.1,1457,2,21,মাধুরী মজুমদার,"১, বেগমচত্বর, Police Line, Cumilla",6541846.76
+Shashongacha,2.0,1609,2,13,চঞ্চল আচার্য্য,"৬৯, পূর্ব সৈয়দমহাসড়ক, Shashongacha, Cumilla",5605902.71
+Tomsom Bridge,3.0,2609,4,15,আশ্বিনী মোড়ল,"১২, পুরাতন গোপালস্টেশন, Tomsom Bridge, Cumilla",9956835.18
+Dharmapur,1.8,1204,2,12,মিনা দে,"৬৪১, নতুন রায়গ্রাম, Dharmapur, Cumilla",4402435.29
+Chawkbazar,2.2,1119,2,14,জনা সাহা,"১, পুরাতন কাজীমহাসড়ক, Chawkbazar, Cumilla",4792572.91
+Dharmapur,1.8,1083,2,8,রুদ্র দাস,"৫২, বাজিতএভিনিউ, Dharmapur, Cumilla",4130570.3
+Kotbari,2.5,1454,2,0,শুভশ্রী বিশ্বাস,"৯৮৩, পুরাতন আনোয়ারহাট, Kotbari, Cumilla",5872533.14
+Tomsom Bridge,3.0,1380,2,10,রহিম ইসলাম,"৫, দৌলতকর্নার, Tomsom Bridge, Cumilla",6527261.22
+Tomsom Bridge,3.0,2155,3,10,বৃষ্টি বাগচী,"১৩, উত্তর কবিরবাড়ি, Tomsom Bridge, Cumilla",9215880.67
+Kandirpar,4.0,1915,3,24,বাদল সিনহা,"৬৮৬, দক্ষিণ চৌদ্দলেন, Kandirpar, Cumilla",8434580.66
+Shashongacha,2.0,1993,3,21,বাসির সিনহা,"৮, মনিরামবাড়ি কর্নার, Shashongacha, Cumilla",6330202.82
+Jhawtala,3.8,1140,2,5,প্রিয়া কাদের,"২, হরিরামনগর চত্বর, Jhawtala, Cumilla",6728043.76
+Police Line,3.1,1264,2,24,অভি দেব,"৩, পূর্ব চিতলগ্রাম প্লাজা, Police Line, Cumilla",6095872.99
+Police Line,3.1,1473,2,6,মুনতাসির হুরাইরা,"৭১৪, কালীবাজার কর্নার, Police Line, Cumilla",5918193.98
+Jhawtala,3.8,1667,3,11,অনন্যা প্রধান,"৩, নতুন আনোয়ারনগর, Jhawtala, Cumilla",8933485.53
+Kotbari,2.5,1476,2,0,শাওন রায়,"৯৮, মধ্য দাউদচর, Kotbari, Cumilla",6279114.21
+Bagichagaon,3.5,1959,3,20,নিশিতা চট্টোপাধ্যায়,"৬, ফটিকপুর, Bagichagaon, Cumilla",8402764.41
+Dharmapur,1.8,1640,2,2,মুনতাকিম জাহান,"২৬, বিজয়চত্বর, Dharmapur, Cumilla",6086250.47
+Kotbari,2.5,1773,3,15,নন্দিতা খান,"৬৭৮, মুরাদরাস্তা, Kotbari, Cumilla",7188081.94
+Police Line,3.1,1142,2,16,শহিদুল কাদের,"১, আলিগলি, Police Line, Cumilla",4694676.49
+Kandirpar,4.0,1286,2,13,মিম আরা,"৩, নতুন পাইকহার, Kandirpar, Cumilla",6477840.47
+Jhawtala,3.8,1549,2,17,অভিষেক চৌধুরী,"৫২, জগন্নাথগাঁ ঘাট, Jhawtala, Cumilla",8397077.19
+Kandirpar,4.0,1366,2,16,অদৃতা মিত্র,"৭, নাসিরপার্ক, Kandirpar, Cumilla",6649799.9
+Jhawtala,3.8,1606,2,11,তন্ময় মোড়ল,"৯৪৪, জগন্নাথকর্নার, Jhawtala, Cumilla",8549257.39
+Chawkbazar,2.2,1440,2,17,শেখর দেব,"৫৪২, দক্ষিণ রায়মাটি চত্বর, Chawkbazar, Cumilla",4961277.47
+Police Line,3.1,1292,2,8,নাদিম আওয়াল,"৭৪, শিবগাঁও সেন্টার, Police Line, Cumilla",6383589.32
+Shashongacha,2.0,1320,2,9,অশোক চৌধুরী,"৪১৪, পূর্ব মোহনখালি, Shashongacha, Cumilla",5945147.64
+Chawkbazar,2.2,1290,2,19,মিষ্টি মোড়ল,"৭৮, দক্ষিণ পলাশমহল্লা, Chawkbazar, Cumilla",5734178.91
+Jhawtala,3.8,1264,2,0,খুশি দে,"৯০৪, পূর্ব জীবনমাটি মহল্লা, Jhawtala, Cumilla",7220523.46
+Dharmapur,1.8,1297,2,16,ঋষিতা প্রামানিক,"৯, দক্ষিণ মনিরামগ্রাম, Dharmapur, Cumilla",4823782.59
+Race Course,3.2,1433,2,9,নাদিম কাদের,"৬৫, দক্ষিণ মানিকচর চত্বর, Race Course, Cumilla",5566671.81
+Shashongacha,2.0,2095,3,24,প্রত্যয় হক,"৬২, নতুন ইসলামনগর প্লাজা, Shashongacha, Cumilla",7711217.91
+Shashongacha,2.0,1472,2,4,চঞ্চল সরকার,"৯৩৭, চিতলস্টেশন, Shashongacha, Cumilla",5533679.43
+Bagichagaon,3.5,1491,2,9,বাদল উদ্দিন,"৭০, উজিরদিয়া, Bagichagaon, Cumilla",6145984.89
+Bagichagaon,3.5,1341,2,5,খুশি ইসলাম,"৮৩২, ওসমানীখালি স্টেশন, Bagichagaon, Cumilla",6218237.77
+Shashongacha,2.0,1501,2,5,আলিয়া রহমান,"৩০৩, জীবনপাড়া, Shashongacha, Cumilla",5342309.56
+Tomsom Bridge,3.0,2023,3,6,ইমতিয়াজ রহমান,"৯, পুরাতন কেশবতলা, Tomsom Bridge, Cumilla",9442983.37
+Shashongacha,2.0,1937,3,9,কাফি কাদের,"৫০২, শাজাহানতলা, Shashongacha, Cumilla",7503173.65
+Shashongacha,2.0,1617,2,11,শান্ত ব্যানার্জি,"৬৭, মহেশপুর, Shashongacha, Cumilla",6428313.46
+Police Line,3.1,1436,2,0,রোহিত গঙ্গোপাধ্যায়,"৮৭, কেশবনগর, Police Line, Cumilla",6030374.8
+Kandirpar,4.0,853,2,13,মিলা মজুমদার,"১, রামএভিনিউ, Kandirpar, Cumilla",4494972.07
+Kandirpar,4.0,2193,3,21,বিদ্যা মজুমদার,"৮২৯, পাইকগলি, Kandirpar, Cumilla",9393888.91
+Jhawtala,3.8,1317,2,15,আতাহার আলি,"৪৮, কালিয়াপার্ক, Jhawtala, Cumilla",6925536.36
+Tomsom Bridge,3.0,1492,2,11,বিপাশা বসু,"১০, নতুন সখিরোড, Tomsom Bridge, Cumilla",6327653.58
+Jhawtala,3.8,1024,2,13,প্রান্ত পাণ্ডে,"১৪, বাঘারমহাসড়ক, Jhawtala, Cumilla",5126309.65
+Dharmapur,1.8,2608,4,9,সাব্বির খাতুন,"৪, নতুন ফুলএভিনিউ, Dharmapur, Cumilla",10156040.56
+Chawkbazar,2.2,1808,3,21,আশালতা সরকার,"৭, নতুন বাঘারকর্নার, Chawkbazar, Cumilla",6662290.54
+Bagichagaon,3.5,1923,3,18,নাইম রহমান,"৫, মধ্য কমলগাঁও স্ট্যান্ড, Bagichagaon, Cumilla",7890011.81
+Shashongacha,2.0,2033,3,4,ইশতিয়াক কাদের,"১, বটিয়াগাঁ প্লাজা, Shashongacha, Cumilla",7937770.58
+Tomsom Bridge,3.0,1107,2,10,প্রিয়তি আলম,"৮, দেবীগাঁও সড়ক, Tomsom Bridge, Cumilla",3881748.67
+Shashongacha,2.0,944,2,3,কুনাল তালুকদার,"৫, উত্তর মিরচত্বর, Shashongacha, Cumilla",3833556.01
+Kandirpar,4.0,1458,2,19,আনন্দ গাঙ্গুলি,"৭৮, নতুন মনোহরবাজার মহাসড়ক, Kandirpar, Cumilla",6826067.58
+Shashongacha,2.0,1511,2,18,আসাদ ইসলাম,"২৯, দক্ষিণ বাঘারডাঙ্গা এভিনিউ, Shashongacha, Cumilla",4765059.21
+Jhawtala,3.8,1521,2,21,রাশেদুল ইসলাম,"৯, তারাগাঁ, Jhawtala, Cumilla",7522981.8
+Bagichagaon,3.5,1111,2,13,অক্ষয় গাঙ্গুলি,"২৯, মধ্য শিবতলা, Bagichagaon, Cumilla",6492588.63
+Kandirpar,4.0,1375,2,3,আয়ুশি চট্টোপাধ্যায়,"৪৮৯, পুরাতন ফটিকদিয়া রাস্তা, Kandirpar, Cumilla",7102937.34
+Race Course,3.2,2457,4,23,অভি যাদব,"৬১, আলমগাঁও, Race Course, Cumilla",10410496.85
+Bagichagaon,3.5,1475,2,2,আশালতা মোড়ল,"৫, বালিয়াগাঁও, Bagichagaon, Cumilla",7123804.28
+Shashongacha,2.0,1511,2,18,প্রিয়ম রহমান,"৮৪, নতুন আলমগাঁ, Shashongacha, Cumilla",6092671.28
+Kandirpar,4.0,1975,3,10,অহনা দে,"৫৭২, নালিতাবাজার, Kandirpar, Cumilla",10109600.31
+Police Line,3.1,2304,4,20,চয়ন হুরাইরা,"৮৮, নতুন দেবীবাজার, Police Line, Cumilla",8950161.33
+Tomsom Bridge,3.0,1536,2,10,এনামুল মন্ডল,"৪, আলিপুর, Tomsom Bridge, Cumilla",6939856.93
+Bagichagaon,3.5,2224,4,6,মুনতাকিম আওয়াল,"৩, উত্তর কালিয়াচর মহাসড়ক, Bagichagaon, Cumilla",9936211.33
+Chawkbazar,2.2,1663,3,24,বাসির আলম,"৭০, পশ্চিম জগন্নাথনগর স্টেশন, Chawkbazar, Cumilla",6073752.02
+Kandirpar,4.0,1335,2,24,করিম মোড়ল,"৩৭, পশ্চিম ফটিকপাড়া, Kandirpar, Cumilla",7312508.52
+Dharmapur,1.8,1031,2,16,আজম তালুকদার,"৭৯৪, মিরগ্রাম পাড়া, Dharmapur, Cumilla",3410653.54
+Kandirpar,4.0,1981,3,2,আশ্বিনী রাও,"৯, সুবর্ণলেন, Kandirpar, Cumilla",8927760.78
+Bagichagaon,3.5,1317,2,24,প্রিয়তি চৌধুরী,"৭, পূর্ব কুমারমাটি পার্ক, Bagichagaon, Cumilla",5311032.71
+Bagichagaon,3.5,1243,2,18,প্রিয়তি বসু,"৪৬, শাজাহানগাঁও স্টেশন, Bagichagaon, Cumilla",6028505.87
+Dharmapur,1.8,1962,3,6,আরিয়ান প্রামানিক,"৩৮৫, নাসিরবাজার সড়ক, Dharmapur, Cumilla",6393906.06
+Race Course,3.2,987,2,10,অর্ঘ্য মন্ডল,"৭০, বদরবাজার, Race Course, Cumilla",5407496.59
+Kandirpar,4.0,1317,2,17,প্রিয়া ইসলাম,"৯, দক্ষিণ নাজিরগাঁ মহল্লা, Kandirpar, Cumilla",6181307.37
+Shashongacha,2.0,1105,2,17,রায়হান খান,"৪, ফটিকপুর ঘাট, Shashongacha, Cumilla",4423443.82
+Bagichagaon,3.5,1210,2,22,রাসেল বিশ্বাস,"২, পুরাতন রানীবাড়ি, Bagichagaon, Cumilla",5961010.33
+Police Line,3.1,2146,3,20,প্রিতম পোদ্দার,"৪৩৮, পার্বতীগাঁ, Police Line, Cumilla",8600894.41
+Race Course,3.2,800,2,7,শ্রাবন্তী রহমান,"৫৬, উত্তর কবিরতলা গলি, Race Course, Cumilla",4731095.59
+Kotbari,2.5,1530,2,17,বিদ্যা কুমার,"২, নন্দীগঞ্জ, Kotbari, Cumilla",5195730.95
+Shashongacha,2.0,1597,2,8,একরামুল তাবাসসুম,"২, নতুন শিবরাস্তা, Shashongacha, Cumilla",6039286.93
+Race Course,3.2,1842,3,21,অন্তরা সুলতানা,"৩৭, আলিবাজার, Race Course, Cumilla",7343704.58
+Police Line,3.1,1684,3,1,মোস্তাফিজ বিশ্বাস,"৮৮, বোরহানগাঁ স্ট্যান্ড, Police Line, Cumilla",6979920.34
+Chawkbazar,2.2,1163,2,18,ইকবাল মোড়ল,"৯৯১, দক্ষিণ রায়নগর, Chawkbazar, Cumilla",3899539.71
+Police Line,3.1,1955,3,8,রাজ বিশ্বাস,"১৪৪, দক্ষিণ বটিয়াবাড়ি, Police Line, Cumilla",9318150.36
+Shashongacha,2.0,976,2,7,অর্ঘ্য মিশ্র,"৯৭, দক্ষিণ দাউদচর, Shashongacha, Cumilla",3894777.49
+Race Course,3.2,1498,2,19,ডলি বিশ্বাস,"৬, কেশবসেন্টার, Race Course, Cumilla",6517275.13
+Shashongacha,2.0,1507,2,22,অর্ণব দাশগুপ্তা,"৭, মধ্য বিরামলেন, Shashongacha, Cumilla",5274221.78
+Kandirpar,4.0,1192,2,3,আবির খান,"৫, নন্দীহাট স্টেশন, Kandirpar, Cumilla",6301730.83
+Race Course,3.2,1773,3,3,মিম বেগম,"২৫, পুরাতন হাজীপুর, Race Course, Cumilla",7321411.6
+Kotbari,2.5,1593,2,14,তন্ময় প্রধান,"১, পূর্ব ওসমানীহার, Kotbari, Cumilla",5762837.31
+Jhawtala,3.8,2070,3,3,অর্না খাতুন,"৬৯০, পশ্চিম মহাদেবগঞ্জ, Jhawtala, Cumilla",9528060.94
+Bagichagaon,3.5,1704,3,15,মৃত্যুঞ্জয় সরকার,"৩৪২, উত্তর কেশবপার্ক, Bagichagaon, Cumilla",7682399.0
+Bagichagaon,3.5,2035,3,1,অজয় তালুকদার,"৬৮, রামসেন্টার, Bagichagaon, Cumilla",9378510.98
+Dharmapur,1.8,1930,3,0,সাবের আলি,"৪, ফুলগাঁ সড়ক, Dharmapur, Cumilla",7222392.86
+Dharmapur,1.8,2202,4,7,বাকের তালুকদার,"৭, মোল্লাখালি, Dharmapur, Cumilla",8568931.71
+Jhawtala,3.8,950,2,21,হৈমন্তী সাহা,"৭৭৭, পুরাতন আনোয়ারতলা স্ট্যান্ড, Jhawtala, Cumilla",5687981.79
+Kotbari,2.5,1718,3,17,নাদিম আক্তার,"৫১, দক্ষিণ মোল্লাবাড়ি, Kotbari, Cumilla",7363988.71
+Race Course,3.2,2028,3,13,শাহাবাজ প্রামানিক,"৯০৬, উত্তর ইসলামবাজার রোড, Race Course, Cumilla",9331320.42
+Kotbari,2.5,1516,2,8,অভিষেক মুখার্জি,"৮৬৮, জগন্নাথমাটি সেন্টার, Kotbari, Cumilla",5717530.01
+Chawkbazar,2.2,1740,3,10,নাদিম মন্ডল,"৫৪, ফকিরগ্রাম, Chawkbazar, Cumilla",6396404.32
+Kotbari,2.5,1472,2,10,ইশতিয়াক কাদের,"৮৬, আলমখালি, Kotbari, Cumilla",5830466.79
+Shashongacha,2.0,1441,2,10,আদি সরকার,"৫৩৭, পশ্চিম কমলঘাট, Shashongacha, Cumilla",5227196.77
+Shashongacha,2.0,2101,3,4,আনিস মজুমদার,"৩, পুরাতন মনোহরখালি, Shashongacha, Cumilla",8511880.84
+Race Course,3.2,2055,3,12,শাহজাহান সরকার,"৭০, পূর্ব দৌলতডাঙ্গা, Race Course, Cumilla",8172193.95
+Jhawtala,3.8,1901,3,0,অদৃতা শুক্লা,"৪, পশ্চিম ফুলখালি, Jhawtala, Cumilla",8200449.22
+Kotbari,2.5,1260,2,21,বিনয় দে,"৯৮, পূর্ব রামখালি লেন, Kotbari, Cumilla",4857664.21
+Kotbari,2.5,1876,3,11,কাফি মোড়ল,"১৯, কালীবাড়ি, Kotbari, Cumilla",7414735.5
+Race Course,3.2,873,2,10,শুভশ্রী বোস,"২৭, মানিকতলা ঘাট, Race Course, Cumilla",5678930.38
+Shashongacha,2.0,883,2,19,ঋষিতা মন্ডল,"৭৭৪, পূর্ব ওসমানীএভিনিউ, Shashongacha, Cumilla",4778932.94
+Tomsom Bridge,3.0,1273,2,22,অজিত চৌধুরী,"৫১৫, দক্ষিণ শরণমহল্লা, Tomsom Bridge, Cumilla",5600954.49
+Shashongacha,2.0,2122,3,15,তামিম খান,"৩, করিমবাজার, Shashongacha, Cumilla",8009471.6
+Police Line,3.1,1487,2,3,আরুণি সরকার,"১৪৪, পূর্ব আলমগ্রাম মহল্লা, Police Line, Cumilla",6122033.61
+Race Course,3.2,1290,2,3,প্রিয়া ইসলাম,"২, বন্দরগাঁও কর্নার, Race Course, Cumilla",5343159.81
+Kotbari,2.5,1745,3,4,শাহজাহান মজুমদার,"৬, পশ্চিম রায়প্লাজা, Kotbari, Cumilla",8102430.04
+Dharmapur,1.8,2007,3,14,আশীষ সিনহা,"৩, নড়িয়াগাঁ গলি, Dharmapur, Cumilla",7507006.96
+Chawkbazar,2.2,1663,3,8,রাশেদুল আবদুল্লাহ,"১২৮, দক্ষিণ বিশ্বনাথগ্রাম লেন, Chawkbazar, Cumilla",6541800.29
+Chawkbazar,2.2,1205,2,18,রুদ্র উদ্দিন,"৮৮৩, ব্রাহ্মণমহল্লা, Chawkbazar, Cumilla",4985941.26
+Jhawtala,3.8,1067,2,16,প্রদীপ সিনহা,"১৫, পলাশমাটি, Jhawtala, Cumilla",6062684.35
+Tomsom Bridge,3.0,1332,2,16,শান্ত কুমার,"৪, আলিহার, Tomsom Bridge, Cumilla",6213228.32
+Police Line,3.1,1438,2,13,তনয় হাকিম,"৮৬, পূর্ব ফটিকমাটি পার্ক, Police Line, Cumilla",6658124.02
+Chawkbazar,2.2,1833,3,5,মাধু সিং,"৩৩৩, মধ্য পলাশখালি, Chawkbazar, Cumilla",6758596.14
+Kandirpar,4.0,1597,2,10,তুষার জামান,"৫২২, বন্দরগাঁও, Kandirpar, Cumilla",8480002.92
+Tomsom Bridge,3.0,1882,3,21,রোহিত পাল,"৬৮০, কালিয়াখালি এভিনিউ, Tomsom Bridge, Cumilla",8121443.24
+Police Line,3.1,1108,2,4,ইমন চৌধুরী,"২৭২, নড়িয়াহার, Police Line, Cumilla",5819007.5
+Tomsom Bridge,3.0,1859,3,14,চয়ন চট্টোপাধ্যায়,"৭৭, দৌলতপুর, Tomsom Bridge, Cumilla",8511852.28
+Shashongacha,2.0,1907,3,11,শাহাবাজ প্রামানিক,"৯৩৯, আলিগঞ্জ, Shashongacha, Cumilla",7890681.62
+Tomsom Bridge,3.0,1761,3,19,রাশেদুল উদ্দিন,"৩, হাজীগঞ্জ, Tomsom Bridge, Cumilla",7478437.45
+Dharmapur,1.8,1757,3,2,অর্পিতা কাদের,"২, পূর্ব মোল্লাস্টেশন, Dharmapur, Cumilla",6396916.55
+Police Line,3.1,1618,2,13,ইমন হক,"২৬৮, কেশবগ্রাম, Police Line, Cumilla",6204448.26
+Bagichagaon,3.5,1285,2,22,রায়হান তাবাসসুম,"২, পশ্চিম বাজিতমাটি, Bagichagaon, Cumilla",6746146.3
+Police Line,3.1,1275,2,21,নাদিম আক্তার,"৫৩৩, ব্রাহ্মণগলি, Police Line, Cumilla",6048424.82
+Chawkbazar,2.2,1426,2,17,আমায়া প্রামানিক,"৮, সদরবাড়ি গলি, Chawkbazar, Cumilla",6292448.22
+Dharmapur,1.8,1857,3,24,আশুতোষ মন্ডল,"৪, দক্ষিণ হাজীতলা রাস্তা, Dharmapur, Cumilla",6357352.57
+Kandirpar,4.0,1289,2,17,রাশেদ মজুমদার,"৬১, বিজয়এভিনিউ, Kandirpar, Cumilla",6234509.65
+Kotbari,2.5,1479,2,15,সজীব উদ্দিন,"১, মহেশলেন, Kotbari, Cumilla",5998659.8
+Dharmapur,1.8,1379,2,19,আব্বাস আওয়াল,"১৭, দক্ষিণ আনোয়ারদিয়া, Dharmapur, Cumilla",5170172.28
+Dharmapur,1.8,1986,3,18,করিম উদ্দিন,"৪৯৬, মধ্য মোহনপ্লাজা, Dharmapur, Cumilla",7287436.17
+Tomsom Bridge,3.0,1741,3,22,মৃত্যুঞ্জয় প্রধান,"৯৮৩, বন্দরবাড়ি, Tomsom Bridge, Cumilla",7651293.58
+Kandirpar,4.0,1760,3,23,অর্ঘ্য মজুমদার,"৯০, পশ্চিম বন্দরলেন, Kandirpar, Cumilla",8078140.93
+Dharmapur,1.8,987,2,23,ঋষিতা বোস,"৬১, মধ্য পাইকতলা সেন্টার, Dharmapur, Cumilla",3762478.9
+Chawkbazar,2.2,1742,3,22,বাদল হক,"৩৬, মধ্য কুতুবপাড়া, Chawkbazar, Cumilla",6513874.78
+Race Course,3.2,1956,3,14,মিলন আলি,"৮৮, মোহনপাড়া, Race Course, Cumilla",7908319.59
+Jhawtala,3.8,1674,3,2,অলোকা ঠাকুর,"৩০৯, কেশবগড়, Jhawtala, Cumilla",7545120.9
+Bagichagaon,3.5,2059,3,18,আসাদ চৌধুরী,"৪৫৫, মনোহরদিয়া, Bagichagaon, Cumilla",8990110.46
+Race Course,3.2,907,2,7,অভি বর্মন,"৯৯৭, কালিয়াডাঙ্গা চত্বর, Race Course, Cumilla",4206290.39
+Dharmapur,1.8,1330,2,13,তুষার দাস,"৩, জগন্নাথখালি, Dharmapur, Cumilla",4436557.35
+Jhawtala,3.8,1382,2,13,অশোক ঠাকুর,"৫, পশ্চিম মহাদেবখালি রোড, Jhawtala, Cumilla",6615511.66
+Kotbari,2.5,1597,2,23,অভিষেক কুমার,"৪, পূর্ব বাকেরমোড়, Kotbari, Cumilla",6094198.65
+Jhawtala,3.8,1573,2,12,আরিয়া খান,"৯, পলাশগলি, Jhawtala, Cumilla",7649957.94
+Chawkbazar,2.2,2261,4,2,নিশিতা চৌধুরী,"৪৯, দেবপাড়া, Chawkbazar, Cumilla",9407940.87
+Race Course,3.2,1767,3,21,শুভ চৌধুরী,"৬৩, উত্তর আলিচর, Race Course, Cumilla",7401496.05
+Tomsom Bridge,3.0,1953,3,12,শ্রাবনী সেন,"২, মাধবপার্ক, Tomsom Bridge, Cumilla",8694849.02
+Chawkbazar,2.2,2386,4,23,মিলন মিঞা,"৭২৬, পশ্চিম পাইকস্ট্যান্ড, Chawkbazar, Cumilla",9113894.86
+Chawkbazar,2.2,943,2,6,আনিস মোড়ল,"৪০, পুরাতন দাউদপাড়া, Chawkbazar, Cumilla",5280528.03
+Jhawtala,3.8,1530,2,9,নন্দিতা তালুকদার,"১২, মধ্য কালিয়াচর, Jhawtala, Cumilla",7356467.36
+Kandirpar,4.0,1293,2,13,জনা বিশ্বাস,"৬, মোড়লতলা পাড়া, Kandirpar, Cumilla",6514048.38
+Jhawtala,3.8,1332,2,3,রাশেদুল মৃধা,"৭৯১, মোহাম্মদমাটি ঘাট, Jhawtala, Cumilla",6466133.8
+Kandirpar,4.0,1957,3,24,প্রদীপ শুক্লা,"৮, পশ্চিম সোনারোড, Kandirpar, Cumilla",8776932.47
+Kandirpar,4.0,1168,2,5,আরিয়া তালুকদার,"৮২, মধ্য শরণমাটি রাস্তা, Kandirpar, Cumilla",6476317.52
+Tomsom Bridge,3.0,1293,2,10,চঞ্চল বোস,"৭৬, বালিয়াতলা, Tomsom Bridge, Cumilla",6132562.18
+Kandirpar,4.0,1285,2,19,প্রান্ত হক,"৩৮৬, উত্তর সোনাপাড়া, Kandirpar, Cumilla",6662010.56
+Bagichagaon,3.5,1719,3,8,বিদ্যা বন্দোপাধ্যায়,"৪৮৪, পাইকঘাট, Bagichagaon, Cumilla",7411012.22
+Tomsom Bridge,3.0,1485,2,18,আশা চৌধুরী,"৮, পশ্চিম মোহাম্মদখালি, Tomsom Bridge, Cumilla",5268448.52
+Jhawtala,3.8,1619,2,18,আদি রহমান,"৫১, দক্ষিণ রায়রাস্তা, Jhawtala, Cumilla",7521817.57
+Kotbari,2.5,1440,2,4,আজাদ মন্ডল,"১৫, পূর্ব আলিমোড়, Kotbari, Cumilla",6419904.56
+Dharmapur,1.8,1752,3,2,আব্বাস জাহান,"৯৩, মাধবনগর, Dharmapur, Cumilla",7375182.41
+Chawkbazar,2.2,2018,3,3,অর্না বাগচী,"১৩, উত্তর দৌলততলা রোড, Chawkbazar, Cumilla",8599374.66
+Bagichagaon,3.5,1210,2,5,ঋষিতা সরকার,"৮৬৮, মধ্য চিতলগলি, Bagichagaon, Cumilla",6273298.03
+Bagichagaon,3.5,1674,3,10,রাশেদ সরকার,"৯৪, পাইকডাঙ্গা পাড়া, Bagichagaon, Cumilla",7924940.17
+Race Course,3.2,1002,2,10,মাধুরী মৃধা,"৬, কুমারগঞ্জ কর্নার, Race Course, Cumilla",5156772.41
+Kotbari,2.5,845,2,16,মাধুরী বিশ্বাস,"৫০, পশ্চিম মহেশবাজার, Kotbari, Cumilla",3393777.48
+Shashongacha,2.0,1146,2,20,তামিম হুরাইরা,"৮, বেগমলেন, Shashongacha, Cumilla",4310990.96
+Chawkbazar,2.2,1429,2,21,বিনয় চৌধুরী,"৮, পুরাতন আনোয়ারগাঁ সড়ক, Chawkbazar, Cumilla",6221794.24
+Shashongacha,2.0,1778,3,4,অঞ্জনা আলম,"৯, কমলবাড়ি এভিনিউ, Shashongacha, Cumilla",7160810.13
+Dharmapur,1.8,1088,2,18,ইমতিয়াজ আক্তার,"৭৭, পাইকপাড়া, Dharmapur, Cumilla",3966065.14
+Police Line,3.1,1411,2,17,মৃত্যুঞ্জয় মিশ্র,"৮৩, পশ্চিম মোড়লখালি, Police Line, Cumilla",6444055.42
+Shashongacha,2.0,1594,2,19,কাবেরি প্রামানিক,"৬৮, বদরখালি, Shashongacha, Cumilla",4766980.44
+Kotbari,2.5,2125,3,10,রায়হান মৃধা,"২৮, ফটিকচর, Kotbari, Cumilla",8770129.3
+Kotbari,2.5,1161,2,20,মাধুরী পোদ্দার,"৫, তেরমোড়, Kotbari, Cumilla",4768339.83
+Shashongacha,2.0,1646,2,8,আশ্বিনী মুখার্জি,"৭৭, মধ্য নন্দীডাঙ্গা স্ট্যান্ড, Shashongacha, Cumilla",7337135.42
+Chawkbazar,2.2,901,2,3,চয়ন চৌধুরী,"৫, লালহার স্টেশন, Chawkbazar, Cumilla",4230764.41
+Police Line,3.1,1309,2,13,রিনা ঠাকুর,"৪, শরণনগর, Police Line, Cumilla",6559158.67
+Race Course,3.2,1633,2,10,চয়ন সরকার,"৪, চিতলমাটি এভিনিউ, Race Course, Cumilla",8040369.47
+Dharmapur,1.8,2137,3,17,অভিষেক খান,"৩, সিরাজখালি সেন্টার, Dharmapur, Cumilla",6898672.5
+Kandirpar,4.0,2390,4,4,প্রীতি গাঙ্গুলি,"১৬৭, পূর্ব মানিকতলা, Kandirpar, Cumilla",9557489.58
+Bagichagaon,3.5,960,2,23,সুশান্ত ঘোষ,"৮, পূর্ব পাইকপাড়া, Bagichagaon, Cumilla",5155816.08
+Police Line,3.1,1794,3,9,মিষ্টি সেন,"৪৯৪, পুরাতন বন্দররোড, Police Line, Cumilla",7625449.42
+Chawkbazar,2.2,1550,2,14,ইমতিয়াজ জামান,"৭৮, সখিহাট, Chawkbazar, Cumilla",6639166.27
+Race Course,3.2,1595,2,18,শহিদুল রহমান,"২৩, মুরাদবাড়ি এভিনিউ, Race Course, Cumilla",6953590.29
+Bagichagaon,3.5,2004,3,3,প্রিয় মন্ডল,"৭৩৫, মধ্য রামপুর, Bagichagaon, Cumilla",8391375.8
+Race Course,3.2,1895,3,22,রুদ্র কাদের,"৮, পশ্চিম শাজাহানহাট, Race Course, Cumilla",9117193.1
+Tomsom Bridge,3.0,1066,2,16,প্রিয়াঙ্কা প্রামানিক,"৬৩, নতুন সদরগড়, Tomsom Bridge, Cumilla",5276973.49
+Jhawtala,3.8,1639,2,2,আসাদ মোড়ল,"৩, সদরডাঙ্গা, Jhawtala, Cumilla",8010400.02
+Tomsom Bridge,3.0,1217,2,15,মিনা মন্ডল,"৯১১, দক্ষিণ শ্যামগাঁ, Tomsom Bridge, Cumilla",5922492.37
+Kandirpar,4.0,1588,2,23,রাজ মোড়ল,"১৯৫, দৌলতপাড়া, Kandirpar, Cumilla",6506417.41
+Tomsom Bridge,3.0,2123,3,13,শুভ মিঞা,"৮৬৩, উত্তর নালিতাগলি, Tomsom Bridge, Cumilla",8293444.16
+Kotbari,2.5,1966,3,20,ইজাজ সিনহা,"১৬৫, রায়খালি গলি, Kotbari, Cumilla",8191413.62
+Jhawtala,3.8,941,2,10,রহিম মজুমদার,"১০, দক্ষিণ কাজীখালি, Jhawtala, Cumilla",4791594.57
+Chawkbazar,2.2,1498,2,2,আজাদ হাকিম,"৯২১, বন্দরমহল্লা, Chawkbazar, Cumilla",6836395.31
+Kotbari,2.5,1648,2,20,অলোকা মন্ডল,"৩৬, পশ্চিম বাঘারপুর গলি, Kotbari, Cumilla",5987372.73
+Kandirpar,4.0,1827,3,10,অমল গাঙ্গুলি,"৮, আলমগাঁও, Kandirpar, Cumilla",9058732.5
+Kotbari,2.5,1228,2,4,আশালতা মৃধা,"৬৩৫, দৌলতচর, Kotbari, Cumilla",5406102.33
+Kotbari,2.5,1892,3,8,তামিম তালুকদার,"৪৯, মহাদেবগলি, Kotbari, Cumilla",6913157.94
+Shashongacha,2.0,1571,2,8,সাব্বির তাবাসসুম,"২, পূর্ব লালগাঁও সেন্টার, Shashongacha, Cumilla",5510623.14
+Bagichagaon,3.5,1445,2,23,অভিষেক মৃধা,"৩৬৪, হাকিমহার, Bagichagaon, Cumilla",5827593.65
+Jhawtala,3.8,1174,2,11,ইমন দাশগুপ্তা,"৬৭, উত্তর দাউদদিয়া সেন্টার, Jhawtala, Cumilla",6637792.92
+Chawkbazar,2.2,1308,2,14,ইশিতা সিনহা,"২৮, কাজীহার কর্নার, Chawkbazar, Cumilla",4661951.44
+Bagichagaon,3.5,1982,3,18,আনন্দ চ্যাটার্জি,"৪, পশ্চিম দেবীপাড়া, Bagichagaon, Cumilla",7856539.07
+Tomsom Bridge,3.0,1252,2,13,তনয় মিত্র,"৭২৮, উত্তর নড়িয়াসড়ক, Tomsom Bridge, Cumilla",4610173.92
+Kotbari,2.5,1061,2,13,ঈশানি চৌধুরী,"২৪১, মাধবডাঙ্গা লেন, Kotbari, Cumilla",4567415.22
+Race Course,3.2,821,2,13,রাসেল মৃধা,"৮৪, দক্ষিণ নড়িয়াগ্রাম, Race Course, Cumilla",4554424.0
+Chawkbazar,2.2,1771,3,4,আয়ুশি মজুমদার,"৪, কবিরগাঁ, Chawkbazar, Cumilla",7171882.95
+Tomsom Bridge,3.0,1744,3,20,ডলি উদ্দিন,"৫, মধ্য বন্দরনগর মহল্লা, Tomsom Bridge, Cumilla",8228112.87
+Race Course,3.2,1591,2,7,লতা প্রামানিক,"২০, পশ্চিম মোহনদিয়া সড়ক, Race Course, Cumilla",7351989.68
+Police Line,3.1,1417,2,11,আজম সরকার,"৯৪, মহাদেবপাড়া, Police Line, Cumilla",6895042.05
+Chawkbazar,2.2,1499,2,13,বাকের সিনহা,"৮৩, বিরামনগর ঘাট, Chawkbazar, Cumilla",5465306.1
+Tomsom Bridge,3.0,1565,2,5,এনামুল বিশ্বাস,"৭, দক্ষিণ বকশীচর চত্বর, Tomsom Bridge, Cumilla",6591293.76
+Chawkbazar,2.2,1582,2,21,শ্রাবনী বিশ্বাস,"২, কেশবচর, Chawkbazar, Cumilla",5990951.28
+Dharmapur,1.8,2365,4,19,অন্তরা মোড়ল,"১, পুরাতন ইসলামচর সড়ক, Dharmapur, Cumilla",7911380.45
+Kandirpar,4.0,2107,3,3,মোস্তাফিজ হক,"৭৩, শিবতলা মহল্লা, Kandirpar, Cumilla",9054208.79
+Police Line,3.1,999,2,14,আরিয়া বিশ্বাস,"৫, পশ্চিম আনোয়ারহাট প্লাজা, Police Line, Cumilla",5097199.75
+Dharmapur,1.8,2382,4,3,বিরাট তালুকদার,"৭, মহাদেবচত্বর, Dharmapur, Cumilla",8259605.47
+Bagichagaon,3.5,1304,2,13,আশা বর্মন,"৮৬, পশ্চিম কুতুববাজার, Bagichagaon, Cumilla",6740386.52
+Dharmapur,1.8,835,2,10,আশ্বিনী তালুকদার,"২, বটিয়াপার্ক, Dharmapur, Cumilla",3016565.12
+Chawkbazar,2.2,1553,2,10,কাবেরি দাশগুপ্তা,"৮৫, দক্ষিণ লালএভিনিউ, Chawkbazar, Cumilla",6479051.32
+Tomsom Bridge,3.0,1573,2,4,আবির বিশ্বাস,"৪, পশ্চিম মনোহরচত্বর, Tomsom Bridge, Cumilla",7638072.14
+Dharmapur,1.8,2285,4,15,অলোকা সরকার,"৩৮, মোড়লকর্নার, Dharmapur, Cumilla",7096470.55
+Kotbari,2.5,1376,2,18,আজাদ খানম,"৭১, মধ্য মানিকস্ট্যান্ড, Kotbari, Cumilla",5361232.78
+Shashongacha,2.0,2336,4,18,রায়হান মিঞা,"৩৭, মধ্য বন্দরকর্নার, Shashongacha, Cumilla",8671356.97
+Tomsom Bridge,3.0,1168,2,20,রায়হান আলি,"২২, হাকিমনগর, Tomsom Bridge, Cumilla",5811079.17
+Chawkbazar,2.2,1171,2,8,করিম মজুমদার,"২৪, মনোহরস্টেশন, Chawkbazar, Cumilla",4013351.05
+Chawkbazar,2.2,1954,3,8,মিলন মোড়ল,"২, পুরাতন তেরগড়, Chawkbazar, Cumilla",7613305.32
+Kandirpar,4.0,1397,2,8,আসাদ প্রামানিক,"৪২৮, পশ্চিম ব্রাহ্মণডাঙ্গা, Kandirpar, Cumilla",6975768.13
+Jhawtala,3.8,2094,3,15,মুনতাসির আলি,"৩, উত্তর হাজীচর, Jhawtala, Cumilla",9603868.42
+Shashongacha,2.0,2578,4,15,বিপাশা সাহা,"৫, সৈয়দচত্বর, Shashongacha, Cumilla",9899280.42
+Tomsom Bridge,3.0,1407,2,13,আদি বসু,"৫, অভয়মহাসড়ক, Tomsom Bridge, Cumilla",6044497.42
+Kotbari,2.5,1913,3,23,আশুতোষ বসু,"৮, সুন্দরখালি মোড়, Kotbari, Cumilla",7032361.18
+Tomsom Bridge,3.0,2036,3,3,তনয় আক্তার,"৬০, পশ্চিম রানীগাঁও প্লাজা, Tomsom Bridge, Cumilla",8823100.1
+Race Course,3.2,2235,4,20,কাফি জাহান,"১৮৪, করিমগাঁ লেন, Race Course, Cumilla",9675087.14
+Police Line,3.1,1494,2,13,মাধুরী সাহা,"৭, নালিতারোড, Police Line, Cumilla",6367862.4
+Dharmapur,1.8,1118,2,10,অভি বসু,"৯৮, পূর্ব নালিতাপ্লাজা, Dharmapur, Cumilla",4612286.38
+Race Course,3.2,1499,2,17,অদৃতা সিনহা,"২, উত্তর রায়গাঁ পার্ক, Race Course, Cumilla",6955807.27
+Dharmapur,1.8,1778,3,21,নাদিম আক্তার,"৮৬, নতুন নালিতাতলা, Dharmapur, Cumilla",6503183.03
+Shashongacha,2.0,1908,3,15,কাবেরি দাশগুপ্তা,"৬, বিরামগড় মহাসড়ক, Shashongacha, Cumilla",6582348.98
+Race Course,3.2,1026,2,17,অনন্যা সিনহা,"৯, পুরাতন কেশবগড় কর্নার, Race Course, Cumilla",5307819.09
+Jhawtala,3.8,1260,2,16,অঞ্জনা গাঙ্গুলি,"৬, হোসেনগাঁ রাস্তা, Jhawtala, Cumilla",6229867.04
+Race Course,3.2,1384,2,5,আব্বাস খানম,"২, পশ্চিম কাজীগাঁও, Race Course, Cumilla",6218339.31
+Race Course,3.2,800,2,0,অর্পিতা হুরাইরা,"৭, মধ্য ফকিরগাঁ, Race Course, Cumilla",4574817.73
+Tomsom Bridge,3.0,2089,3,8,আরাধ্যা সাহা,"৫০০, মির্জালেন, Tomsom Bridge, Cumilla",9096764.78
+Tomsom Bridge,3.0,932,2,9,ঈশানি চ্যাটার্জি,"৪৫৭, পূর্ব সোনাবাড়ি ঘাট, Tomsom Bridge, Cumilla",4337538.76
+Jhawtala,3.8,1432,2,18,কবিতা আরা,"২০০, মধ্য রানীবাড়ি এভিনিউ, Jhawtala, Cumilla",6495149.79
+Dharmapur,1.8,1637,2,10,কাবেরি দত্ত,"৭, কেশবখালি, Dharmapur, Cumilla",6429924.19
+Kotbari,2.5,901,2,18,রাসেল চৌধুরী,"১৮৩, চৌদ্দগঞ্জ, Kotbari, Cumilla",3787082.35
+Race Course,3.2,1412,2,6,রাশেদুল মন্ডল,"৭৮০, মোহাম্মদসেন্টার, Race Course, Cumilla",5747186.03
+Kandirpar,4.0,2073,3,24,কবিতা কুমার,"৬২, বটিয়ামহল্লা, Kandirpar, Cumilla",9354194.8
+Tomsom Bridge,3.0,2361,4,4,করিম রহমান,"১৩, ফটিকপুর, Tomsom Bridge, Cumilla",10568555.58
+Tomsom Bridge,3.0,1313,2,22,রাসেল প্রামানিক,"৫০, পশ্চিম শরণগড়, Tomsom Bridge, Cumilla",5588015.11
+Shashongacha,2.0,2343,4,17,কবিতা প্রামানিক,"১, ফকিররাস্তা, Shashongacha, Cumilla",8918463.92
+Dharmapur,1.8,2146,3,1,আরুণি বাগচী,"৭, পাইকবাড়ি, Dharmapur, Cumilla",7489043.81
+Dharmapur,1.8,1585,2,5,আরুণি তালুকদার,"২১, মোল্লাগাঁ মহল্লা, Dharmapur, Cumilla",6492996.53
+Bagichagaon,3.5,1878,3,17,মাধুরী সিনহা,"৮৭, বন্দরগঞ্জ, Bagichagaon, Cumilla",7696508.75
+Kotbari,2.5,1391,2,19,হৈমন্তী মৃধা,"৫, মিরগলি, Kotbari, Cumilla",5835951.73
+Race Course,3.2,1864,3,17,অজয় মৃধা,"৪, শরণবাজার, Race Course, Cumilla",7525182.34
+Kotbari,2.5,1656,3,10,অর্ঘ্য সিং,"৩৭৬, পশ্চিম বিশ্বনাথমোড়, Kotbari, Cumilla",6776265.49
+Jhawtala,3.8,1294,2,14,বিপাশা বসু,"১৭৫, পূর্ব মোহনস্ট্যান্ড, Jhawtala, Cumilla",6062768.33
+Bagichagaon,3.5,800,2,18,ডলি দত্ত,"৪৭৯, বন্দরডাঙ্গা লেন, Bagichagaon, Cumilla",4560771.19
+Shashongacha,2.0,1245,2,10,সজীব আক্তার,"১০, উত্তর রানীঘাট, Shashongacha, Cumilla",4736325.95
+Police Line,3.1,800,2,9,রাজু তালুকদার,"৩৭, পূর্ব মানিকদিয়া রাস্তা, Police Line, Cumilla",5104921.67
+Tomsom Bridge,3.0,2194,3,8,নিশিতা দত্ত,"৮, পুরাতন রামগঞ্জ, Tomsom Bridge, Cumilla",8932652.2
+Tomsom Bridge,3.0,1258,2,10,আশুতোষ মোড়ল,"৪৯৩, শিবসড়ক, Tomsom Bridge, Cumilla",5825714.02
+Police Line,3.1,1718,3,4,আতাহার মিঞা,"৫০৫, পশ্চিম হোসেনস্ট্যান্ড, Police Line, Cumilla",7772806.4
+Kandirpar,4.0,2053,3,1,রাশেদ প্রামানিক,"২৭৫, সুন্দরমহল্লা, Kandirpar, Cumilla",9438153.12
+Bagichagaon,3.5,1206,2,1,রায়হান আলি,"৭, নতুন সদরসেন্টার, Bagichagaon, Cumilla",7127497.7
+Police Line,3.1,1294,2,9,শহিদুল মোড়ল,"৪৯, মানিকহার, Police Line, Cumilla",6092132.71
+Kotbari,2.5,1667,3,21,আদি বাগচী,"৭, বিশ্বনাথপার্ক, Kotbari, Cumilla",6785199.2
+Kandirpar,4.0,1220,2,9,বিপাশা প্রামানিক,"৮৬, দক্ষিণ বদরমোড়, Kandirpar, Cumilla",6725785.38
+Tomsom Bridge,3.0,1363,2,23,মাধুরী ঘোষ,"৬০৬, ওসমানীচত্বর, Tomsom Bridge, Cumilla",6942749.03
+Bagichagaon,3.5,2025,3,10,হৈমন্তী শুক্লা,"৫১, দক্ষিণ শান্তিগাঁও কর্নার, Bagichagaon, Cumilla",8699821.16
+Shashongacha,2.0,1675,3,13,ডলি মজুমদার,"৫৯৯, পশ্চিম মোহনদিয়া পাড়া, Shashongacha, Cumilla",6229651.58
+Bagichagaon,3.5,2094,3,20,কাফি খান,"৮৯৩, মোল্লাহার, Bagichagaon, Cumilla",8764093.56
+Race Course,3.2,1967,3,0,অর্পিতা পোদ্দার,"৬৫৬, শ্যামগাঁও, Race Course, Cumilla",8694002.69
+Race Course,3.2,1697,3,19,অভি কাদের,"৫, মাধবনগর পার্ক, Race Course, Cumilla",7681511.71
+Shashongacha,2.0,1742,3,18,রায়হান প্রামানিক,"৮৭৮, মোহাম্মদগ্রাম, Shashongacha, Cumilla",5754809.71
+Race Course,3.2,1973,3,8,আশা আরা,"৯, শান্তিরাস্তা, Race Course, Cumilla",8332078.99
+Kandirpar,4.0,1413,2,3,বাকের হুরাইরা,"৫, সোনামাটি, Kandirpar, Cumilla",7392151.83
+Tomsom Bridge,3.0,2041,3,13,আরিয়ান সরকার,"৪৬, উত্তর লালঘাট, Tomsom Bridge, Cumilla",9074178.32
+Kandirpar,4.0,1412,2,17,মাধু সিং,"৩১৭, পুরাতন মির্জাচত্বর, Kandirpar, Cumilla",6405997.88
+Kotbari,2.5,1907,3,7,নিশিতা সিনহা,"২২০, বিজয়খালি কর্নার, Kotbari, Cumilla",6736235.97
+Police Line,3.1,1905,3,21,অভি আলম,"২০, নতুন দাউদপুর এভিনিউ, Police Line, Cumilla",7675451.76
+Kotbari,2.5,1738,3,12,অদিতি বিশ্বাস,"১০, দক্ষিণ আলমএভিনিউ, Kotbari, Cumilla",7264939.16
+Police Line,3.1,990,2,15,ঈশানি ঘোষ,"৯, মানিকগ্রাম পার্ক, Police Line, Cumilla",4368044.93
+Kotbari,2.5,1249,2,13,শুভ আক্তার,"৮, নতুন দেববাজার, Kotbari, Cumilla",5037126.12
+Jhawtala,3.8,1646,2,8,অদিতি মিত্র,"১২৩, মোল্লারাস্তা, Jhawtala, Cumilla",7906030.6
+Chawkbazar,2.2,1409,2,9,নাইম সরকার,"৬৪৩, দৌলতহাট মহল্লা, Chawkbazar, Cumilla",5654559.85
+Tomsom Bridge,3.0,2206,4,17,নাইম জামান,"১০৪, রামহাট কর্নার, Tomsom Bridge, Cumilla",8894685.38
+Kotbari,2.5,1776,3,13,তন্ময় ইসলাম,"৯৫৯, উজিরহাট, Kotbari, Cumilla",7138939.02
+Race Course,3.2,1651,3,22,সুরভি দাস,"৫৬, নতুন মোহাম্মদহাট, Race Course, Cumilla",7224249.32
+Chawkbazar,2.2,1997,3,23,মিনা মজুমদার,"৭, নতুন হাজীপুর, Chawkbazar, Cumilla",7195802.82
+Bagichagaon,3.5,2214,4,23,মিনা আক্তার,"৬২, শান্তিগলি, Bagichagaon, Cumilla",8921906.14
+Race Course,3.2,1133,2,8,কাফি রহমান,"১৯, পূর্ব সখিরোড, Race Course, Cumilla",5192120.7
+Bagichagaon,3.5,1951,3,6,আশালতা তালুকদার,"৮, পুরাতন মোড়লগ্রাম পার্ক, Bagichagaon, Cumilla",8558177.16
+Police Line,3.1,1076,2,3,ইশতিয়াক প্রামানিক,"৫৮, সখিবাজার প্লাজা, Police Line, Cumilla",4333753.37
+Shashongacha,2.0,1992,3,7,চয়ন সিং,"৬৩৬, মোল্লাগ্রাম স্ট্যান্ড, Shashongacha, Cumilla",7267644.72
+Jhawtala,3.8,1865,3,9,আরাধ্যা ঠাকুর,"৪৮৩, বিশ্বনাথগঞ্জ, Jhawtala, Cumilla",8210579.64
+Tomsom Bridge,3.0,1366,2,16,বাঁধন মিঞা,"৪১৮, দক্ষিণ বাকেরচত্বর, Tomsom Bridge, Cumilla",6098170.62
+Jhawtala,3.8,1755,3,1,প্রদীপ মিশ্র,"৫৭৩, হাজীখালি পার্ক, Jhawtala, Cumilla",8633785.65
+Tomsom Bridge,3.0,1196,2,24,আজাদ খান,"১০, পুরাতন করিমপার্ক, Tomsom Bridge, Cumilla",5211997.43
+Kandirpar,4.0,2308,4,8,অক্ষয় প্রধান,"৮৪, দক্ষিণ কমলমহাসড়ক, Kandirpar, Cumilla",11209406.99
+Jhawtala,3.8,1446,2,24,রাজ আবদুল্লাহ,"৯, পুরাতন দৌলতপ্লাজা, Jhawtala, Cumilla",6556965.67
+Police Line,3.1,1729,3,12,বাদল মৃধা,"৬৯, মিরচর এভিনিউ, Police Line, Cumilla",7598423.29
+Tomsom Bridge,3.0,1848,3,9,মাধুরী বিশ্বাস,"৭১৬, পূর্ব কুমারবাজার, Tomsom Bridge, Cumilla",7736766.44
+Kandirpar,4.0,1510,2,7,মনোজ সিং,"৬১০, মোল্লাগড় গলি, Kandirpar, Cumilla",8067353.5
+Bagichagaon,3.5,2001,3,24,প্রশান্ত মজুমদার,"৫৭, পুরাতন পলাশগাঁ, Bagichagaon, Cumilla",8588942.84
+Bagichagaon,3.5,1614,2,13,আসাদ ইসলাম,"৮, দেবগাঁ, Bagichagaon, Cumilla",8360518.14
+Kotbari,2.5,2019,3,13,নাদিম মোড়ল,"৮৫৬, বাজিতখালি গলি, Kotbari, Cumilla",8003424.16
+Bagichagaon,3.5,1696,3,0,আবির মজুমদার,"৯৭৯, নতুন জগন্নাথগাঁও স্টেশন, Bagichagaon, Cumilla",8227185.04
+Dharmapur,1.8,2255,4,14,আরুণি আচার্য্য,"৯৭, বিজয়চত্বর, Dharmapur, Cumilla",8421914.32
+Jhawtala,3.8,1392,2,4,নাইম চৌধুরী,"৯৯৫, উত্তর উজিরলেন, Jhawtala, Cumilla",6282683.06
+Shashongacha,2.0,1382,2,5,অদিতি প্রামানিক,"৯৬, মধ্য রায়রাস্তা, Shashongacha, Cumilla",5592910.02
+Police Line,3.1,1095,2,4,আরুণি দত্ত,"৫১, দক্ষিণ মোড়লপ্লাজা, Police Line, Cumilla",5742252.44
+Police Line,3.1,1554,2,11,আলিয়া বর্মন,"৪৩, ব্রাহ্মণতলা, Police Line, Cumilla",7237812.2
+Race Course,3.2,1438,2,10,মিথিলা মৃধা,"৯৩, উত্তর বন্দরহাট, Race Course, Cumilla",5765561.87
+Shashongacha,2.0,1790,3,6,মুশফিক মন্ডল,"২৯৪, পুরাতন বদরপুর পাড়া, Shashongacha, Cumilla",6459168.66
+Jhawtala,3.8,1855,3,14,জয়ন্ত মন্ডল,"১৯৯, নন্দীডাঙ্গা, Jhawtala, Cumilla",9094876.42
+Jhawtala,3.8,1334,2,22,কাফি তালুকদার,"৯৫, দক্ষিণ বন্দরগ্রাম পার্ক, Jhawtala, Cumilla",5819386.78
+Tomsom Bridge,3.0,1047,2,24,রাসেল মৃধা,"৫০, করিমস্টেশন, Tomsom Bridge, Cumilla",4989797.42
+Bagichagaon,3.5,1879,3,10,নন্দিতা আওয়াল,"২২, পুরাতন শরণপাড়া, Bagichagaon, Cumilla",8835271.02
+Kotbari,2.5,2461,4,3,একরামুল মন্ডল,"২১২, দেবীগড় ঘাট, Kotbari, Cumilla",9792333.22
+Jhawtala,3.8,1195,2,18,বিরাট মোড়ল,"৩৪৫, নতুন জগন্নাথকর্নার, Jhawtala, Cumilla",5852860.9
+Kandirpar,4.0,1597,2,16,অঞ্জনা মিত্র,"৮৯, মনিরামগ্রাম কর্নার, Kandirpar, Cumilla",7036780.82
+Race Course,3.2,1821,3,19,দূর্গা সিনহা,"১৪২, উত্তর চৌদ্দখালি স্টেশন, Race Course, Cumilla",7472680.71
+Police Line,3.1,1462,2,18,অঞ্জনা বসু,"৫৭১, অভয়স্ট্যান্ড, Police Line, Cumilla",6873865.06
+Bagichagaon,3.5,800,2,17,চঞ্চল চৌধুরী,"৮, পূর্ব কালীদিয়া প্লাজা, Bagichagaon, Cumilla",4635744.66
+Kandirpar,4.0,1725,3,9,কাফি আবদুল্লাহ,"৫, পশ্চিম হাকিমএভিনিউ, Kandirpar, Cumilla",7864857.24
+Police Line,3.1,1179,2,1,রাজ চৌধুরী,"৮৩৭, পূর্ব বিরামস্ট্যান্ড, Police Line, Cumilla",6262629.95
+Shashongacha,2.0,1605,2,15,প্রিতম ইসলাম,"৪, শরণগ্রাম কর্নার, Shashongacha, Cumilla",5850221.61
+Kandirpar,4.0,1246,2,18,একরামুল জাহান,"১১, পূর্ব হোসেনবাড়ি, Kandirpar, Cumilla",6572293.04
+Chawkbazar,2.2,1023,2,2,অহনা মোড়ল,"৫১৬, পুরাতন গোপালমাটি, Chawkbazar, Cumilla",5625945.27
+Bagichagaon,3.5,1743,3,14,রায়হান বেগম,"৮৩, জগন্নাথডাঙ্গা প্লাজা, Bagichagaon, Cumilla",7604911.75
+Kandirpar,4.0,2309,4,11,আরিয়ান পাল,"৯৮, নতুন রামবাড়ি, Kandirpar, Cumilla",10250786.26
+Tomsom Bridge,3.0,1838,3,14,অদৃতা ঠাকুর,"৯৭, মোহাম্মদগাঁ, Tomsom Bridge, Cumilla",7588868.34
+Kotbari,2.5,1256,2,16,করিম মোড়ল,"৬৯৫, নাসিরগাঁ প্লাজা, Kotbari, Cumilla",5508209.8
+Dharmapur,1.8,1569,2,13,শান্ত দে,"১৮, সৈয়দতলা, Dharmapur, Cumilla",5542570.32
+Police Line,3.1,1815,3,6,রিনা ঠাকুর,"৪৪১, শরণগঞ্জ মহল্লা, Police Line, Cumilla",7332589.79
+Kandirpar,4.0,1101,2,19,আজাদ চৌধুরী,"৩, পশ্চিম বাঘারখালি, Kandirpar, Cumilla",6675686.32
+Kotbari,2.5,2148,3,5,অর্ক সিনহা,"৮, দেবগঞ্জ, Kotbari, Cumilla",8980022.82
+Shashongacha,2.0,1147,2,20,শহিদুল হুরাইরা,"৫৬৫, শান্তিপুর গলি, Shashongacha, Cumilla",4040944.78
+Dharmapur,1.8,1112,2,20,রাজ তালুকদার,"৬৪১, নতুন চৌদ্দদিয়া এভিনিউ, Dharmapur, Cumilla",4441806.22
+Chawkbazar,2.2,1644,2,14,সৌমিক বাগচী,"৭, ফটিকনগর রাস্তা, Chawkbazar, Cumilla",6713561.99
+Dharmapur,1.8,1407,2,23,রিনা দেব,"১৯, দক্ষিণ নাজিররোড, Dharmapur, Cumilla",4753937.2
+Jhawtala,3.8,1243,2,0,আলিয়া আলি,"৫, উত্তর লালবাড়ি রাস্তা, Jhawtala, Cumilla",6404917.99
+Jhawtala,3.8,1922,3,6,মোস্তাফিজ মিঞা,"৫, রানীপুর, Jhawtala, Cumilla",8495415.26
+Kotbari,2.5,2271,4,12,অভি হক,"৮০, দক্ষিণ কালীকর্নার, Kotbari, Cumilla",8691215.33
+Dharmapur,1.8,1485,2,4,দূর্গা মৃধা,"৭, নাসিরলেন, Dharmapur, Cumilla",5629027.65
+Dharmapur,1.8,1845,3,0,আনিস হুরাইরা,"৬৩, মধ্য করিমবাড়ি মহাসড়ক, Dharmapur, Cumilla",7705716.82
+Police Line,3.1,1886,3,21,ইমন মুখার্জি,"৯৫, বটিয়াদিয়া লেন, Police Line, Cumilla",7149660.46
+Shashongacha,2.0,1312,2,16,বিপাশা সরকার,"৪৭, ইসলামগাঁ পার্ক, Shashongacha, Cumilla",5127084.74
+Dharmapur,1.8,1171,2,4,বিরাট চৌধুরী,"৯০, ফুলডাঙ্গা ঘাট, Dharmapur, Cumilla",5257948.85
+Kandirpar,4.0,1281,2,12,আকাশ তালুকদার,"৯৫, মধ্য মোহনগাঁ রাস্তা, Kandirpar, Cumilla",7172782.51
+Kandirpar,4.0,1816,3,19,বিনয় রাও,"৮১৫, পশ্চিম দাউদতলা রোড, Kandirpar, Cumilla",7854861.53
+Police Line,3.1,1577,2,1,শেখর মোড়ল,"৪, নতুন ফুলগাঁ রাস্তা, Police Line, Cumilla",7174471.49
+Dharmapur,1.8,1437,2,4,তনয় বসু,"৯, মাধবতলা, Dharmapur, Cumilla",5329536.23
+Kandirpar,4.0,1404,2,20,বিনা আক্তার,"১৯৪, নতুন মনোহরগাঁও মহল্লা, Kandirpar, Cumilla",6359168.62
+Jhawtala,3.8,1509,2,7,আরিয়া যাদব,"৪, পূর্ব নাজিরগঞ্জ, Jhawtala, Cumilla",7510116.94
+Shashongacha,2.0,2258,4,1,রাশেদ মজুমদার,"৯, মোড়লডাঙ্গা, Shashongacha, Cumilla",8712806.36
+Jhawtala,3.8,1410,2,16,প্রশান্ত সিং,"৫, আলিবাজার রাস্তা, Jhawtala, Cumilla",7958770.92
+Race Course,3.2,1761,3,13,আরিয়ান মজুমদার,"২৪, লালগঞ্জ, Race Course, Cumilla",8859780.43
+Dharmapur,1.8,2343,4,13,অমল মন্ডল,"৩, শিবগাঁ, Dharmapur, Cumilla",8439977.1
+Race Course,3.2,2309,4,4,মৃনাল সরকার,"৫৪৬, জগন্নাথবাজার মোড়, Race Course, Cumilla",9836196.59
+Tomsom Bridge,3.0,1810,3,17,আরাধ্যা রায়,"৫০, নতুন উজিরগাঁ সেন্টার, Tomsom Bridge, Cumilla",7778727.8
+Dharmapur,1.8,905,2,19,লতা সুলতানা,"২, পশ্চিম কুমারবাড়ি মোড়, Dharmapur, Cumilla",3615527.94
+Shashongacha,2.0,1885,3,19,চঞ্চল আক্তার,"৭০৭, মোহাম্মদবাজার, Shashongacha, Cumilla",7229460.98
+Shashongacha,2.0,1816,3,1,মিলা সিং,"৫৮০, লালচর, Shashongacha, Cumilla",7193237.39
+Tomsom Bridge,3.0,971,2,23,প্রান্ত গঙ্গোপাধ্যায়,"৪৭৩, মধ্য নন্দীবাজার, Tomsom Bridge, Cumilla",4211415.88
+Police Line,3.1,1321,2,18,বাঁধন গঙ্গোপাধ্যায়,"১, মধ্য শিবপুর, Police Line, Cumilla",5729840.09
+Kotbari,2.5,1145,2,2,অক্ষয় দেব,"২৪২, মধ্য মিরবাড়ি, Kotbari, Cumilla",5241098.24
+Kandirpar,4.0,2012,3,19,অজিত সিং,"২, পশ্চিম সখিডাঙ্গা, Kandirpar, Cumilla",8826397.02
+Kotbari,2.5,2149,3,17,প্রিয়া সুলতানা,"৪৯, বিজয়ডাঙ্গা রোড, Kotbari, Cumilla",8842677.42
+Bagichagaon,3.5,1779,3,1,হৈমন্তী তালুকদার,"৬৪৬, কেশববাড়ি এভিনিউ, Bagichagaon, Cumilla",8062701.39
+Dharmapur,1.8,2070,3,4,প্রিয় সরকার,"৪৯, দৌলতমহাসড়ক, Dharmapur, Cumilla",8850542.41
+Jhawtala,3.8,1892,3,4,লতা হক,"৮৮২, দক্ষিণ হোসেনগড় এভিনিউ, Jhawtala, Cumilla",9082957.49
+Dharmapur,1.8,2181,3,9,আবির আওয়াল,"১১০, পূর্ব জগন্নাথগ্রাম, Dharmapur, Cumilla",8462570.25
+Jhawtala,3.8,1241,2,24,অদৃতা মিত্র,"৪৩, পুরাতন সোনাগ্রাম, Jhawtala, Cumilla",5633718.11
+Police Line,3.1,1830,3,9,আলিয়া তালুকদার,"৫, উত্তর মির্জামহল্লা, Police Line, Cumilla",7226068.6
+Kotbari,2.5,1669,3,21,প্রিতম বন্দোপাধ্যায়,"৭০, নন্দীনগর, Kotbari, Cumilla",6885891.07
+Tomsom Bridge,3.0,1700,3,14,মাধু মৃধা,"৯২, পুরাতন কুমারমাটি, Tomsom Bridge, Cumilla",7702541.98
+Shashongacha,2.0,1318,2,4,শ্রাবন্তী দাস,"২০, উত্তর দেবগলি, Shashongacha, Cumilla",5368988.99
+Police Line,3.1,1063,2,18,জয়দীপ সিং,"২৯, নতুন বাঘাররাস্তা, Police Line, Cumilla",5147780.33
+Kandirpar,4.0,1138,2,19,আদি তালুকদার,"১৫৫, পশ্চিম বাকেরদিয়া, Kandirpar, Cumilla",6550457.85
+Kandirpar,4.0,1889,3,16,দূর্গা মৃধা,"২, ফটিকগাঁও, Kandirpar, Cumilla",8258327.7
+Dharmapur,1.8,980,2,22,আজাদ মিঞা,"৬৬, বটিয়াদিয়া, Dharmapur, Cumilla",3877033.26
+Kotbari,2.5,875,2,13,আব্বাস হাকিম,"৬৮৭, নাসিরগলি, Kotbari, Cumilla",3993898.86
+Tomsom Bridge,3.0,1999,3,1,কাফি প্রামানিক,"৯৫, মধ্য শান্তিগড় পাড়া, Tomsom Bridge, Cumilla",8764717.24
+Shashongacha,2.0,1182,2,16,বাকের তালুকদার,"৭৭, নতুন নালিতাগঞ্জ, Shashongacha, Cumilla",4672139.78
+Bagichagaon,3.5,1612,2,21,শাহাবাজ মৃধা,"৬৫৪, কুমারমাটি প্লাজা, Bagichagaon, Cumilla",7200692.44
+Chawkbazar,2.2,1771,3,6,শুভ উদ্দিন,"৪, কালীবাজার পার্ক, Chawkbazar, Cumilla",6447420.95
+Kandirpar,4.0,1837,3,14,তুষার তালুকদার,"৫, দক্ষিণ সুন্দরবাড়ি পাড়া, Kandirpar, Cumilla",7931636.75
+Kotbari,2.5,1683,3,6,আরাধ্যা সরকার,"৯৯, নন্দীপুর চত্বর, Kotbari, Cumilla",6820545.53
+Tomsom Bridge,3.0,1034,2,11,আতাহার হক,"৬, পুরাতন বিজয়হার স্ট্যান্ড, Tomsom Bridge, Cumilla",6350326.71
+Race Course,3.2,1967,3,24,প্রত্যয় সিনহা,"২০, দক্ষিণ মুরাদহাট স্টেশন, Race Course, Cumilla",8297679.15
+Dharmapur,1.8,2112,3,21,সজীব আবদুল্লাহ,"৪০, বাঘারচর, Dharmapur, Cumilla",7629524.47
+Race Course,3.2,1406,2,7,বাসির হক,"৫২, দক্ষিণ ইসলামবাড়ি লেন, Race Course, Cumilla",6770458.6
+Kotbari,2.5,2956,5,20,আনন্দ মোড়ল,"৯০০, পশ্চিম রানীবাজার চত্বর, Kotbari, Cumilla",11447844.37
+Race Course,3.2,1510,2,4,প্রদীপ মৃধা,"৫, উত্তর সদরহার সেন্টার, Race Course, Cumilla",7503300.42
+Shashongacha,2.0,2018,3,0,কাফি চৌধুরী,"৩১৭, পূর্ব সৈয়দপুর, Shashongacha, Cumilla",8135769.79
+Tomsom Bridge,3.0,1206,2,18,অর্ক আক্তার,"৫০, ওসমানীগ্রাম, Tomsom Bridge, Cumilla",5639478.39
+Tomsom Bridge,3.0,1708,3,7,বিনা খান,"৬, উত্তর সখিগলি, Tomsom Bridge, Cumilla",7619131.83
+Shashongacha,2.0,1563,2,17,অনিন্দিতা বিশ্বাস,"৯৬, নাসিরগড়, Shashongacha, Cumilla",6442125.18
+Dharmapur,1.8,1564,2,13,ডলি সিনহা,"২৬, কমলমোড়, Dharmapur, Cumilla",5559056.93
+Race Course,3.2,1274,2,11,রোহিত উদ্দিন,"৬৮১, নতুন কুমারহাট পাড়া, Race Course, Cumilla",6232199.29
+Bagichagaon,3.5,1310,2,20,মুনতাসির হোসাইন,"৩, মধুমোড়, Bagichagaon, Cumilla",6369757.85
+Chawkbazar,2.2,1453,2,3,তুষার তালুকদার,"৪৮৬, পূর্ব কালিয়াতলা মোড়, Chawkbazar, Cumilla",4945860.36
+Dharmapur,1.8,1452,2,18,মিষ্টি তাবাসসুম,"৪৮৭, উত্তর মানিকস্ট্যান্ড, Dharmapur, Cumilla",4911537.01
+Tomsom Bridge,3.0,1603,2,20,ইশতিয়াক আবদুল্লাহ,"৬৩৬, পলাশচত্বর, Tomsom Bridge, Cumilla",6688274.77
+Kotbari,2.5,2151,3,6,অভিষেক চ্যাটার্জি,"৭৪, সোনাকর্নার, Kotbari, Cumilla",8078713.25
+Shashongacha,2.0,2346,4,22,অদৃতা পোদ্দার,"৫৭১, উত্তর ইসলামলেন, Shashongacha, Cumilla",9091095.56
+Tomsom Bridge,3.0,1499,2,22,শ্রাবন্তী আক্তার,"২৩০, ফটিকগ্রাম সড়ক, Tomsom Bridge, Cumilla",5680018.15
+Kandirpar,4.0,1615,2,18,অলোকা বসু,"৩, পূর্ব বালিয়াখালি, Kandirpar, Cumilla",7704566.27
+Kotbari,2.5,1236,2,16,ইমন শুক্লা,"৪৩, মধ্য করিমতলা, Kotbari, Cumilla",4617807.75
+Kandirpar,4.0,1170,2,5,আব্বাস হক,"৫৮, পূর্ব সোনাডাঙ্গা গলি, Kandirpar, Cumilla",6708772.69
+Police Line,3.1,1979,3,16,বাসির খান,"৯, কাজীরাস্তা, Police Line, Cumilla",8413654.91
+Chawkbazar,2.2,1521,2,5,অর্ঘ্য মৃধা,"৩৫, করিমমহাসড়ক, Chawkbazar, Cumilla",5228245.24
+Police Line,3.1,1751,3,12,নাইম খান,"৩৭০, উত্তর বিশ্বনাথস্ট্যান্ড, Police Line, Cumilla",7270450.51
+Chawkbazar,2.2,1445,2,2,করিম আবদুল্লাহ,"৭, উত্তর মির্জাহাট লেন, Chawkbazar, Cumilla",5798230.93
+Kandirpar,4.0,1639,2,7,আলিয়া বেগম,"৭৫, পুরাতন অভয়গড়, Kandirpar, Cumilla",7988293.12
+Kandirpar,4.0,1567,2,21,নিশিতা সেন,"৬, পুরাতন অভয়প্লাজা, Kandirpar, Cumilla",7404750.89
+Shashongacha,2.0,2080,3,9,আলিয়া মন্ডল,"৮৫৩, মোহাম্মদমাটি, Shashongacha, Cumilla",8137941.36
+Kotbari,2.5,1716,3,4,মাধু প্রামানিক,"৬৩৩, শিবপ্লাজা, Kotbari, Cumilla",5878281.48
+Kandirpar,4.0,2065,3,13,আসাদ আক্তার,"৮, বাকেরখালি সড়ক, Kandirpar, Cumilla",9627910.6
+Police Line,3.1,1916,3,21,সৌম্য মোড়ল,"৩৬৬, কমলগড়, Police Line, Cumilla",7537244.75
+Chawkbazar,2.2,1977,3,24,মাধুরী মৃধা,"৩২৬, পুরাতন মহাদেবমাটি, Chawkbazar, Cumilla",7364061.92
+Shashongacha,2.0,1386,2,16,নাইম খান,"২, মিরস্টেশন, Shashongacha, Cumilla",4866302.53
+Jhawtala,3.8,2105,3,9,তন্ময় প্রধান,"৩৮, মধ্য তারাহার, Jhawtala, Cumilla",10212539.98
+Bagichagaon,3.5,1976,3,18,আতাহার খান,"৩, পশ্চিম বাঘারনগর, Bagichagaon, Cumilla",8871661.83
+Kandirpar,4.0,1272,2,11,শাহাবাজ তালুকদার,"৮১১, পূর্ব ফকিররাস্তা, Kandirpar, Cumilla",6696332.49
+Police Line,3.1,1488,2,14,আশ্বিনী মজুমদার,"৮৮, পশ্চিম রানীহার স্ট্যান্ড, Police Line, Cumilla",5961257.38
+Dharmapur,1.8,1628,2,20,বাকের কাদের,"৪, নতুন বিজয়হার, Dharmapur, Cumilla",5712034.73
+Kotbari,2.5,2138,3,12,শহিদুল মোড়ল,"২৬, কেশবগঞ্জ স্ট্যান্ড, Kotbari, Cumilla",8574484.37
+Shashongacha,2.0,2382,4,16,প্রদ্যুম্ন বিশ্বাস,"৭৫৪, পশ্চিম জীবনমাটি সড়ক, Shashongacha, Cumilla",9589818.66
+Dharmapur,1.8,1431,2,17,অক্ষয় পাল,"৭৭২, পুরাতন দেবীচর, Dharmapur, Cumilla",5497537.69
+Bagichagaon,3.5,1339,2,2,ইশিতা মোড়ল,"৫৭, পশ্চিম জীবনহাট প্লাজা, Bagichagaon, Cumilla",6427694.9
+Police Line,3.1,2007,3,22,নয়ন রহমান,"৬৮২, জীবনবাড়ি সেন্টার, Police Line, Cumilla",8614765.04
+Kandirpar,4.0,2044,3,14,জনা চৌধুরী,"২৯, মানিকবাড়ি গলি, Kandirpar, Cumilla",9284523.85
+Bagichagaon,3.5,1980,3,7,ইউসুফ হাকিম,"৭২, কালিয়াগঞ্জ রাস্তা, Bagichagaon, Cumilla",9050244.67
+Race Course,3.2,1304,2,12,রায়হান সরকার,"১, পশ্চিম তারাহাট রোড, Race Course, Cumilla",5834605.15
+Race Course,3.2,996,2,14,অভি বসু,"৭৭৬, পূর্ব মোহনগাঁও, Race Course, Cumilla",4063509.53
+Shashongacha,2.0,1216,2,23,অদিতি পাল,"৫, নতুন বিরামপুর, Shashongacha, Cumilla",4947103.67
+Kandirpar,4.0,1843,3,5,মুশফিক আওয়াল,"৬, ফটিকখালি, Kandirpar, Cumilla",8644929.82
+Dharmapur,1.8,1340,2,23,হৈমন্তী প্রধান,"৯, ফুলস্টেশন, Dharmapur, Cumilla",4471868.1
+Jhawtala,3.8,1389,2,12,প্রদ্যুম্ন সিং,"৫০, দক্ষিণ জীবনবাজার চত্বর, Jhawtala, Cumilla",6973317.88
+Kotbari,2.5,1131,2,20,রায়হান কাদের,"৩, উত্তর আলিপার্ক, Kotbari, Cumilla",4987178.81
+Police Line,3.1,2102,3,10,সাবের প্রামানিক,"৭, পুরাতন লালদিয়া স্ট্যান্ড, Police Line, Cumilla",9066119.43
+Police Line,3.1,1503,2,21,জয়দীপ প্রামানিক,"৮৭, মধ্য মাধবচর রোড, Police Line, Cumilla",6863656.76
+Jhawtala,3.8,1480,2,17,প্রশান্ত আচার্য্য,"২, শরণদিয়া, Jhawtala, Cumilla",7496735.59
+Kandirpar,4.0,2109,3,2,অর্ক পোদ্দার,"২৩, পূর্ব হাজীগড়, Kandirpar, Cumilla",10080062.04
+Dharmapur,1.8,1379,2,15,শ্রাবনী কাদের,"৫২, নতুন মির্জাগাঁও, Dharmapur, Cumilla",5570538.14
+Kotbari,2.5,1270,2,19,অলোকা প্রামানিক,"৭, উত্তর দাউদদিয়া এভিনিউ, Kotbari, Cumilla",5664634.13
+Jhawtala,3.8,2519,4,10,শুভশ্রী মোড়ল,"৪, করিমঘাট, Jhawtala, Cumilla",10763702.41
+Dharmapur,1.8,1995,3,21,বাকের হক,"২, পূর্ব ফকিরনগর মহাসড়ক, Dharmapur, Cumilla",6533647.54
+Shashongacha,2.0,1905,3,20,প্রিয়ম বর্মন,"৭৭, পূর্ব গোপালমোড়, Shashongacha, Cumilla",7272736.58
+Chawkbazar,2.2,1283,2,16,তন্ময় কুমার,"৬, কালিয়াহার, Chawkbazar, Cumilla",6285991.78
+Tomsom Bridge,3.0,1569,2,10,অভিষেক সিনহা,"৭০, নতুন হাজীপুর চত্বর, Tomsom Bridge, Cumilla",7643607.94
+Kotbari,2.5,1029,2,2,জনা মজুমদার,"৬৭৪, নড়িয়াগড়, Kotbari, Cumilla",4481470.73
+Kandirpar,4.0,1799,3,19,বৃষ্টি প্রামানিক,"৯৪, সদরদিয়া গলি, Kandirpar, Cumilla",7934304.59
+Tomsom Bridge,3.0,1847,3,17,জয়ন্ত সেন,"৬৪, মিরতলা, Tomsom Bridge, Cumilla",7837811.14
+Chawkbazar,2.2,800,2,23,মৃনাল বাগচী,"৯৮৬, বন্দরগলি, Chawkbazar, Cumilla",3972887.66
+Dharmapur,1.8,1991,3,18,প্রিয় ঘোষ,"৩০০, বদরমাটি পার্ক, Dharmapur, Cumilla",7539953.05
+Dharmapur,1.8,1735,3,16,রাজ মজুমদার,"২৬, নতুন নড়িয়াহাট, Dharmapur, Cumilla",5565047.03
+Bagichagaon,3.5,1894,3,14,আলিয়া মোড়ল,"৯০, মধ্য কাজীখালি, Bagichagaon, Cumilla",8086088.81
+Kotbari,2.5,1629,2,18,সুরভি মিঞা,"৬, মধ্য আনোয়ারসড়ক, Kotbari, Cumilla",6883781.68
+Jhawtala,3.8,1663,3,5,আবির আওয়াল,"৫৩১, দক্ষিণ ইসলামহাট, Jhawtala, Cumilla",7650959.88
+Chawkbazar,2.2,1471,2,12,আজম তালুকদার,"৪৫৬, অভয়তলা, Chawkbazar, Cumilla",5928771.51
+Chawkbazar,2.2,2138,3,6,আশা গঙ্গোপাধ্যায়,"৭১৮, হাকিমগাঁও, Chawkbazar, Cumilla",8875024.38
+Shashongacha,2.0,1656,3,3,শ্রাবন্তী বেগম,"৯, উত্তর বাঘারমোড়, Shashongacha, Cumilla",6375992.25
+Race Course,3.2,2110,3,0,শহিদুল আবদুল্লাহ,"৩৯, নতুন বিজয়নগর, Race Course, Cumilla",8903176.07
+Shashongacha,2.0,2080,3,13,অমল পাণ্ডে,"৯, পুরাতন ফুলএভিনিউ, Shashongacha, Cumilla",7762744.65
+Race Course,3.2,2004,3,12,সুশান্ত চৌধুরী,"৬, আলমগাঁও, Race Course, Cumilla",8414309.07
+Chawkbazar,2.2,1500,2,1,আমায়া বিশ্বাস,"৭৪০, মধ্য নালিতাগ্রাম, Chawkbazar, Cumilla",6069838.63
+Tomsom Bridge,3.0,1558,2,16,ইমতিয়াজ আবদুল্লাহ,"৩০, বাকেরগাঁও, Tomsom Bridge, Cumilla",7412959.86
+Race Course,3.2,1724,3,13,মুনতাসির উদ্দিন,"৮, পূর্ব হাকিমমহাসড়ক, Race Course, Cumilla",7879397.44
+Kotbari,2.5,1406,2,24,আশা সিং,"৭৯৬, তেরস্ট্যান্ড, Kotbari, Cumilla",5763399.72
+Shashongacha,2.0,2001,3,11,লিটন বসু,"২৮০, নন্দীবাড়ি মহল্লা, Shashongacha, Cumilla",7652788.93
+Chawkbazar,2.2,1545,2,3,রহিম মজুমদার,"৪, পশ্চিম পার্বতীগড়, Chawkbazar, Cumilla",5500765.35
+Race Course,3.2,1602,2,6,আব্বাস সিনহা,"৭৮৬, পূর্ব জীবনগঞ্জ, Race Course, Cumilla",7945303.54
+Kandirpar,4.0,1359,2,2,রহিম তালুকদার,"৭৮, মধ্য শিবস্ট্যান্ড, Kandirpar, Cumilla",7093930.84
+Shashongacha,2.0,2092,3,15,মিনা জাহান,"৬, বিশ্বনাথগাঁও, Shashongacha, Cumilla",7910655.93
+Kandirpar,4.0,909,2,19,রায়হান মন্ডল,"৭১৭, পুরাতন শ্যামস্ট্যান্ড, Kandirpar, Cumilla",5162396.04
+Kandirpar,4.0,1399,2,4,বাসির চৌধুরী,"৭৫, পশ্চিম পার্বতীডাঙ্গা, Kandirpar, Cumilla",7418995.62
+Kandirpar,4.0,1133,2,13,ইজাজ সিনহা,"২৭, নতুন চিতলবাড়ি প্লাজা, Kandirpar, Cumilla",5392094.95
+Kandirpar,4.0,1822,3,9,অঞ্জনা সিনহা,"১, সখিনগর সেন্টার, Kandirpar, Cumilla",8037726.09
+Tomsom Bridge,3.0,1235,2,19,মিলা ঘোষ,"৬৭০, হাকিমপাড়া, Tomsom Bridge, Cumilla",5304639.86
+Chawkbazar,2.2,1810,3,17,ইমন প্রামানিক,"৮৭৩, হোসেনডাঙ্গা গলি, Chawkbazar, Cumilla",6619989.94
+Dharmapur,1.8,1690,3,15,চঞ্চল মৃধা,"৭, পূর্ব ইসলামখালি পার্ক, Dharmapur, Cumilla",5966355.44
+Tomsom Bridge,3.0,1400,2,18,তামিম ইসলাম,"৭৮, পূর্ব তারামোড়, Tomsom Bridge, Cumilla",6270037.1
+Jhawtala,3.8,1586,2,12,প্রিতম আক্তার,"১৫, হাজীপুর রোড, Jhawtala, Cumilla",7961256.47
+Jhawtala,3.8,1456,2,4,আজাদ সরকার,"১৩, পুরাতন জগন্নাথহার, Jhawtala, Cumilla",6861757.35
+Jhawtala,3.8,1543,2,20,রাজু কাদের,"৬২, দক্ষিণ পাইকস্ট্যান্ড, Jhawtala, Cumilla",6764674.24
+Tomsom Bridge,3.0,1017,2,12,ইউসুফ সরকার,"১৭৬, পুরাতন শাজাহানগাঁও মহল্লা, Tomsom Bridge, Cumilla",3999943.41
+Kandirpar,4.0,1291,2,5,বাঁধন দাস,"২২, দক্ষিণ নড়িয়ারাস্তা, Kandirpar, Cumilla",7027745.54
+Dharmapur,1.8,1924,3,7,রিনা মজুমদার,"৩৭৫, নতুন বিরামনগর, Dharmapur, Cumilla",7718610.6
+Shashongacha,2.0,1518,2,7,ঈশানি দেব,"৯৬, পূর্ব কেশবপার্ক, Shashongacha, Cumilla",5945245.42
+Kandirpar,4.0,1458,2,11,খুশি সরকার,"২৬৯, নতুন বাজিতনগর পাড়া, Kandirpar, Cumilla",7412904.69
+Shashongacha,2.0,1468,2,12,অর্পিতা গাঙ্গুলি,"২২, উত্তর তেরপাড়া, Shashongacha, Cumilla",5627775.4
+Tomsom Bridge,3.0,1994,3,12,সুরভি পাল,"৬৫২, দেবকর্নার, Tomsom Bridge, Cumilla",8926148.75
+Dharmapur,1.8,2346,4,5,জনা তালুকদার,"৭৬৬, মোল্লাগ্রাম রাস্তা, Dharmapur, Cumilla",8863801.81
+Police Line,3.1,1283,2,11,মুনতাকিম উদ্দিন,"৯৭২, বাঘারগাঁও এভিনিউ, Police Line, Cumilla",5532109.47
+Dharmapur,1.8,1485,2,8,খুশি সুলতানা,"৫, হাজীবাজার স্টেশন, Dharmapur, Cumilla",5019720.27
+Race Course,3.2,1922,3,21,তনয় মিশ্র,"৬৭২, পুরাতন জগন্নাথরাস্তা, Race Course, Cumilla",8093744.1
+Race Course,3.2,1929,3,16,সাব্বির কাদের,"৬, কেশবস্ট্যান্ড, Race Course, Cumilla",8473378.1
+Bagichagaon,3.5,1232,2,0,আদি কাদের,"১৯, মির্জাপুর মহাসড়ক, Bagichagaon, Cumilla",6438564.72
+Dharmapur,1.8,1452,2,19,আলিয়া মৃধা,"৮৪৫, পশ্চিম কালিয়াগলি, Dharmapur, Cumilla",5925088.04
+Kotbari,2.5,1829,3,5,অভিষেক মন্ডল,"৮৫৬, রামকর্নার, Kotbari, Cumilla",7841702.84
+Kandirpar,4.0,1071,2,16,আব্বাস মৃধা,"৮১, পূর্ব মোহনরাস্তা, Kandirpar, Cumilla",6576952.02
+Dharmapur,1.8,1191,2,19,ঈশানি মন্ডল,"৩৯, পশ্চিম ফটিকহাট পাড়া, Dharmapur, Cumilla",4335405.94
+Dharmapur,1.8,1691,3,14,কাফি মোড়ল,"৭৩, ব্রাহ্মণমাটি, Dharmapur, Cumilla",6531527.34
+Race Course,3.2,2155,3,19,মিলন মৃধা,"৭, মোল্লাগঞ্জ, Race Course, Cumilla",8151120.98
+Jhawtala,3.8,1351,2,12,লিটন খান,"১০৭, পশ্চিম ফকিরহার, Jhawtala, Cumilla",7215513.61
+Jhawtala,3.8,1542,2,9,শুভ হক,"৮৪৫, মধ্য অভয়নগর, Jhawtala, Cumilla",7113938.97
+Bagichagaon,3.5,1505,2,9,মুশফিক খানম,"৩, উত্তর সিরাজনগর, Bagichagaon, Cumilla",7420956.61
+Race Course,3.2,1172,2,15,ইজাজ সরকার,"১, বটিয়াবাড়ি ঘাট, Race Course, Cumilla",5986017.47
+Dharmapur,1.8,2012,3,1,কাফি বেগম,"৭৯১, বদরহার স্ট্যান্ড, Dharmapur, Cumilla",7601016.03
+Tomsom Bridge,3.0,1702,3,16,একরামুল বিশ্বাস,"৮২৮, মধ্য বটিয়াহার প্লাজা, Tomsom Bridge, Cumilla",7624885.23
+Shashongacha,2.0,1817,3,11,প্রিয় মন্ডল,"৬১, বদরখালি রাস্তা, Shashongacha, Cumilla",7460530.16
+Chawkbazar,2.2,1285,2,0,লতা মজুমদার,"৮, মুরাদদিয়া কর্নার, Chawkbazar, Cumilla",5482064.03
+Police Line,3.1,2003,3,10,প্রীতি সরকার,"৭, জগন্নাথখালি, Police Line, Cumilla",8783910.13
+Kotbari,2.5,1474,2,12,আসাদ মোড়ল,"৪৫৫, দক্ষিণ আনোয়ারবাজার স্টেশন, Kotbari, Cumilla",5937894.16
+Jhawtala,3.8,1725,3,22,খুশি দাশগুপ্তা,"৩, মির্জাচত্বর, Jhawtala, Cumilla",7785711.51
+Kandirpar,4.0,1368,2,23,মুনতাসির জামান,"৮, উত্তর আলমহার, Kandirpar, Cumilla",7523087.39
+Kotbari,2.5,1735,3,14,মিম ব্যানার্জি,"৯০০, শিবগ্রাম লেন, Kotbari, Cumilla",6680782.98
+Chawkbazar,2.2,858,2,22,ইউসুফ মৃধা,"৩১, দক্ষিণ শিবলেন, Chawkbazar, Cumilla",3191046.53
+Jhawtala,3.8,1940,3,17,প্রিয়ম তালুকদার,"৩২৩, দক্ষিণ চৌদ্দগঞ্জ গলি, Jhawtala, Cumilla",8518249.77
+Dharmapur,1.8,993,2,15,নাইম আরা,"৬, মোড়লখালি স্টেশন, Dharmapur, Cumilla",3531311.31
+Shashongacha,2.0,1700,3,14,আনিস বিশ্বাস,"৮৬৯, নতুন মোড়লমহল্লা, Shashongacha, Cumilla",6498727.78
+Bagichagaon,3.5,1498,2,6,রুদ্র হক,"৬৩, হোসেনগাঁ, Bagichagaon, Cumilla",6934087.31
+Race Course,3.2,1990,3,21,আরুণি সেন,"৮৫, বাজিতমাটি মোড়, Race Course, Cumilla",8769957.82
+Kandirpar,4.0,1541,2,1,মোস্তাফিজ ইসলাম,"৩৫, সুবর্ণহার, Kandirpar, Cumilla",7872140.06
+Kotbari,2.5,1728,3,2,অভিষেক মন্ডল,"৬৯, মিরমহল্লা, Kotbari, Cumilla",6762646.81
+Kandirpar,4.0,1232,2,19,কাফি আওয়াল,"৮৬১, রামনগর, Kandirpar, Cumilla",5869011.4
+Chawkbazar,2.2,1673,3,9,আবু রহমান,"১, রানীপার্ক, Chawkbazar, Cumilla",7177075.97
+Race Course,3.2,1514,2,18,ইকবাল তাবাসসুম,"৭৫, কেশবপাড়া, Race Course, Cumilla",5816788.04
+Shashongacha,2.0,1204,2,24,তামিম মিঞা,"২৫১, মধ্য বকশীরাস্তা, Shashongacha, Cumilla",5036629.72
+Chawkbazar,2.2,1662,3,8,প্রিয়া জামান,"৫, ইসলামসড়ক, Chawkbazar, Cumilla",6320800.45
+Shashongacha,2.0,2074,3,9,অজিত চট্টোপাধ্যায়,"১৩৬, শান্তিপ্লাজা, Shashongacha, Cumilla",8048096.95
+Chawkbazar,2.2,1970,3,17,আয়ুষ মজুমদার,"৫৬, লালঘাট, Chawkbazar, Cumilla",7103767.42
+Jhawtala,3.8,1181,2,16,আব্বাস আলি,"৭৭, উত্তর হাকিমহাট, Jhawtala, Cumilla",5755838.76
+Chawkbazar,2.2,1382,2,2,সুরভি আলম,"৭২, পশ্চিম রানীমাটি কর্নার, Chawkbazar, Cumilla",5498714.29
+Kandirpar,4.0,943,2,14,প্রত্যয় মোড়ল,"৮১, নতুন মনোহরহার সড়ক, Kandirpar, Cumilla",6341205.54
+Kandirpar,4.0,1295,2,20,শ্রাবন্তী মোড়ল,"৪১, উত্তর সখিপুর, Kandirpar, Cumilla",6854578.89
+Chawkbazar,2.2,1859,3,23,রাশেদ প্রামানিক,"৬, উত্তর মোহনগাঁও, Chawkbazar, Cumilla",6852895.91
+Shashongacha,2.0,1909,3,18,একরামুল চৌধুরী,"১৫১, পশ্চিম কালীচত্বর, Shashongacha, Cumilla",7402720.6
+Jhawtala,3.8,1878,3,10,আনিস মজুমদার,"৫৩৬, বিজয়স্টেশন, Jhawtala, Cumilla",8549254.53
+Chawkbazar,2.2,1823,3,2,কাবেরি ঘোষ,"২, পুরাতন বদরস্টেশন, Chawkbazar, Cumilla",6547654.37
+Police Line,3.1,1301,2,19,একরামুল জাহান,"৭, নাসিরচত্বর, Police Line, Cumilla",5575288.06
+Kandirpar,4.0,1577,2,16,অনিন্দিতা চন্দ্র,"১৫৭, পশ্চিম বদরবাজার লেন, Kandirpar, Cumilla",7440984.79
+Kandirpar,4.0,2581,4,6,ইকবাল বিশ্বাস,"২, পশ্চিম বটিয়াগাঁও চত্বর, Kandirpar, Cumilla",11935787.8
+Police Line,3.1,1880,3,22,আদি মোড়ল,"৬৪, উত্তর বাজিতবাজার সেন্টার, Police Line, Cumilla",7683631.63
+Race Course,3.2,1507,2,7,ডলি শুক্লা,"২, হরিরামডাঙ্গা কর্নার, Race Course, Cumilla",7171453.95
+Dharmapur,1.8,1727,3,11,সাব্বির চৌধুরী,"৮৭০, উত্তর ইসলামরোড, Dharmapur, Cumilla",6333211.92
+Shashongacha,2.0,1467,2,0,একরামুল মৃধা,"৬৫৫, দক্ষিণ ব্রাহ্মণস্টেশন, Shashongacha, Cumilla",6675325.02
+Tomsom Bridge,3.0,2194,3,5,ইকবাল মজুমদার,"১৬২, উত্তর বদরগাঁ চত্বর, Tomsom Bridge, Cumilla",9812896.21
+Kandirpar,4.0,2295,4,9,বিনয় ঠাকুর,"৭৩৬, দক্ষিণ দেবীগ্রাম মোড়, Kandirpar, Cumilla",9484256.91
+Police Line,3.1,1683,3,13,হৈমন্তী মিশ্র,"৬৬, তারারোড, Police Line, Cumilla",7168553.59
+Dharmapur,1.8,964,2,2,প্রিয়তি হাকিম,"৯৩৩, বন্দরসেন্টার, Dharmapur, Cumilla",3713795.37
+Jhawtala,3.8,1250,2,9,আতাহার মন্ডল,"৭২, দক্ষিণ নাসিরপুর, Jhawtala, Cumilla",6376749.28
+Bagichagaon,3.5,2090,3,8,মৃত্যুঞ্জয় বন্দোপাধ্যায়,"৮, করিমতলা, Bagichagaon, Cumilla",10121784.3
+Dharmapur,1.8,1698,3,22,মিম প্রামানিক,"৮৫, নতুন দেবীপ্লাজা, Dharmapur, Cumilla",5671315.68
+Kotbari,2.5,1530,2,20,অভিষেক রহমান,"১, মোহাম্মদবাজার, Kotbari, Cumilla",6585698.74
+Race Course,3.2,1812,3,5,ঈশানি মন্ডল,"৪, আলমগাঁও পাড়া, Race Course, Cumilla",8009244.78
+Kotbari,2.5,1244,2,3,ইশিতা খাতুন,"৩, দৌলতপুর চত্বর, Kotbari, Cumilla",5621993.97
+Bagichagaon,3.5,2006,3,4,ইমতিয়াজ সিনহা,"৩১, মাধবরোড, Bagichagaon, Cumilla",10036967.76
+Race Course,3.2,1667,3,7,আয়ুষ সরকার,"১, পুরাতন মির্জানগর, Race Course, Cumilla",6895448.27
+Kotbari,2.5,1480,2,24,কবিতা দাশগুপ্তা,"৩৬, হরিরামএভিনিউ, Kotbari, Cumilla",5830686.41
+Race Course,3.2,1820,3,23,প্রান্ত তালুকদার,"৮৪৬, মাধবপার্ক, Race Course, Cumilla",8053639.16
+Bagichagaon,3.5,1154,2,2,কেয়া পাণ্ডে,"২, উত্তর চৌদ্দপুর, Bagichagaon, Cumilla",6573563.79
+Shashongacha,2.0,2561,4,8,আনন্দ প্রামানিক,"৪, দক্ষিণ মনোহরএভিনিউ, Shashongacha, Cumilla",10475896.07
+Tomsom Bridge,3.0,2015,3,11,সুশান্ত সরকার,"২, পূর্ব নালিতাপুর, Tomsom Bridge, Cumilla",8501683.9
+Race Course,3.2,1762,3,22,আবির মৃধা,"৫, মহেশগাঁও রাস্তা, Race Course, Cumilla",7754601.48
+Chawkbazar,2.2,1354,2,4,শাহজাহান খাতুন,"১, পশ্চিম মনোহরপার্ক, Chawkbazar, Cumilla",5129225.51
+Police Line,3.1,879,2,13,ইশিতা মিত্র,"৫, বকশীবাড়ি, Police Line, Cumilla",4610426.43
+Chawkbazar,2.2,2022,3,7,আকাশ দে,"৩, দক্ষিণ উজিরনগর, Chawkbazar, Cumilla",8000683.62
+Jhawtala,3.8,2397,4,17,অভি হোসাইন,"৩৭১, মধ্য বন্দরবাড়ি, Jhawtala, Cumilla",10820964.8
+Jhawtala,3.8,1527,2,12,আবির রহমান,"১, উত্তর দৌলতগঞ্জ সেন্টার, Jhawtala, Cumilla",7663613.44
+Jhawtala,3.8,2131,3,1,ইকবাল আরা,"৫৬০, পূর্ব ইসলামগঞ্জ, Jhawtala, Cumilla",9040456.95
+Kotbari,2.5,1309,2,6,নাদিম তালুকদার,"৭, শিবগলি, Kotbari, Cumilla",5865445.61
+Kandirpar,4.0,1831,3,18,অদৃতা সিনহা,"৮৮, শিবগঞ্জ, Kandirpar, Cumilla",8711000.69
+Shashongacha,2.0,2187,3,18,রাশেদ মন্ডল,"৯০, পূর্ব বোরহানডাঙ্গা সড়ক, Shashongacha, Cumilla",8191237.23
+Tomsom Bridge,3.0,1525,2,15,অহনা মোড়ল,"২৬৯, বেগমচত্বর, Tomsom Bridge, Cumilla",6662930.39
+Dharmapur,1.8,800,2,11,শাহজাহান কাদের,"১, বোরহানপার্ক, Dharmapur, Cumilla",3076731.76
+Bagichagaon,3.5,1513,2,15,মুশফিক জামান,"৬, পুরাতন নালিতাচর গলি, Bagichagaon, Cumilla",6694641.68
+Shashongacha,2.0,1697,3,4,চঞ্চল মন্ডল,"১৬, মোড়লদিয়া গলি, Shashongacha, Cumilla",6106341.97
+Race Course,3.2,1614,2,14,আসাদ মোড়ল,"৭, কুমারবাজার, Race Course, Cumilla",8022608.59
+Dharmapur,1.8,1661,3,9,মিলন আলম,"৬৯, নতুন মধুপ্লাজা, Dharmapur, Cumilla",6278366.03
+Kotbari,2.5,1430,2,22,অভিষেক ইসলাম,"৩৬, কবিরদিয়া মহাসড়ক, Kotbari, Cumilla",5658465.87
+Race Course,3.2,1824,3,2,রাহুল চ্যাটার্জি,"৪, দক্ষিণ মোল্লানগর, Race Course, Cumilla",8332812.73
+Dharmapur,1.8,1124,2,20,জয়ন্ত সরকার,"৬১৬, পশ্চিম বিজয়ডাঙ্গা স্টেশন, Dharmapur, Cumilla",3237355.8
+Kandirpar,4.0,1407,2,14,অভিষেক আলি,"২৪, নতুন দেবখালি, Kandirpar, Cumilla",7085485.21
+Tomsom Bridge,3.0,1918,3,20,আশ্বিনী গঙ্গোপাধ্যায়,"১, পশ্চিম ফটিকচর মোড়, Tomsom Bridge, Cumilla",8016188.62
+Chawkbazar,2.2,1625,2,14,আনন্দ প্রামানিক,"৯৬, দক্ষিণ ফকিরগড় লেন, Chawkbazar, Cumilla",6548718.16
+Chawkbazar,2.2,1559,2,21,শেখর ঠাকুর,"৪২, পশ্চিম জগন্নাথঘাট, Chawkbazar, Cumilla",5527171.5
+Shashongacha,2.0,1613,2,10,আসাদ চৌধুরী,"৬৯, পশ্চিম দৌলতডাঙ্গা, Shashongacha, Cumilla",6482017.25
+Shashongacha,2.0,1383,2,14,এনামুল মৃধা,"৮১, দক্ষিণ শরণদিয়া মোড়, Shashongacha, Cumilla",5349663.9
+Chawkbazar,2.2,1883,3,18,লতা রাও,"৫৫, নতুন কেশবসড়ক, Chawkbazar, Cumilla",7593318.97
+Race Course,3.2,1542,2,12,ইউসুফ মৃধা,"৬, নতুন শরণপাড়া, Race Course, Cumilla",7160104.61
+Dharmapur,1.8,1377,2,24,চঞ্চল গঙ্গোপাধ্যায়,"২, বন্দরদিয়া, Dharmapur, Cumilla",4739798.91
+Kandirpar,4.0,1558,2,3,হৈমন্তী চৌধুরী,"৬০, নতুন কুতুবগাঁও, Kandirpar, Cumilla",7843220.26
+Race Course,3.2,1251,2,5,ঋষিতা সরকার,"৫, রায়দিয়া, Race Course, Cumilla",6560724.01
+Bagichagaon,3.5,979,2,16,অর্না মজুমদার,"৭৭৩, পূর্ব পলাশগলি, Bagichagaon, Cumilla",5989398.82
+Dharmapur,1.8,1885,3,19,আনিস সরকার,"৬, সদরপার্ক, Dharmapur, Cumilla",6540455.16
+Dharmapur,1.8,1430,2,15,জগদীশ গাঙ্গুলি,"১৭৮, সিরাজরাস্তা, Dharmapur, Cumilla",5691960.56
+Race Course,3.2,1402,2,1,মিলা যাদব,"৮, মধ্য মোল্লাস্টেশন, Race Course, Cumilla",7111768.13
+Kandirpar,4.0,800,2,10,অর্ক প্রামানিক,"৬৮, পুরাতন নন্দীডাঙ্গা, Kandirpar, Cumilla",6039773.1
+Chawkbazar,2.2,1524,2,13,জয়ন্ত দত্ত,"২, নতুন নাজিরগঞ্জ, Chawkbazar, Cumilla",5965548.17
+Race Course,3.2,1111,2,19,ইমন বিশ্বাস,"১২৫, বোরহানগ্রাম মহাসড়ক, Race Course, Cumilla",4825547.05
+Chawkbazar,2.2,1085,2,13,চঞ্চল বন্দোপাধ্যায়,"২১, চিতলকর্নার, Chawkbazar, Cumilla",5005334.94
+Shashongacha,2.0,1259,2,13,মনোজ বোস,"১, নাসিরমোড়, Shashongacha, Cumilla",5060727.0
+Jhawtala,3.8,2069,3,1,আবু তালুকদার,"৯৭, সদরপুর, Jhawtala, Cumilla",9259320.21
+Kotbari,2.5,1621,2,22,জয়দীপ প্রামানিক,"৩০৩, নন্দীগাঁ পাড়া, Kotbari, Cumilla",6707222.33
+Dharmapur,1.8,1795,3,13,মিম হুরাইরা,"৬৬, শিবগাঁও রাস্তা, Dharmapur, Cumilla",6784660.61
+Bagichagaon,3.5,1279,2,3,রহিম সরকার,"৯, আলমবাজার মহাসড়ক, Bagichagaon, Cumilla",6726169.1
+Tomsom Bridge,3.0,1691,3,19,লিটন আক্তার,"৫৫১, বন্দরখালি, Tomsom Bridge, Cumilla",7461247.36
+Jhawtala,3.8,1729,3,21,নয়ন তালুকদার,"৯, পশ্চিম হরিরামডাঙ্গা রোড, Jhawtala, Cumilla",8179641.0
+Bagichagaon,3.5,1503,2,2,মুশফিক বিশ্বাস,"৫, উত্তর সৈয়দবাজার, Bagichagaon, Cumilla",6415941.21
+Kotbari,2.5,1818,3,23,অনন্যা হক,"৭০৯, মোল্লাবাড়ি লেন, Kotbari, Cumilla",6784246.44
+Chawkbazar,2.2,1326,2,0,বিনয় পোদ্দার,"৫১, চিতলমোড়, Chawkbazar, Cumilla",6208827.53
+Bagichagaon,3.5,1775,3,13,ইউসুফ সিনহা,"৫, বাকেরডাঙ্গা এভিনিউ, Bagichagaon, Cumilla",8540882.97
+Dharmapur,1.8,1544,2,19,রহিম উদ্দিন,"৮০২, পুরাতন নন্দীমহল্লা, Dharmapur, Cumilla",5656250.54
+Kotbari,2.5,800,2,16,আশুতোষ মোড়ল,"৩, মধ্য তেরবাড়ি, Kotbari, Cumilla",4003812.46
+Shashongacha,2.0,1260,2,15,জগদীশ মন্ডল,"৫৪৭, দক্ষিণ মনিরামমহাসড়ক, Shashongacha, Cumilla",4456932.67
+Kotbari,2.5,2068,3,20,আবির মন্ডল,"৬৮, মধ্য শ্যামসড়ক, Kotbari, Cumilla",7789996.65
+Jhawtala,3.8,2301,4,12,এনামুল মোড়ল,"৭২৯, পশ্চিম মোহাম্মদসড়ক, Jhawtala, Cumilla",10516809.29
+Jhawtala,3.8,2408,4,24,শুভ তালুকদার,"৫৫৪, কালিয়াএভিনিউ, Jhawtala, Cumilla",10672965.5
+Police Line,3.1,1646,2,19,আরিয়ান গাঙ্গুলি,"৩৭৪, বাজিতসড়ক, Police Line, Cumilla",6438421.07
+Kandirpar,4.0,1911,3,5,মুনতাসির আওয়াল,"৭৭৯, কালিয়ারাস্তা, Kandirpar, Cumilla",9408016.58
+Shashongacha,2.0,1946,3,18,সুরভি সেন,"৮, দক্ষিণ রায়ডাঙ্গা চত্বর, Shashongacha, Cumilla",6647698.47
+Chawkbazar,2.2,1597,2,17,আশালতা সিনহা,"৭, পশ্চিম হাকিমসেন্টার, Chawkbazar, Cumilla",5759791.77
+Police Line,3.1,800,2,24,প্রিয় যাদব,"২, দক্ষিণ অভয়সেন্টার, Police Line, Cumilla",3620969.45
+Bagichagaon,3.5,1693,3,18,তনয় আওয়াল,"৮৮, উত্তর ওসমানীডাঙ্গা, Bagichagaon, Cumilla",7288865.43
+Kandirpar,4.0,1459,2,7,মুনতাকিম সিনহা,"২৬, চৌদ্দকর্নার, Kandirpar, Cumilla",7006366.03
+Police Line,3.1,1497,2,24,কবিতা সরকার,"৬০, পশ্চিম বদরগড় রাস্তা, Police Line, Cumilla",6900443.79
+Tomsom Bridge,3.0,1807,3,6,মাধু মজুমদার,"৫, উত্তর কমলডাঙ্গা কর্নার, Tomsom Bridge, Cumilla",6460473.5
+Shashongacha,2.0,804,2,8,ডলি মন্ডল,"৪৫৫, আলিচর, Shashongacha, Cumilla",3629453.24
+Kandirpar,4.0,2199,3,6,বিপাশা মৃধা,"২, নতুন রামচর মহাসড়ক, Kandirpar, Cumilla",10253224.12
+Shashongacha,2.0,1449,2,12,প্রত্যয় সরকার,"৯, নন্দীদিয়া ঘাট, Shashongacha, Cumilla",5996265.11
+Kandirpar,4.0,2614,4,11,অনন্যা হাকিম,"১, উত্তর কুতুবঘাট, Kandirpar, Cumilla",11794755.47
+Dharmapur,1.8,1946,3,15,বৃষ্টি হোসাইন,"৫, মধ্য হাকিমডাঙ্গা স্ট্যান্ড, Dharmapur, Cumilla",7044922.88
+Kandirpar,4.0,1525,2,7,ঋষিতা প্রামানিক,"৬৫, আলমহাট স্ট্যান্ড, Kandirpar, Cumilla",7984825.7
+Race Course,3.2,2136,3,4,আশালতা মজুমদার,"৭৬২, হোসেনহাট, Race Course, Cumilla",9375352.12
+Kotbari,2.5,2293,4,13,ঋষিতা মোড়ল,"২২০, কাজীপাড়া, Kotbari, Cumilla",7944668.99
+Race Course,3.2,1383,2,3,আজম আবদুল্লাহ,"৬১২, নতুন শাজাহানডাঙ্গা সড়ক, Race Course, Cumilla",6596536.82
+Chawkbazar,2.2,1937,3,20,ইকবাল মজুমদার,"৬, দেবীরোড, Chawkbazar, Cumilla",6904470.33
+Police Line,3.1,900,2,12,মোস্তাফিজ হোসাইন,"৫, উত্তর আনোয়ারমাটি, Police Line, Cumilla",4686378.12
+Kotbari,2.5,1400,2,13,বিনয় চৌধুরী,"৯০৭, পশ্চিম সুবর্ণরাস্তা, Kotbari, Cumilla",5905402.63
+Jhawtala,3.8,1035,2,11,প্রিয়াঙ্কা সাহা,"২৯, উত্তর গোপালখালি রাস্তা, Jhawtala, Cumilla",5923602.94
+Jhawtala,3.8,1440,2,7,জয়দীপ প্রামানিক,"৩২, বিশ্বনাথহার সড়ক, Jhawtala, Cumilla",6501294.59
+Race Course,3.2,1912,3,5,লতা তালুকদার,"৫২০, পূর্ব বটিয়াগলি, Race Course, Cumilla",9096278.28
+Kotbari,2.5,1183,2,2,তামিম বিশ্বাস,"৭৯২, পূর্ব ফুলকর্নার, Kotbari, Cumilla",5394189.72
+Tomsom Bridge,3.0,1202,2,8,রহিম মজুমদার,"৬৪, দাউদখালি, Tomsom Bridge, Cumilla",6385785.13
+Shashongacha,2.0,1831,3,16,আবির মৃধা,"৮০৭, চিতলহার ঘাট, Shashongacha, Cumilla",6042259.89
+Kandirpar,4.0,1664,3,21,আরিয়া চট্টোপাধ্যায়,"৪, কুতুবমাটি, Kandirpar, Cumilla",7117887.88
+Dharmapur,1.8,2248,4,2,নাদিম সুলতানা,"৪৫, হরিরামগঞ্জ চত্বর, Dharmapur, Cumilla",8157212.06
+Shashongacha,2.0,2266,4,17,অলোকা প্রামানিক,"৮৭, বেগমগলি, Shashongacha, Cumilla",8012276.97
+Dharmapur,1.8,1815,3,7,প্রশান্ত মৃধা,"৭৯, পুরাতন হাজীবাড়ি, Dharmapur, Cumilla",7048116.84
+Dharmapur,1.8,2141,3,17,একরামুল উদ্দিন,"৮৪৯, মোল্লাবাড়ি, Dharmapur, Cumilla",8165235.88
+Race Course,3.2,1937,3,20,আরাধ্যা মোড়ল,"৪৫, পূর্ব অভয়প্লাজা, Race Course, Cumilla",8888236.64
+Kotbari,2.5,2206,4,2,সজীব কাদের,"৯৫, পুরাতন বেগমদিয়া, Kotbari, Cumilla",8327112.0
+Bagichagaon,3.5,1676,3,10,আশ্বিনী চৌধুরী,"৩, দক্ষিণ বেগমপুর সড়ক, Bagichagaon, Cumilla",7364295.39
+Kandirpar,4.0,1665,3,5,কেয়া রাও,"৪০০, আনোয়ারমহাসড়ক, Kandirpar, Cumilla",7984756.55
+Dharmapur,1.8,1153,2,13,লিটন হুরাইরা,"৫৬৪, বাজিতবাড়ি, Dharmapur, Cumilla",5163261.18
+Race Course,3.2,2223,4,18,ইমন হোসাইন,"৪, পুরাতন কুমারদিয়া, Race Course, Cumilla",8920178.48
+Kotbari,2.5,2009,3,6,আজাদ সিনহা,"৩, দক্ষিণ উজিরচর কর্নার, Kotbari, Cumilla",9402526.36
+Race Course,3.2,1837,3,5,অনিন্দিতা চন্দ্র,"৬০২, উত্তর মিরমহাসড়ক, Race Course, Cumilla",8646111.51
+Jhawtala,3.8,1079,2,14,সুরভি মৃধা,"৭, পুরাতন শরণবাড়ি প্লাজা, Jhawtala, Cumilla",5799298.75
+Shashongacha,2.0,1065,2,20,রাশেদুল খাতুন,"১৮, সৈয়দবাজার, Shashongacha, Cumilla",3742733.65
+Race Course,3.2,1998,3,13,সাবের ইসলাম,"৮৫, দক্ষিণ পলাশস্টেশন, Race Course, Cumilla",7813115.99
+Dharmapur,1.8,1392,2,16,নন্দিতা রহমান,"৩, বেগমগাঁও, Dharmapur, Cumilla",5088981.31
+Shashongacha,2.0,1626,2,21,বিপাশা হুরাইরা,"১২, বন্দরগাঁ সেন্টার, Shashongacha, Cumilla",6019291.04
+Kotbari,2.5,1689,3,17,আতাহার খান,"৬১৪, হাজীহাট, Kotbari, Cumilla",6659734.79
+Race Course,3.2,1919,3,19,ইউসুফ আলম,"৩, নতুন ফটিকপুর, Race Course, Cumilla",8418136.22
+Shashongacha,2.0,1090,2,2,ইমন দত্ত,"২৫, ওসমানীবাজার, Shashongacha, Cumilla",5391937.35
+Tomsom Bridge,3.0,1617,2,11,রোহিত প্রধান,"৭, পশ্চিম মোল্লাগ্রাম মহাসড়ক, Tomsom Bridge, Cumilla",8345899.12
+Jhawtala,3.8,1345,2,10,অর্না সিনহা,"৯৫, পুরাতন ফকিরচত্বর, Jhawtala, Cumilla",7738904.49
+Police Line,3.1,1968,3,21,অনিন্দিতা কান্ত,"৯, হাকিমচর মোড়, Police Line, Cumilla",8490950.58
+Bagichagaon,3.5,1785,3,13,লতা মিঞা,"৩৭, তারাখালি, Bagichagaon, Cumilla",7965142.13
+Shashongacha,2.0,1458,2,13,বাসির প্রামানিক,"৮৬৮, লালতলা মহল্লা, Shashongacha, Cumilla",6498816.52
+Police Line,3.1,1248,2,22,জগদীশ সাহা,"৮৯৪, সুবর্ণগড় লেন, Police Line, Cumilla",5759756.34
+Kandirpar,4.0,1204,2,5,ইমন জামান,"১, উত্তর মোহাম্মদপুর, Kandirpar, Cumilla",6667633.51
+Bagichagaon,3.5,1640,2,11,মুনতাকিম প্রামানিক,"৭২৪, মধ্য নন্দীগাঁ, Bagichagaon, Cumilla",7935589.26
+Tomsom Bridge,3.0,1707,3,3,লতা বাগচী,"৭৩৯, উত্তর মহেশতলা পাড়া, Tomsom Bridge, Cumilla",7041427.82
+Bagichagaon,3.5,877,2,14,অনিন্দিতা সেন,"২৪, বাকেরগড়, Bagichagaon, Cumilla",5105808.75
+Dharmapur,1.8,1945,3,7,ঈশানি সাহা,"৬৪৩, সুন্দরগাঁও, Dharmapur, Cumilla",6498222.07
+Tomsom Bridge,3.0,1011,2,22,শান্ত মজুমদার,"৩৫৯, নাজিরগাঁ, Tomsom Bridge, Cumilla",5123536.08
+Police Line,3.1,1295,2,14,বাকের চৌধুরী,"৯৯, পূর্ব মোড়লগড় সড়ক, Police Line, Cumilla",5410123.53
+Shashongacha,2.0,1133,2,9,তুষার তালুকদার,"২, পুরাতন বাকেরগ্রাম লেন, Shashongacha, Cumilla",5295895.77
+Shashongacha,2.0,1018,2,13,নিশিতা আলি,"৩, পুরাতন বেগমগঞ্জ, Shashongacha, Cumilla",4831445.8
+Tomsom Bridge,3.0,1943,3,9,আলিয়া চৌধুরী,"৯০৫, কেশববাজার ঘাট, Tomsom Bridge, Cumilla",7549776.9
+Kotbari,2.5,1540,2,20,শ্রাবনী ইসলাম,"৯০৬, বেগমগাঁও, Kotbari, Cumilla",5604090.3
+Police Line,3.1,2186,3,3,প্রত্যয় রাও,"৯৭, মধ্য কালীপুর, Police Line, Cumilla",9734034.22
+Chawkbazar,2.2,1402,2,1,তনয় সিনহা,"৪৪২, কেশবডাঙ্গা, Chawkbazar, Cumilla",4583522.99
+Police Line,3.1,1418,2,24,নাইম হক,"২০৪, মহাদেবরাস্তা, Police Line, Cumilla",6682766.77
+Police Line,3.1,1796,3,5,অজয় বিশ্বাস,"৯, দক্ষিণ মোল্লাগাঁ পাড়া, Police Line, Cumilla",7778222.24
+Bagichagaon,3.5,2152,3,20,সুশান্ত মুখার্জি,"২৯২, নন্দীখালি কর্নার, Bagichagaon, Cumilla",9026224.53
+Dharmapur,1.8,1737,3,19,রায়হান বেগম,"৪৮, দক্ষিণ মহেশঘাট, Dharmapur, Cumilla",6873210.37
+Bagichagaon,3.5,1824,3,19,মুনতাকিম হাকিম,"৮২, বদরকর্নার, Bagichagaon, Cumilla",8296688.26
+Shashongacha,2.0,1888,3,20,রাজু যাদব,"৮, কালীস্ট্যান্ড, Shashongacha, Cumilla",7809689.79
+Police Line,3.1,1193,2,16,শাহাবাজ বিশ্বাস,"৯, পুরাতন মহাদেববাজার কর্নার, Police Line, Cumilla",5599452.12
+Dharmapur,1.8,2040,3,4,অভি বর্মন,"৪২, মধ্য বিরামগ্রাম, Dharmapur, Cumilla",7622852.15
+Police Line,3.1,1493,2,14,মিলন রহমান,"৫, নতুন বালিয়াবাড়ি, Police Line, Cumilla",6635992.49
+Chawkbazar,2.2,2231,4,16,নাদিম জামান,"৯১, বাকেরদিয়া মহাসড়ক, Chawkbazar, Cumilla",9581729.86
+Jhawtala,3.8,1409,2,23,ইকবাল মিঞা,"২, পশ্চিম চিতলগাঁও, Jhawtala, Cumilla",6489216.14
+Tomsom Bridge,3.0,841,2,3,একরামুল হোসাইন,"৬৫১, হাকিমরোড, Tomsom Bridge, Cumilla",4570824.08
+Kandirpar,4.0,1803,3,4,রুদ্র ব্যানার্জি,"৬, ফটিকগাঁও সেন্টার, Kandirpar, Cumilla",8475354.09
+Shashongacha,2.0,2203,4,14,আজম চৌধুরী,"২২৭, গোপালএভিনিউ, Shashongacha, Cumilla",7807922.25
+Kotbari,2.5,1722,3,8,রাজ মৃধা,"৩৮, কালীপ্লাজা, Kotbari, Cumilla",7579361.83
+Kandirpar,4.0,1960,3,18,মিলন জামান,"৮, মাধববাড়ি কর্নার, Kandirpar, Cumilla",8563101.74
+Jhawtala,3.8,1372,2,9,অর্পিতা আওয়াল,"৪, নন্দীনগর এভিনিউ, Jhawtala, Cumilla",6273775.48
+Kandirpar,4.0,1499,2,17,সৌমিক মন্ডল,"৩১০, বিরামপার্ক, Kandirpar, Cumilla",8038934.15
+Chawkbazar,2.2,1740,3,11,অলোকা তালুকদার,"২৯, নতুন মধুডাঙ্গা মহাসড়ক, Chawkbazar, Cumilla",6737489.77
+Kotbari,2.5,1105,2,3,আজাদ আলি,"২, দৌলতপুর, Kotbari, Cumilla",4610874.59
+Dharmapur,1.8,1525,2,8,আশ্বিনী চন্দ্র,"৪, গৌরমাটি, Dharmapur, Cumilla",5616547.02
+Chawkbazar,2.2,1394,2,19,অশোক মুখার্জি,"৫, পশ্চিম শাজাহানগ্রাম, Chawkbazar, Cumilla",4773716.54
+Jhawtala,3.8,1072,2,2,অন্তরা মৃধা,"৪, শিবচর, Jhawtala, Cumilla",5792117.01
+Kandirpar,4.0,2357,4,11,শান্ত যাদব,"১২২, মনোহরহার গলি, Kandirpar, Cumilla",9896980.81
+Kandirpar,4.0,1519,2,7,শাহজাহান সিনহা,"৯৬৩, মধুনগর, Kandirpar, Cumilla",7642807.34
+Kotbari,2.5,1220,2,10,অজিত মুখার্জি,"৬৩১, পুরাতন গৌরবাজার সেন্টার, Kotbari, Cumilla",5433827.69
+Dharmapur,1.8,1481,2,13,আশ্বিনী কান্ত,"৪, সখিপুর, Dharmapur, Cumilla",4974717.9
+Chawkbazar,2.2,1966,3,8,রাসেল রহমান,"২৯৮, পূর্ব জগন্নাথরাস্তা, Chawkbazar, Cumilla",7192848.37
+Jhawtala,3.8,1069,2,22,মুশফিক মোড়ল,"৪, দৌলতচর, Jhawtala, Cumilla",5621831.59
+Race Course,3.2,1472,2,20,রাজু বিশ্বাস,"৭, উত্তর মধুবাড়ি মোড়, Race Course, Cumilla",6441478.8
+Shashongacha,2.0,1883,3,6,আবু মিঞা,"৭৯, বকশীপুর লেন, Shashongacha, Cumilla",7360374.34
+Jhawtala,3.8,1896,3,11,বিরাট ব্যানার্জি,"৯৬১, পুরাতন সিরাজপুর চত্বর, Jhawtala, Cumilla",8798568.19
+Jhawtala,3.8,800,2,16,প্রীতি আলম,"৯, বাজিতবাজার, Jhawtala, Cumilla",5233332.71
+Chawkbazar,2.2,1775,3,17,আশ্বিনী প্রামানিক,"২৩, হরিরামস্টেশন, Chawkbazar, Cumilla",6859135.03
+Race Course,3.2,1402,2,23,মিম খানম,"৬৩, পশ্চিম মনোহরদিয়া রোড, Race Course, Cumilla",5525550.42
+Shashongacha,2.0,2334,4,20,অন্তরা আবদুল্লাহ,"৬৭, উত্তর শান্তিমাটি, Shashongacha, Cumilla",8273345.75
+Bagichagaon,3.5,2059,3,2,অশোক রায়,"৭৩, দক্ষিণ বেগমঘাট, Bagichagaon, Cumilla",9209126.77
+Bagichagaon,3.5,1145,2,5,আবু হক,"৫০২, দক্ষিণ বদরস্ট্যান্ড, Bagichagaon, Cumilla",5435030.32
+Kandirpar,4.0,800,2,14,ইশিতা খাতুন,"২৭৩, কবিরনগর, Kandirpar, Cumilla",5106783.91
+Dharmapur,1.8,1087,2,6,বিনা হক,"৬, করিমবাজার, Dharmapur, Cumilla",5304917.51
+Dharmapur,1.8,1695,3,17,জয়দীপ চ্যাটার্জি,"১, রামডাঙ্গা, Dharmapur, Cumilla",6255412.39
+Tomsom Bridge,3.0,2285,4,14,মিলন মৃধা,"৬, হাজীডাঙ্গা, Tomsom Bridge, Cumilla",9284451.2
+Police Line,3.1,1523,2,6,শহিদুল উদ্দিন,"৬০০, পূর্ব উজিরএভিনিউ, Police Line, Cumilla",7104996.94
+Bagichagaon,3.5,2698,4,20,কাফি উদ্দিন,"৯, শাজাহানবাজার পার্ক, Bagichagaon, Cumilla",11709963.34
+Tomsom Bridge,3.0,1571,2,19,আশালতা মৃধা,"২৪, উত্তর বন্দরগ্রাম গলি, Tomsom Bridge, Cumilla",6755783.16
+Chawkbazar,2.2,1507,2,3,জয়দীপ চৌধুরী,"৪, ফটিকমাটি, Chawkbazar, Cumilla",6146975.94
+Bagichagaon,3.5,1466,2,8,অনন্যা তালুকদার,"১৮৮, নন্দীহাট মহাসড়ক, Bagichagaon, Cumilla",6679796.82
+Tomsom Bridge,3.0,1349,2,4,আনিস চৌধুরী,"৫৭১, পশ্চিম চৌদ্দপুর মহল্লা, Tomsom Bridge, Cumilla",6588914.28
+Dharmapur,1.8,1983,3,20,আশীষ পাণ্ডে,"৮, নতুন ব্রাহ্মণখালি স্টেশন, Dharmapur, Cumilla",7007045.7
+Tomsom Bridge,3.0,1432,2,4,প্রিয়াঙ্কা তালুকদার,"৫, মুরাদগড়, Tomsom Bridge, Cumilla",7183012.7
+Kandirpar,4.0,1540,2,0,এনামুল হাকিম,"৭, সৈয়দমহাসড়ক, Kandirpar, Cumilla",6474940.84
+Kotbari,2.5,1873,3,12,শুভশ্রী চট্টোপাধ্যায়,"২৪২, পুরাতন হাকিমস্টেশন, Kotbari, Cumilla",7205839.17
+Kotbari,2.5,1786,3,18,শাওন কাদের,"২৬, কালীবাড়ি মোড়, Kotbari, Cumilla",6509573.0
+Bagichagaon,3.5,1700,3,15,মুশফিক মৃধা,"৮, পশ্চিম রায়হাট, Bagichagaon, Cumilla",7038531.7
+Dharmapur,1.8,2060,3,2,অর্ঘ্য মোড়ল,"৪, পূর্ব আনোয়ারগ্রাম, Dharmapur, Cumilla",7364389.02
+Dharmapur,1.8,1502,2,13,ঈশানি মোড়ল,"৩, নতুন রায়হাট মহল্লা, Dharmapur, Cumilla",5185631.94
+Bagichagaon,3.5,1543,2,8,শাহজাহান মিঞা,"২১৪, ইসলামবাজার, Bagichagaon, Cumilla",7270817.04
+Tomsom Bridge,3.0,2405,4,6,আরুণি মন্ডল,"৫, রামমহাসড়ক, Tomsom Bridge, Cumilla",10007669.35
+Police Line,3.1,1631,2,22,আজাদ প্রামানিক,"৮৪১, দক্ষিণ মোড়লতলা লেন, Police Line, Cumilla",6643989.16
+Bagichagaon,3.5,2463,4,7,কাবেরি বাগচী,"৭, বদরহাট, Bagichagaon, Cumilla",10903977.87
+Police Line,3.1,1756,3,6,আয়ুষ দাস,"৫৩৫, দেবগাঁ, Police Line, Cumilla",7131738.5
+Kandirpar,4.0,1461,2,1,মিম মোড়ল,"৫০৫, পলাশএভিনিউ, Kandirpar, Cumilla",7647502.2
+Chawkbazar,2.2,1114,2,3,বিনা তাবাসসুম,"৭, পূর্ব মুরাদবাড়ি রাস্তা, Chawkbazar, Cumilla",4376090.48
+Tomsom Bridge,3.0,1569,2,11,মাধু তালুকদার,"৫৫৮, নতুন উজিরসড়ক, Tomsom Bridge, Cumilla",6629274.01
+Bagichagaon,3.5,1734,3,3,এনামুল হাকিম,"৮, পূর্ব ব্রাহ্মণবাজার, Bagichagaon, Cumilla",8112043.46
+Bagichagaon,3.5,1993,3,21,ইমন আবদুল্লাহ,"২৭, নড়িয়াস্ট্যান্ড, Bagichagaon, Cumilla",8884347.52
+Shashongacha,2.0,1843,3,8,রোহিত বিশ্বাস,"৩২, নতুন বালিয়াডাঙ্গা স্ট্যান্ড, Shashongacha, Cumilla",6778405.33
+Race Course,3.2,1517,2,9,অদিতি দাস,"২, মধ্য সদরঘাট, Race Course, Cumilla",6716647.83
+Kotbari,2.5,1942,3,21,শান্ত ব্যানার্জি,"৫৫, সুন্দরসেন্টার, Kotbari, Cumilla",7835041.9
+Jhawtala,3.8,1367,2,8,মৃনাল মজুমদার,"৯৬, পূর্ব দেবীগাঁ, Jhawtala, Cumilla",6677257.3
+Chawkbazar,2.2,1770,3,5,সৌম্য চৌধুরী,"৫৬৩, নাজিরডাঙ্গা, Chawkbazar, Cumilla",6732237.1
+Tomsom Bridge,3.0,1200,2,0,আশীষ চন্দ্র,"৩৫১, মধ্য সখিচর, Tomsom Bridge, Cumilla",6455158.71
+Kotbari,2.5,1774,3,23,ইমন চট্টোপাধ্যায়,"৫৫, শাজাহানলেন, Kotbari, Cumilla",6229894.1
+Tomsom Bridge,3.0,1450,2,9,আকাশ হুরাইরা,"৪৯৯, নতুন সৈয়দস্টেশন, Tomsom Bridge, Cumilla",6830169.22
+Tomsom Bridge,3.0,2183,3,19,ইশতিয়াক উদ্দিন,"৮৫, কবিরগাঁও চত্বর, Tomsom Bridge, Cumilla",9196005.94
+Kotbari,2.5,1018,2,16,অন্তরা মোড়ল,"৬, বিজয়বাড়ি সড়ক, Kotbari, Cumilla",2853984.93
+Race Course,3.2,1804,3,2,আবু মন্ডল,"২৩, সোনাতলা, Race Course, Cumilla",8426948.84
+Bagichagaon,3.5,1508,2,16,একরামুল প্রামানিক,"২৭৮, মধ্য বালিয়াচত্বর, Bagichagaon, Cumilla",7224517.98
+Shashongacha,2.0,2018,3,6,বিনা হক,"৫, আনোয়ারহার রোড, Shashongacha, Cumilla",7899976.99
+Bagichagaon,3.5,953,2,20,অর্না যাদব,"৪৭, কালীহার, Bagichagaon, Cumilla",5590441.39
+Race Course,3.2,1275,2,13,প্রিয়ম তালুকদার,"৪, বিশ্বনাথগ্রাম, Race Course, Cumilla",6085558.76
+Police Line,3.1,1975,3,9,মিনা রাও,"৩৭৬, মোহাম্মদসড়ক, Police Line, Cumilla",8692580.77
+Jhawtala,3.8,1316,2,23,করিম মন্ডল,"৮০, মধ্য শ্যামচর সেন্টার, Jhawtala, Cumilla",7035720.29
+Kandirpar,4.0,1581,2,9,বাসির ইসলাম,"১৩, বালিয়াচর, Kandirpar, Cumilla",7527255.72
+Dharmapur,1.8,1636,2,3,শহিদুল সিনহা,"২৯০, পশ্চিম হোসেনবাজার মোড়, Dharmapur, Cumilla",6897806.07
+Bagichagaon,3.5,1348,2,3,আরুণি চৌধুরী,"৭৪২, শিবকর্নার, Bagichagaon, Cumilla",6814087.14
+Shashongacha,2.0,1640,2,6,আরিয়া চ্যাটার্জি,"৬, দক্ষিণ মনিরামখালি, Shashongacha, Cumilla",6679220.37
+Kandirpar,4.0,1056,2,1,অর্ক শুক্লা,"২৮, উত্তর মনিরামস্ট্যান্ড, Kandirpar, Cumilla",6358176.44
+Bagichagaon,3.5,1073,2,21,অন্তরা ইসলাম,"৪৪৮, উজিরগ্রাম গলি, Bagichagaon, Cumilla",5280264.22
+Jhawtala,3.8,1502,2,12,আতাহার সিনহা,"৮৫, নতুন কুতুবতলা স্ট্যান্ড, Jhawtala, Cumilla",7116710.97
+Shashongacha,2.0,1355,2,23,জনা দাস,"২১০, রামচর, Shashongacha, Cumilla",4780309.36
+Bagichagaon,3.5,1646,2,10,রাশেদ মৃধা,"৩৭২, কাজীনগর স্টেশন, Bagichagaon, Cumilla",8101307.41
+Dharmapur,1.8,1656,3,12,আবু বিশ্বাস,"২, পূর্ব সদরকর্নার, Dharmapur, Cumilla",6828593.17
+Kandirpar,4.0,1164,2,11,অঞ্জনা দাস,"১৯, হরিরামবাড়ি ঘাট, Kandirpar, Cumilla",6675478.39
+Jhawtala,3.8,1757,3,23,সাবের মন্ডল,"৪১, সিরাজগড় এভিনিউ, Jhawtala, Cumilla",8378790.64
+Jhawtala,3.8,1076,2,13,আরিয়ান বিশ্বাস,"২, পশ্চিম দৌলতপাড়া, Jhawtala, Cumilla",5894246.75
+Chawkbazar,2.2,1295,2,23,মিম বিশ্বাস,"৬, পূর্ব কালিয়াতলা, Chawkbazar, Cumilla",4454188.02
+Shashongacha,2.0,1364,2,8,শহিদুল আরা,"১৩, পুরাতন মানিকগাঁও, Shashongacha, Cumilla",5515097.65
+Kandirpar,4.0,800,2,6,অনিন্দিতা বাগচী,"৬, কালিয়াগড়, Kandirpar, Cumilla",5418541.52
+Kandirpar,4.0,1187,2,4,রোহিত দাশগুপ্তা,"১২, কুমারচর রাস্তা, Kandirpar, Cumilla",6822910.36
+Shashongacha,2.0,1070,2,10,রাসেল সরকার,"৩৬৩, পশ্চিম শিববাড়ি, Shashongacha, Cumilla",4491280.36
+Kotbari,2.5,1135,2,12,আবির রায়,"৯২, ব্রাহ্মণপাড়া, Kotbari, Cumilla",4929845.9
+Kandirpar,4.0,1690,3,24,শাওন সাহা,"৩, নতুন আলমচত্বর, Kandirpar, Cumilla",8130350.86
+Tomsom Bridge,3.0,2018,3,4,অর্পিতা রায়,"২, উত্তর মনোহরমহাসড়ক, Tomsom Bridge, Cumilla",9871297.63
+Dharmapur,1.8,1830,3,3,আরিয়া রহমান,"৮৩৫, দক্ষিণ কালীনগর লেন, Dharmapur, Cumilla",6377710.25
+Kandirpar,4.0,1746,3,0,ইকবাল মোড়ল,"৩৫, শরণপ্লাজা, Kandirpar, Cumilla",8610798.45
+Race Course,3.2,1663,3,12,আজাদ মৃধা,"৯৪, হরিরামমহাসড়ক, Race Course, Cumilla",7751131.94
+Kotbari,2.5,885,2,13,আরাধ্যা যাদব,"৪, দক্ষিণ বেগমনগর রাস্তা, Kotbari, Cumilla",4658979.33
+Police Line,3.1,1630,2,19,রাশেদুল কাদের,"৬, পুরাতন হরিরামগাঁও, Police Line, Cumilla",7115892.38
+Shashongacha,2.0,800,2,15,শ্রাবন্তী সরকার,"৮, পূর্ব মাধবমাটি ঘাট, Shashongacha, Cumilla",3101938.15
+Chawkbazar,2.2,1725,3,0,অন্তরা খান,"১৩, পশ্চিম হোসেনমহাসড়ক, Chawkbazar, Cumilla",5603571.48
+Jhawtala,3.8,1561,2,13,শান্ত দাশগুপ্তা,"৮, উত্তর শিবনগর, Jhawtala, Cumilla",6876910.34
+Kandirpar,4.0,800,2,13,মুনতাকিম হাকিম,"৫৫২, দাউদদিয়া মহাসড়ক, Kandirpar, Cumilla",5034599.95
+Chawkbazar,2.2,1363,2,21,বিপাশা খান,"২৫৪, উত্তর শরণডাঙ্গা, Chawkbazar, Cumilla",5356962.86
+Kandirpar,4.0,2530,4,19,অনন্যা সিং,"৮৭৪, মধ্য মানিকবাজার মহল্লা, Kandirpar, Cumilla",10858538.19
+Jhawtala,3.8,1953,3,2,শেখর মজুমদার,"৬২৩, হোসেনগাঁ, Jhawtala, Cumilla",9724895.71
+Tomsom Bridge,3.0,1245,2,17,ইজাজ মৃধা,"৩৭৭, পশ্চিম সৈয়দগ্রাম ঘাট, Tomsom Bridge, Cumilla",5234266.31
+Police Line,3.1,2186,3,24,এনামুল হাকিম,"৩, দক্ষিণ মুরাদহাট, Police Line, Cumilla",8004498.69
+Jhawtala,3.8,2216,4,14,মৃনাল চ্যাটার্জি,"৩, মধ্য সুবর্ণচর, Jhawtala, Cumilla",10144917.24
+Bagichagaon,3.5,1670,3,9,নাইম সিনহা,"২০, বাজিতমাটি, Bagichagaon, Cumilla",7177733.19
+Kotbari,2.5,1742,3,19,সজীব আচার্য্য,"১, দেবীস্টেশন, Kotbari, Cumilla",6554721.25
+Race Course,3.2,1450,2,9,রাজ মন্ডল,"৯, মুরাদগ্রাম সেন্টার, Race Course, Cumilla",7035132.63
+Jhawtala,3.8,1500,2,18,জনা উদ্দিন,"১৯৯, পশ্চিম জীবনগ্রাম, Jhawtala, Cumilla",7076458.42
+Kotbari,2.5,1994,3,22,আশ্বিনী চৌধুরী,"১, বন্দরগ্রাম রোড, Kotbari, Cumilla",7714610.92
+Chawkbazar,2.2,1279,2,0,বিনয় বিশ্বাস,"২, ফুলগঞ্জ পার্ক, Chawkbazar, Cumilla",4932335.64
+Kandirpar,4.0,1663,3,20,রায়হান আলম,"৮, কালীসেন্টার, Kandirpar, Cumilla",8243902.09
+Chawkbazar,2.2,1996,3,9,ইমতিয়াজ আওয়াল,"২১১, নাজিরবাজার মোড়, Chawkbazar, Cumilla",7536595.7
+Tomsom Bridge,3.0,1373,2,14,আব্বাস মৃধা,"১০৪, নাসিরবাড়ি রাস্তা, Tomsom Bridge, Cumilla",6115550.83
+Jhawtala,3.8,1683,3,12,রায়হান আওয়াল,"১৯৫, উত্তর মুরাদগ্রাম, Jhawtala, Cumilla",9025192.21
+Police Line,3.1,1105,2,6,ডলি মিঞা,"১, উত্তর অভয়স্ট্যান্ড, Police Line, Cumilla",5758343.31
+Chawkbazar,2.2,800,2,19,রুদ্র বন্দোপাধ্যায়,"৬৪০, ফটিকগ্রাম মহাসড়ক, Chawkbazar, Cumilla",3999113.34
+Jhawtala,3.8,1653,3,15,রাশেদ হুরাইরা,"৯৯৪, মাধবগাঁও, Jhawtala, Cumilla",8196156.93
+Race Course,3.2,1672,3,21,শাওন মজুমদার,"৫৯৭, উত্তর মধুগাঁ, Race Course, Cumilla",7481555.62
+Tomsom Bridge,3.0,1813,3,8,প্রিয় মৃধা,"২৫, মধ্য কুতুবগাঁও, Tomsom Bridge, Cumilla",7441911.55
+Shashongacha,2.0,1278,2,17,চঞ্চল জামান,"৯১৭, সুন্দরদিয়া, Shashongacha, Cumilla",5232223.49
+Jhawtala,3.8,1530,2,19,নাইম আক্তার,"৯৬৬, পশ্চিম নন্দীতলা চত্বর, Jhawtala, Cumilla",7684289.83
+Kotbari,2.5,1325,2,4,মিনা জামান,"৮৯৫, কুমারগড় প্লাজা, Kotbari, Cumilla",5562624.02
+Kotbari,2.5,1725,3,19,তামিম চৌধুরী,"৪১১, পুরাতন আলিরাস্তা, Kotbari, Cumilla",7185334.51
+Police Line,3.1,1888,3,5,প্রিয়ম বর্মন,"৪, হাজীহার, Police Line, Cumilla",7735153.2
+Dharmapur,1.8,1492,2,3,কাফি মজুমদার,"৪, সৈয়দমাটি প্লাজা, Dharmapur, Cumilla",6192476.31
+Chawkbazar,2.2,1113,2,23,প্রিয়তি হোসাইন,"৯৮, উত্তর শিবদিয়া, Chawkbazar, Cumilla",4233528.25
+Race Course,3.2,1973,3,13,অর্না বন্দোপাধ্যায়,"১৭৭, পূর্ব মুরাদগঞ্জ স্টেশন, Race Course, Cumilla",8503809.38
+Police Line,3.1,1365,2,8,আরাধ্যা মৃধা,"৫৯, মহাদেবগঞ্জ লেন, Police Line, Cumilla",5936238.52
+Chawkbazar,2.2,1862,3,12,ইজাজ হুরাইরা,"৯২৭, নতুন রায়প্লাজা, Chawkbazar, Cumilla",7125476.65
+Dharmapur,1.8,1255,2,10,শাহজাহান উদ্দিন,"২২০, পুরাতন সুবর্ণতলা, Dharmapur, Cumilla",5668213.46
+Shashongacha,2.0,1224,2,3,হৈমন্তী মন্ডল,"২২০, পলাশগড়, Shashongacha, Cumilla",5364887.54
+Shashongacha,2.0,1832,3,19,মাধুরী যাদব,"৮৫৬, বেগমখালি, Shashongacha, Cumilla",7110314.11
+Jhawtala,3.8,2116,3,22,সুশান্ত সরকার,"৪৪, নতুন গৌরগ্রাম, Jhawtala, Cumilla",9666993.25
+Race Course,3.2,1546,2,0,অজিত দাশগুপ্তা,"৭৫, দক্ষিণ কালিয়াপুর, Race Course, Cumilla",7317303.95
+Bagichagaon,3.5,1804,3,24,মৃনাল মন্ডল,"৩, উত্তর কালীসেন্টার, Bagichagaon, Cumilla",6627713.84
+Shashongacha,2.0,1872,3,4,সজীব কাদের,"৩৫৪, পশ্চিম বদরগড় এভিনিউ, Shashongacha, Cumilla",8247998.94
+Chawkbazar,2.2,2117,3,8,রাহুল মৃধা,"৯, উত্তর সখিগঞ্জ রাস্তা, Chawkbazar, Cumilla",8714136.06
+Police Line,3.1,1676,3,20,প্রিতম মৃধা,"১, নতুন দেবস্ট্যান্ড, Police Line, Cumilla",8307823.66
+Tomsom Bridge,3.0,1366,2,3,অক্ষয় মন্ডল,"৭১, পূর্ব বন্দরসেন্টার, Tomsom Bridge, Cumilla",6354157.99
+Race Course,3.2,2511,4,11,রাশেদুল আওয়াল,"৬, বাজিতপুর প্লাজা, Race Course, Cumilla",10605958.09
+Race Course,3.2,1617,2,2,সৌম্য মৃধা,"৯, বেগমসেন্টার, Race Course, Cumilla",6420281.27
+Jhawtala,3.8,1709,3,9,ইমন মোড়ল,"২৬৩, সদরমোড়, Jhawtala, Cumilla",8576974.4
+Chawkbazar,2.2,1157,2,0,অনন্যা আলম,"৪, উত্তর মধুখালি ঘাট, Chawkbazar, Cumilla",4812103.79
+Police Line,3.1,1756,3,16,লিটন আলম,"৪৮০, পূর্ব মুরাদএভিনিউ, Police Line, Cumilla",7608770.5
+Police Line,3.1,1822,3,18,মুশফিক প্রামানিক,"৯৭, মুরাদগাঁও, Police Line, Cumilla",7816177.27
+Race Course,3.2,1934,3,13,খুশি উদ্দিন,"৬৯৬, মহেশকর্নার, Race Course, Cumilla",8451513.92
+Dharmapur,1.8,2431,4,0,সজীব সিনহা,"৯, বোরহানবাজার, Dharmapur, Cumilla",10021306.35
+Kandirpar,4.0,1845,3,19,শান্ত মজুমদার,"৭০, পূর্ব মোড়ললেন, Kandirpar, Cumilla",8572003.44
+Kandirpar,4.0,1192,2,14,বিপাশা ব্যানার্জি,"৭০, নড়িয়াগড় রাস্তা, Kandirpar, Cumilla",6576207.7
+Police Line,3.1,1215,2,4,ইউসুফ বিশ্বাস,"১, মনিরামগঞ্জ, Police Line, Cumilla",5188554.92
+Dharmapur,1.8,1089,2,2,ইউসুফ চৌধুরী,"৭, দক্ষিণ দাউদগ্রাম, Dharmapur, Cumilla",5143446.62
+Bagichagaon,3.5,1548,2,14,অভি বিশ্বাস,"৬, আলিচর, Bagichagaon, Cumilla",6949391.28
+Shashongacha,2.0,1048,2,5,সুশান্ত সরকার,"৬৫, মধ্য ফুলএভিনিউ, Shashongacha, Cumilla",4999367.78
+Dharmapur,1.8,1822,3,19,অক্ষয় প্রামানিক,"৮, হাজীমহাসড়ক, Dharmapur, Cumilla",5435748.03
+Police Line,3.1,1071,2,3,প্রত্যয় দেব,"৭, মধ্য ফকিরদিয়া মোড়, Police Line, Cumilla",5740069.56
+Chawkbazar,2.2,1418,2,1,একরামুল আওয়াল,"২, মোহাম্মদগড় সেন্টার, Chawkbazar, Cumilla",5447018.1
+Kotbari,2.5,1400,2,6,রাজু মৃধা,"৩০৩, চিতলগড়, Kotbari, Cumilla",6484392.96
+Kotbari,2.5,1134,2,20,আব্বাস প্রামানিক,"৩৭, জগন্নাথপ্লাজা, Kotbari, Cumilla",5318097.31
+Bagichagaon,3.5,1590,2,22,ঋষিতা কান্ত,"৭০১, মোহাম্মদসেন্টার, Bagichagaon, Cumilla",7247012.29
+Tomsom Bridge,3.0,1736,3,21,রাজ মন্ডল,"৯৮৩, দক্ষিণ নন্দীনগর, Tomsom Bridge, Cumilla",7915169.69
+Kotbari,2.5,1035,2,14,দূর্গা সরকার,"৪, বন্দরগড় সেন্টার, Kotbari, Cumilla",4292076.1
+Chawkbazar,2.2,1690,3,10,বিপাশা ঠাকুর,"৯, মধ্য কাজীতলা প্লাজা, Chawkbazar, Cumilla",6172563.55
+Tomsom Bridge,3.0,1455,2,6,রাজু বর্মন,"১৩, পূর্ব জীবনপ্লাজা, Tomsom Bridge, Cumilla",6588134.67
+Tomsom Bridge,3.0,2032,3,7,অর্পিতা চৌধুরী,"৬, লালহার, Tomsom Bridge, Cumilla",8854077.13
+Jhawtala,3.8,1588,2,19,মুনতাকিম মজুমদার,"৯৬, পশ্চিম নাসিরবাজার মহাসড়ক, Jhawtala, Cumilla",7465059.12
+Kotbari,2.5,1655,3,23,চয়ন বর্মন,"২৫, সৈয়দগাঁ স্টেশন, Kotbari, Cumilla",6955694.07
+Shashongacha,2.0,1467,2,3,বাসির সিনহা,"৫৭০, পশ্চিম সুন্দরগলি, Shashongacha, Cumilla",5196980.2
+Police Line,3.1,2241,4,24,লতা রাও,"৮৫০, বিরামবাড়ি, Police Line, Cumilla",8451564.61
+Dharmapur,1.8,2079,3,10,বিপাশা মৃধা,"৬, পুরাতন তেরমাটি, Dharmapur, Cumilla",8126890.08
+Tomsom Bridge,3.0,1584,2,17,প্রীতি ব্যানার্জি,"৫৫, দক্ষিণ শাজাহানগঞ্জ স্টেশন, Tomsom Bridge, Cumilla",6897056.53
+Kandirpar,4.0,1442,2,4,মাধু বাগচী,"৫৭৭, পুরাতন বদররাস্তা, Kandirpar, Cumilla",7137077.26
+Chawkbazar,2.2,1051,2,3,শেখর চৌধুরী,"২৩, পুরাতন মনিরামসড়ক, Chawkbazar, Cumilla",5486749.26
+Tomsom Bridge,3.0,1462,2,10,চঞ্চল তালুকদার,"৯, পশ্চিম দৌলতচর স্টেশন, Tomsom Bridge, Cumilla",6449790.33
+Kotbari,2.5,2129,3,21,আজম তাবাসসুম,"৮৮, মধ্য মোড়লখালি সড়ক, Kotbari, Cumilla",8693539.22
+Kotbari,2.5,1266,2,18,তুষার আওয়াল,"২০২, মহাদেবদিয়া পার্ক, Kotbari, Cumilla",5215052.25
+Jhawtala,3.8,1308,2,19,সাব্বির চৌধুরী,"৬৪০, কমলচর সড়ক, Jhawtala, Cumilla",7084450.4
+Race Course,3.2,1712,3,6,ইকবাল বিশ্বাস,"৩৯, দক্ষিণ কুতুবগাঁও গলি, Race Course, Cumilla",8128719.87
+Police Line,3.1,1238,2,10,তন্ময় রাও,"২৮, দেবীসড়ক, Police Line, Cumilla",6278249.17
+Dharmapur,1.8,1197,2,5,শুভ সিনহা,"৫১৫, রামপার্ক, Dharmapur, Cumilla",5656383.0
+Jhawtala,3.8,1176,2,10,কাবেরি চৌধুরী,"২, নতুন গৌরস্টেশন, Jhawtala, Cumilla",5655600.04
+Chawkbazar,2.2,896,2,13,রাসেল কাদের,"৩, মনিরামসড়ক, Chawkbazar, Cumilla",4189210.77
+Chawkbazar,2.2,1202,2,17,আদি দাস,"৭, সদরচত্বর, Chawkbazar, Cumilla",5202550.62
+Tomsom Bridge,3.0,1410,2,10,আশ্বিনী চৌধুরী,"৮২, মনিরামমোড়, Tomsom Bridge, Cumilla",6848783.17
+Police Line,3.1,1603,2,14,তুষার প্রামানিক,"৬, বদরঘাট, Police Line, Cumilla",6879363.71
+Bagichagaon,3.5,1609,2,19,আশীষ সাহা,"৯৪৭, উত্তর ফকিরবাড়ি, Bagichagaon, Cumilla",7289227.95
+Dharmapur,1.8,1832,3,0,বাদল উদ্দিন,"১, শরণগঞ্জ সড়ক, Dharmapur, Cumilla",7501552.15
+Kotbari,2.5,2154,3,0,সৌম্য দত্ত,"৪, পূর্ব নন্দীতলা প্লাজা, Kotbari, Cumilla",8675256.52
+Tomsom Bridge,3.0,1681,3,9,ইকবাল মৃধা,"২১৭, দক্ষিণ সুন্দরপাড়া, Tomsom Bridge, Cumilla",6245935.61
+Kandirpar,4.0,879,2,19,প্রিয়ম বন্দোপাধ্যায়,"৪, দক্ষিণ হোসেনগ্রাম প্লাজা, Kandirpar, Cumilla",4887387.36
+Tomsom Bridge,3.0,1743,3,6,আশালতা বন্দোপাধ্যায়,"১৭, উত্তর মহেশগড়, Tomsom Bridge, Cumilla",7634319.53
+Tomsom Bridge,3.0,1511,2,1,আনন্দ তালুকদার,"১, সুন্দরস্টেশন, Tomsom Bridge, Cumilla",6153112.05
+Kandirpar,4.0,1518,2,22,রিনা যাদব,"৬৩, নতুন বাকেরস্ট্যান্ড, Kandirpar, Cumilla",7360781.08
+Dharmapur,1.8,1656,3,15,জয়দীপ কান্ত,"৭, মহেশমাটি, Dharmapur, Cumilla",6686721.88
+Kandirpar,4.0,1123,2,0,মাধু মৃধা,"৩৭৭, মধ্য কুমারহাট মোড়, Kandirpar, Cumilla",6132693.63
+Race Course,3.2,1500,2,1,মনোজ সরকার,"৯, দক্ষিণ কালীগাঁও স্টেশন, Race Course, Cumilla",6786139.77
+Tomsom Bridge,3.0,1149,2,23,সাবের মিঞা,"৫০, পশ্চিম দেবীস্টেশন, Tomsom Bridge, Cumilla",4118185.84
+Jhawtala,3.8,1138,2,11,আনন্দ কাদের,"৬, নন্দীরাস্তা, Jhawtala, Cumilla",5932215.58
+Bagichagaon,3.5,872,2,18,অশোক দাশগুপ্তা,"৮৬৪, উত্তর ব্রাহ্মণমাটি সেন্টার, Bagichagaon, Cumilla",5245386.63
+Chawkbazar,2.2,2109,3,6,তামিম আবদুল্লাহ,"৩৬, শান্তিসড়ক, Chawkbazar, Cumilla",7894542.61
+Tomsom Bridge,3.0,2189,3,16,সৌমিক মোড়ল,"৭৫৪, মধ্য আলমডাঙ্গা এভিনিউ, Tomsom Bridge, Cumilla",8819244.76
+Bagichagaon,3.5,1431,2,19,মাধুরী তালুকদার,"৪২৫, কুতুবএভিনিউ, Bagichagaon, Cumilla",6634400.78
+Shashongacha,2.0,1437,2,20,অদিতি সরকার,"৫, মোড়লতলা, Shashongacha, Cumilla",5433341.62
+Kandirpar,4.0,1250,2,6,বাসির সিনহা,"৫৯৪, নতুন ফটিকডাঙ্গা রোড, Kandirpar, Cumilla",6740979.3
+Kandirpar,4.0,1659,3,10,চঞ্চল আচার্য্য,"৪, মিরদিয়া পাড়া, Kandirpar, Cumilla",7593365.35
+Kotbari,2.5,1720,3,9,মিষ্টি চৌধুরী,"৭, দক্ষিণ মিরডাঙ্গা কর্নার, Kotbari, Cumilla",7090635.63
+Dharmapur,1.8,1572,2,11,ইমতিয়াজ প্রামানিক,"৯৮২, পূর্ব ফটিকগ্রাম প্লাজা, Dharmapur, Cumilla",6016280.84
+Kotbari,2.5,1478,2,17,খুশি বসু,"৯, জগন্নাথচত্বর, Kotbari, Cumilla",6029138.78
+Dharmapur,1.8,1437,2,6,মৃত্যুঞ্জয় সিনহা,"৩, পশ্চিম উজিরমহল্লা, Dharmapur, Cumilla",5820106.46
+Race Course,3.2,1006,2,21,সাব্বির হুরাইরা,"৫২, উত্তর নালিতারাস্তা, Race Course, Cumilla",4251297.9
+Tomsom Bridge,3.0,971,2,21,অভি চ্যাটার্জি,"২, পূর্ব দেবীদিয়া, Tomsom Bridge, Cumilla",4600191.69
+Police Line,3.1,1152,2,5,আকাশ বিশ্বাস,"৭৫০, মোহাম্মদস্টেশন, Police Line, Cumilla",5510714.76
+Bagichagaon,3.5,800,2,6,রহিম মজুমদার,"৮৯, পশ্চিম হাকিমলেন, Bagichagaon, Cumilla",4706177.03
+Dharmapur,1.8,1220,2,13,শ্রাবনী হুরাইরা,"৬৯, নতুন হাকিমপার্ক, Dharmapur, Cumilla",3806984.16
+Dharmapur,1.8,1306,2,24,অদৃতা মৃধা,"৩৪, পলাশডাঙ্গা, Dharmapur, Cumilla",5038897.18
+Dharmapur,1.8,1854,3,12,ইমতিয়াজ সিনহা,"৮০, পুরাতন দেবখালি মোড়, Dharmapur, Cumilla",6123638.86
+Jhawtala,3.8,961,2,7,শুভশ্রী মন্ডল,"৩, জগন্নাথমাটি, Jhawtala, Cumilla",5476435.8
+Dharmapur,1.8,1548,2,10,মুনতাসির হোসাইন,"১৯, পুরাতন নালিতাবাজার কর্নার, Dharmapur, Cumilla",5030347.58
+Police Line,3.1,1654,3,14,অন্তরা চৌধুরী,"৯, সুন্দরএভিনিউ, Police Line, Cumilla",7669508.81
+Race Course,3.2,2329,4,23,জগদীশ সিনহা,"৯১, মধ্য রানীখালি, Race Course, Cumilla",8874127.87
+Bagichagaon,3.5,1564,2,24,করিম আরা,"২৮৬, দক্ষিণ চৌদ্দখালি পার্ক, Bagichagaon, Cumilla",6190392.34
+Tomsom Bridge,3.0,1760,3,21,মাধুরী মিশ্র,"১, লালখালি, Tomsom Bridge, Cumilla",7179440.53
+Police Line,3.1,1517,2,8,শ্রাবন্তী সেন,"৪, ফকিরমহাসড়ক, Police Line, Cumilla",5985290.03
+Kandirpar,4.0,2641,4,13,আয়ুশি সরকার,"৫৫৬, কাজীপুর স্টেশন, Kandirpar, Cumilla",11754392.29
+Bagichagaon,3.5,2173,3,13,নয়ন তালুকদার,"৭, ওসমানীসেন্টার, Bagichagaon, Cumilla",10291198.37
+Chawkbazar,2.2,1501,2,14,অজিত আচার্য্য,"৩৮৫, মধ্য ব্রাহ্মণচত্বর, Chawkbazar, Cumilla",6811302.38
+Tomsom Bridge,3.0,1503,2,24,কেয়া হাকিম,"২৬, কমলবাড়ি, Tomsom Bridge, Cumilla",6806618.72
+Kotbari,2.5,1739,3,16,অশোক মন্ডল,"৬৬, মহাদেবমোড়, Kotbari, Cumilla",7691088.14
+Police Line,3.1,2030,3,14,আয়ুশি বাগচী,"২২৯, পূর্ব তারাচর, Police Line, Cumilla",8182091.17
+Shashongacha,2.0,1606,2,24,অজয় বিশ্বাস,"৮৬, শান্তিগঞ্জ গলি, Shashongacha, Cumilla",6109634.93
+Bagichagaon,3.5,2795,5,13,বিদ্যা সিনহা,"৬৬১, সৈয়দপাড়া, Bagichagaon, Cumilla",11712623.87
+Dharmapur,1.8,1032,2,23,বাকের চৌধুরী,"১৪, পূর্ব হাকিমলেন, Dharmapur, Cumilla",3535533.07
+Tomsom Bridge,3.0,921,2,17,আজাদ মৃধা,"৪, বিশ্বনাথগড়, Tomsom Bridge, Cumilla",5658314.01
+Police Line,3.1,800,2,1,আলিয়া প্রামানিক,"২২, মুরাদগ্রাম কর্নার, Police Line, Cumilla",4152218.45
+Dharmapur,1.8,2095,3,13,জয়দীপ মৃধা,"৬৬২, নতুন মনিরামঘাট, Dharmapur, Cumilla",7931591.5
+Race Course,3.2,1109,2,5,কাফি মৃধা,"৭৬৫, পূর্ব মানিকদিয়া মহল্লা, Race Course, Cumilla",5704734.14
+Kandirpar,4.0,1792,3,20,অনন্যা ব্যানার্জি,"৫৭৯, সুবর্ণগ্রাম রোড, Kandirpar, Cumilla",8728560.59
+Chawkbazar,2.2,800,2,23,মিনা পাল,"৯, দৌলতগঞ্জ লেন, Chawkbazar, Cumilla",3334254.06
+Dharmapur,1.8,1362,2,5,চঞ্চল বিশ্বাস,"৩৩, পূর্ব ইসলামচর, Dharmapur, Cumilla",4590109.5
+Tomsom Bridge,3.0,1928,3,17,মাধুরী সিনহা,"১৭৫, সুবর্ণবাড়ি, Tomsom Bridge, Cumilla",7945115.67
+Dharmapur,1.8,1892,3,3,শ্রাবনী বাগচী,"৪৩৩, উত্তর মাধবরোড, Dharmapur, Cumilla",7766715.86
+Chawkbazar,2.2,1826,3,18,প্রদীপ মন্ডল,"৪৪, ওসমানীমাটি, Chawkbazar, Cumilla",7549804.73
+Tomsom Bridge,3.0,1834,3,9,রোহিত মন্ডল,"৫৭৫, উত্তর দৌলতদিয়া, Tomsom Bridge, Cumilla",7313280.83
+Dharmapur,1.8,1745,3,9,শ্রাবনী প্রধান,"৭, নতুন লালচর প্লাজা, Dharmapur, Cumilla",7042609.91
+Kandirpar,4.0,1531,2,3,রাজ সিনহা,"৭০, নতুন বটিয়াহার মহাসড়ক, Kandirpar, Cumilla",8270612.81
+Race Course,3.2,1566,2,23,ইকবাল আলম,"৭, পার্বতীএভিনিউ, Race Course, Cumilla",7452094.72
+Chawkbazar,2.2,2616,4,1,আশ্বিনী মোড়ল,"৭৩০, পুরাতন সখিপার্ক, Chawkbazar, Cumilla",11562944.32
+Bagichagaon,3.5,1758,3,19,কুনাল সিনহা,"৩, গৌরনগর, Bagichagaon, Cumilla",8020242.39
+Police Line,3.1,1106,2,16,বাকের আক্তার,"৯, রামরোড, Police Line, Cumilla",5792941.83
+Jhawtala,3.8,1225,2,15,আনিস মৃধা,"৫৩, কুমারমাটি কর্নার, Jhawtala, Cumilla",6517089.91
+Police Line,3.1,1685,3,12,রিনা তালুকদার,"৫২, পশ্চিম বালিয়াচত্বর, Police Line, Cumilla",6572163.79
+Jhawtala,3.8,1328,2,1,রাসেল হোসাইন,"৫, তেরচর সড়ক, Jhawtala, Cumilla",7399227.36
+Shashongacha,2.0,1249,2,4,মিনা চ্যাটার্জি,"২১, পশ্চিম করিমগাঁ স্টেশন, Shashongacha, Cumilla",6018434.96
+Bagichagaon,3.5,1656,3,19,প্রান্ত ঘোষ,"৫, দক্ষিণ দৌলতগ্রাম, Bagichagaon, Cumilla",7815074.38
+Chawkbazar,2.2,2040,3,17,খুশি প্রামানিক,"৩৮৫, রামমাটি, Chawkbazar, Cumilla",7403000.16
+Chawkbazar,2.2,1653,3,5,রাশেদ সিনহা,"৫৬, গৌরহার, Chawkbazar, Cumilla",6939467.56
+Kandirpar,4.0,1201,2,16,মনোজ সিনহা,"৮৭১, কাজীগ্রাম, Kandirpar, Cumilla",6694528.05
+Jhawtala,3.8,2005,3,16,অদৃতা পোদ্দার,"১৭৩, সিরাজনগর এভিনিউ, Jhawtala, Cumilla",8545825.33
+Chawkbazar,2.2,1584,2,15,মিলা চন্দ্র,"৭৭৪, সিরাজতলা, Chawkbazar, Cumilla",6280803.59
+Tomsom Bridge,3.0,1187,2,4,আসাদ সরকার,"৫৭১, কমলমাটি, Tomsom Bridge, Cumilla",5451251.4
+Police Line,3.1,1729,3,14,আয়ুশি মন্ডল,"২, দৌলতডাঙ্গা, Police Line, Cumilla",7918738.78
+Shashongacha,2.0,1481,2,23,আকাশ পোদ্দার,"৬, মধ্য তারাপ্লাজা, Shashongacha, Cumilla",6223500.07
+Jhawtala,3.8,1298,2,19,আবির হোসাইন,"৮৭, কালিয়াডাঙ্গা, Jhawtala, Cumilla",6070538.26
+Jhawtala,3.8,1692,3,14,রুদ্র আওয়াল,"১৩, মোহাম্মদঘাট, Jhawtala, Cumilla",7437682.24
+Dharmapur,1.8,1540,2,14,বাকের রহমান,"৫৩৭, বাজিতলেন, Dharmapur, Cumilla",5845334.64
+Police Line,3.1,1684,3,18,মুনতাকিম খান,"৭২৪, পুরাতন মোহাম্মদহাট রোড, Police Line, Cumilla",7552571.03
+Kotbari,2.5,1871,3,23,তামিম খান,"৫০, মধ্য রায়হার গলি, Kotbari, Cumilla",7237638.53
+Jhawtala,3.8,1568,2,5,আরিয়া সরকার,"৪৬, শ্যামচর পাড়া, Jhawtala, Cumilla",7775270.25
+Chawkbazar,2.2,1627,2,6,অনিন্দিতা বোস,"৬০, মধুডাঙ্গা মহল্লা, Chawkbazar, Cumilla",7005299.91
+Kotbari,2.5,800,2,12,অঞ্জনা বিশ্বাস,"২০, করিমঘাট, Kotbari, Cumilla",3340781.27
+Bagichagaon,3.5,1848,3,8,প্রদ্যুম্ন মৃধা,"৮৩৬, পলাশসড়ক, Bagichagaon, Cumilla",8337583.03
+Tomsom Bridge,3.0,1696,3,22,আজম ইসলাম,"৯৮৫, বদরতলা পাড়া, Tomsom Bridge, Cumilla",6451193.55
+Kandirpar,4.0,1674,3,8,আরিয়ান আলম,"৩৬, হাকিমপুর লেন, Kandirpar, Cumilla",7394695.31
+Kotbari,2.5,1223,2,15,আজম সরকার,"১৩৯, জগন্নাথবাজার সেন্টার, Kotbari, Cumilla",5194000.34
+Chawkbazar,2.2,800,2,4,আমায়া গঙ্গোপাধ্যায়,"৫, পুরাতন মনিরামস্ট্যান্ড, Chawkbazar, Cumilla",3128383.81
+Kandirpar,4.0,1737,3,14,আনিস রহমান,"৯১১, শ্যামএভিনিউ, Kandirpar, Cumilla",8437430.85
+Race Course,3.2,1060,2,15,প্রিয়তি কান্ত,"৬০, পশ্চিম গোপালদিয়া, Race Course, Cumilla",5099082.76
+Shashongacha,2.0,1414,2,22,মুনতাসির খাতুন,"৩২০, কবিরগাঁ, Shashongacha, Cumilla",5594144.34
+Dharmapur,1.8,1036,2,2,বিনা বর্মন,"৪৩, পশ্চিম বেগমঘাট, Dharmapur, Cumilla",4642006.46
+Dharmapur,1.8,2259,4,10,আকাশ দাস,"৬৫, পশ্চিম মনোহরগাঁ, Dharmapur, Cumilla",8050675.86
+Kandirpar,4.0,1418,2,3,অহনা সরকার,"৬৫, হোসেনগাঁ স্টেশন, Kandirpar, Cumilla",7357317.03
+Race Course,3.2,1728,3,0,মুশফিক মিঞা,"৩৯৩, নতুন দেববাড়ি মহল্লা, Race Course, Cumilla",6998388.72
+Race Course,3.2,1525,2,1,আনন্দ মন্ডল,"৫৬, পুরাতন হাজীচত্বর, Race Course, Cumilla",7618175.62
+Kandirpar,4.0,1260,2,1,শুভশ্রী প্রামানিক,"২, ফকিরএভিনিউ, Kandirpar, Cumilla",6947247.86
+Police Line,3.1,1613,2,2,প্রদীপ মোড়ল,"৭, পূর্ব হরিরামডাঙ্গা চত্বর, Police Line, Cumilla",7305306.7
+Kandirpar,4.0,2100,3,0,ইউসুফ হাকিম,"২, নতুন দাউদমাটি এভিনিউ, Kandirpar, Cumilla",9220119.04
+Jhawtala,3.8,1328,2,1,প্রিয়াঙ্কা জামান,"৯৯৬, দক্ষিণ রামহাট লেন, Jhawtala, Cumilla",5987128.65
+Shashongacha,2.0,1906,3,19,লতা সিনহা,"৭৭৬, পুরাতন গৌরডাঙ্গা, Shashongacha, Cumilla",6894893.51
+Kotbari,2.5,2013,3,14,অলোকা গঙ্গোপাধ্যায়,"৪, নতুন সদরস্ট্যান্ড, Kotbari, Cumilla",7571715.11
+Shashongacha,2.0,1769,3,15,প্রদীপ চন্দ্র,"৩২৭, বাঘারগড় স্ট্যান্ড, Shashongacha, Cumilla",6681759.43
+Kotbari,2.5,1881,3,8,সজীব মন্ডল,"৭৬, মধ্য কালীপুর, Kotbari, Cumilla",6725935.53
+Police Line,3.1,1545,2,21,রাহুল বিশ্বাস,"৬২, পশ্চিম দেবীনগর, Police Line, Cumilla",7383650.81
+Shashongacha,2.0,2089,3,6,চয়ন মৃধা,"৯৫৬, কুমারপাড়া, Shashongacha, Cumilla",7900235.95
+Race Course,3.2,1916,3,11,মুশফিক মোড়ল,"১৩, পুরাতন সৈয়দগড়, Race Course, Cumilla",7683712.96
+Tomsom Bridge,3.0,1189,2,5,নয়ন বিশ্বাস,"৩৯, পূর্ব মিরগড়, Tomsom Bridge, Cumilla",5208529.56
+Dharmapur,1.8,1709,3,16,সাবের হাকিম,"৩৬, দেবডাঙ্গা রোড, Dharmapur, Cumilla",6444973.88
+Bagichagaon,3.5,1663,3,1,প্রীতি আরা,"৯৮৬, দক্ষিণ মিরগঞ্জ, Bagichagaon, Cumilla",8441333.54
+Kandirpar,4.0,1923,3,13,আরিয়ান আলম,"৩৭, মধ্য মনিরামপার্ক, Kandirpar, Cumilla",9202568.99
+Dharmapur,1.8,2006,3,17,আজাদ সুলতানা,"৫৬, রায়কর্নার, Dharmapur, Cumilla",7145851.87
+Jhawtala,3.8,1641,2,18,শান্ত ইসলাম,"৮৫, হাকিমগড়, Jhawtala, Cumilla",7348072.06
+Police Line,3.1,1960,3,22,আরিয়ান দে,"৮৬৭, শাজাহানগড় চত্বর, Police Line, Cumilla",7423675.24
+Kandirpar,4.0,1494,2,6,কাজল মন্ডল,"৫, দক্ষিণ শিবগড়, Kandirpar, Cumilla",7477590.88
+Jhawtala,3.8,2030,3,6,আব্বাস ইসলাম,"৩, দাউদতলা চত্বর, Jhawtala, Cumilla",9848493.02
+Bagichagaon,3.5,1882,3,18,ইমতিয়াজ হাকিম,"৩, সৈয়দখালি লেন, Bagichagaon, Cumilla",7844174.27
+Shashongacha,2.0,2525,4,6,নাদিম চৌধুরী,"৯৭, রানীবাজার মহল্লা, Shashongacha, Cumilla",9683648.5
+Police Line,3.1,1813,3,17,আরিয়া আওয়াল,"৩৯, দক্ষিণ সুবর্ণগ্রাম, Police Line, Cumilla",6991499.28
+Kotbari,2.5,1581,2,21,শাওন খান,"৫৩, গৌরডাঙ্গা মহল্লা, Kotbari, Cumilla",6247551.99
+Tomsom Bridge,3.0,1505,2,1,মাধু তালুকদার,"৫৮, নতুন কুমারখালি পাড়া, Tomsom Bridge, Cumilla",6662092.61
+Chawkbazar,2.2,1726,3,7,নন্দিতা হোসাইন,"৪৩, বিরামডাঙ্গা পাড়া, Chawkbazar, Cumilla",7521563.27
+Kotbari,2.5,2187,3,22,সৌম্য পাণ্ডে,"১৩, নতুন রানীপাড়া, Kotbari, Cumilla",9520649.53
+Police Line,3.1,1518,2,4,নিশিতা পাল,"৮০১, কেশবতলা, Police Line, Cumilla",6519016.46
+Bagichagaon,3.5,1829,3,16,নন্দিতা বর্মন,"৭০, নতুন চিতলঘাট, Bagichagaon, Cumilla",8125917.63
+Police Line,3.1,1695,3,2,দূর্গা মন্ডল,"৪, মোল্লামাটি কর্নার, Police Line, Cumilla",6834536.97
+Jhawtala,3.8,1314,2,5,প্রদ্যুম্ন শুক্লা,"৭৭, আলমহাট, Jhawtala, Cumilla",7494552.43
+Tomsom Bridge,3.0,1543,2,24,আশ্বিনী সিনহা,"৫, পুরাতন সদরহাট, Tomsom Bridge, Cumilla",6095090.35
+Kandirpar,4.0,1141,2,6,মাধুরী গঙ্গোপাধ্যায়,"৪, দক্ষিণ আলমদিয়া স্টেশন, Kandirpar, Cumilla",6750682.86
+Dharmapur,1.8,1885,3,23,বিপাশা পোদ্দার,"৩৫, পুরাতন পলাশনগর পাড়া, Dharmapur, Cumilla",6041843.55
+Tomsom Bridge,3.0,2315,4,1,লতা মজুমদার,"১৯০, পুরাতন মনোহরমোড়, Tomsom Bridge, Cumilla",9173394.0
+Dharmapur,1.8,1722,3,5,অনিন্দিতা বিশ্বাস,"৩, উত্তর ওসমানীমহল্লা, Dharmapur, Cumilla",6236025.91
+Jhawtala,3.8,2101,3,21,তামিম জামান,"৩, কালিয়াহাট রোড, Jhawtala, Cumilla",10230025.13
+Jhawtala,3.8,1456,2,24,তুষার বসু,"৯, দক্ষিণ বিজয়হাট ঘাট, Jhawtala, Cumilla",7485321.52
+Bagichagaon,3.5,1642,2,15,ইমন মজুমদার,"৬৭৭, পুরাতন নড়িয়াগাঁ, Bagichagaon, Cumilla",8620436.23
+Jhawtala,3.8,1635,2,9,রাজু রহমান,"৩, মধ্য বিরামডাঙ্গা, Jhawtala, Cumilla",7768045.1
+Chawkbazar,2.2,2024,3,0,কুনাল মুখার্জি,"১, নতুন বকশীবাজার সেন্টার, Chawkbazar, Cumilla",7340787.4
+Jhawtala,3.8,2325,4,24,মিষ্টি সেন,"৯৮, নতুন হরিরামতলা পার্ক, Jhawtala, Cumilla",9898116.65
+Jhawtala,3.8,2521,4,24,তুষার আচার্য্য,"৩২৪, মনোহরগঞ্জ, Jhawtala, Cumilla",11184946.91
+Race Course,3.2,1807,3,4,সজীব কাদের,"২৭, নাসিরপুর, Race Course, Cumilla",7698156.21
+Tomsom Bridge,3.0,1126,2,8,মুশফিক আওয়াল,"৮, নতুন বাকেরহার চত্বর, Tomsom Bridge, Cumilla",5426008.84
+Race Course,3.2,1427,2,20,মৃত্যুঞ্জয় কান্ত,"৩২, পার্বতীদিয়া মহাসড়ক, Race Course, Cumilla",7012513.03
+Race Course,3.2,1498,2,7,আয়ুষ মোড়ল,"৫১০, নতুন বাজিতগাঁ, Race Course, Cumilla",7091697.94
+Jhawtala,3.8,1670,3,12,প্রদীপ যাদব,"৮৮, পুরাতন মুরাদহার প্লাজা, Jhawtala, Cumilla",7626100.61
+Police Line,3.1,1239,2,18,মিলন পোদ্দার,"৮, পুরাতন শাজাহানঘাট, Police Line, Cumilla",6128188.57
+Chawkbazar,2.2,1845,3,20,ইশিতা দে,"১২, পশ্চিম দেবমাটি, Chawkbazar, Cumilla",6396836.36
+Shashongacha,2.0,1374,2,2,মোস্তাফিজ বিশ্বাস,"৬, পশ্চিম মির্জাগঞ্জ কর্নার, Shashongacha, Cumilla",5906229.25
+Bagichagaon,3.5,1941,3,20,অর্না জামান,"৬৯, পশ্চিম অভয়মহল্লা, Bagichagaon, Cumilla",8011924.69
+Police Line,3.1,1638,2,7,প্রিয় তালুকদার,"৩৬, মধ্য পার্বতীমহাসড়ক, Police Line, Cumilla",7708474.42
+Jhawtala,3.8,2438,4,18,অর্ণব চৌধুরী,"৯, কাজীস্টেশন, Jhawtala, Cumilla",10575739.75
+Police Line,3.1,1480,2,13,অর্না ঘোষ,"৬২২, পুরাতন কুতুবগঞ্জ, Police Line, Cumilla",7541832.51
+Dharmapur,1.8,1368,2,9,আকাশ হক,"৭৮৫, সদরগলি, Dharmapur, Cumilla",5352788.64
+Race Course,3.2,2097,3,0,আরিয়ান হক,"৫, মধ্য গৌরহাট সড়ক, Race Course, Cumilla",9181432.75
+Race Course,3.2,1600,2,2,রিনা কুমার,"৪, মধ্য বোরহানগ্রাম এভিনিউ, Race Course, Cumilla",6693876.49
+Chawkbazar,2.2,1255,2,19,অজয় চট্টোপাধ্যায়,"৫৬২, উত্তর শিবতলা, Chawkbazar, Cumilla",5280736.86
+Shashongacha,2.0,1831,3,20,অজিত প্রামানিক,"৮৬, বালিয়াপ্লাজা, Shashongacha, Cumilla",6421632.03
+Chawkbazar,2.2,1183,2,16,রাজু মুখার্জি,"৫, নতুন মাধবগাঁ চত্বর, Chawkbazar, Cumilla",4848208.21
+Dharmapur,1.8,1554,2,0,ঋষিতা বাগচী,"৭৫, বদররোড, Dharmapur, Cumilla",5742882.47
+Jhawtala,3.8,2013,3,18,আরাধ্যা সরকার,"৯, উত্তর মোল্লাখালি কর্নার, Jhawtala, Cumilla",8827817.11
+Jhawtala,3.8,2298,4,18,শাওন রাও,"৩, মনিরামগ্রাম, Jhawtala, Cumilla",10626319.73
+Dharmapur,1.8,800,2,11,মৃত্যুঞ্জয় দাস,"৪৮, নন্দীডাঙ্গা, Dharmapur, Cumilla",3076887.08
+Dharmapur,1.8,1697,3,14,আজম তালুকদার,"২, পুরাতন সুন্দরডাঙ্গা সেন্টার, Dharmapur, Cumilla",6814009.63
+Race Course,3.2,2195,3,20,ইউসুফ রহমান,"২৭, পুরাতন মহেশগড় মহল্লা, Race Course, Cumilla",8624914.92
+Shashongacha,2.0,1656,3,3,সুশান্ত সরকার,"৮, মির্জাহার, Shashongacha, Cumilla",6403673.74
+Chawkbazar,2.2,2117,3,8,ঋষিতা সরকার,"১৬, মধ্য হাজীপুর গলি, Chawkbazar, Cumilla",8114871.72
+Police Line,3.1,2016,3,18,আবির জামান,"২৬৫, হোসেনখালি, Police Line, Cumilla",7972193.5
+Chawkbazar,2.2,1085,2,8,মুশফিক আওয়াল,"৪, গৌরচত্বর, Chawkbazar, Cumilla",4888144.56
+Jhawtala,3.8,1037,2,12,বিনয় কান্ত,"৫, দক্ষিণ পার্বতীগড়, Jhawtala, Cumilla",5994097.08
+Chawkbazar,2.2,1295,2,17,আশালতা পাল,"৭১৫, নন্দীহাট, Chawkbazar, Cumilla",4831461.72
+Kotbari,2.5,1371,2,16,অঞ্জনা মোড়ল,"৬, মধ্য নড়িয়াগড়, Kotbari, Cumilla",6387333.72
+Kandirpar,4.0,1946,3,10,রাশেদ প্রামানিক,"৯, বিরামগঞ্জ ঘাট, Kandirpar, Cumilla",8800566.78
+Race Course,3.2,1747,3,10,রাজ মুখার্জি,"২, মধুকর্নার, Race Course, Cumilla",7920943.1
+Kandirpar,4.0,893,2,22,তনয় প্রামানিক,"১৪৬, হোসেনদিয়া, Kandirpar, Cumilla",5015749.13
+Chawkbazar,2.2,1193,2,2,দূর্গা বন্দোপাধ্যায়,"৮, দৌলতগ্রাম, Chawkbazar, Cumilla",5330291.83
+Jhawtala,3.8,1608,2,23,রায়হান মজুমদার,"৫, শরণবাড়ি চত্বর, Jhawtala, Cumilla",7215476.62
+Chawkbazar,2.2,1551,2,23,মুনতাসির হোসাইন,"৪, দক্ষিণ জগন্নাথহাট, Chawkbazar, Cumilla",5745212.02
+Dharmapur,1.8,1690,3,8,মাধুরী শুক্লা,"৭৪, পশ্চিম কমলহাট, Dharmapur, Cumilla",6697427.42
+Jhawtala,3.8,1923,3,23,মুশফিক হাকিম,"৩৭, করিমস্ট্যান্ড, Jhawtala, Cumilla",9318945.36
+Chawkbazar,2.2,1938,3,20,বাকের ইসলাম,"৭৩, মধ্য সৈয়দমাটি সড়ক, Chawkbazar, Cumilla",6892985.58
+Jhawtala,3.8,1453,2,6,ইমতিয়াজ বিশ্বাস,"৭৭২, উত্তর মোড়লকর্নার, Jhawtala, Cumilla",6374410.37
+Kotbari,2.5,1921,3,12,তনয় মজুমদার,"৩৩১, মহাদেবদিয়া, Kotbari, Cumilla",6456715.57
+Tomsom Bridge,3.0,2016,3,9,নিশিতা দাস,"৬৬, সুন্দরগাঁও পাড়া, Tomsom Bridge, Cumilla",8926604.08
+Police Line,3.1,1590,2,5,বিনা সরকার,"৬৬, নতুন অভয়মাটি পাড়া, Police Line, Cumilla",7564514.82
+Bagichagaon,3.5,1128,2,16,আশ্বিনী পাল,"৪৬১, কবিরহাট এভিনিউ, Bagichagaon, Cumilla",5228687.47
+Chawkbazar,2.2,2266,4,23,হৈমন্তী সরকার,"৭০৬, কুতুবডাঙ্গা, Chawkbazar, Cumilla",7902819.39
+Jhawtala,3.8,2025,3,22,বাঁধন ঘোষ,"৩১, মধুতলা, Jhawtala, Cumilla",8737758.42
+Chawkbazar,2.2,1875,3,16,রহিম তাবাসসুম,"৮৫২, দক্ষিণ করিমঘাট, Chawkbazar, Cumilla",6946215.97
+Jhawtala,3.8,1529,2,18,অদিতি রায়,"৩২, পূর্ব নাসিরডাঙ্গা, Jhawtala, Cumilla",6624782.15
+Kandirpar,4.0,1637,2,3,আসাদ মজুমদার,"৮০১, চিতলপুর পাড়া, Kandirpar, Cumilla",7486368.22
+Race Course,3.2,2116,3,23,প্রশান্ত বাগচী,"৮২, বটিয়াস্ট্যান্ড, Race Course, Cumilla",9398639.76
+Bagichagaon,3.5,1790,3,13,খুশি সাহা,"৫, পূর্ব নালিতামোড়, Bagichagaon, Cumilla",8311212.06
+Tomsom Bridge,3.0,1600,2,0,মিষ্টি উদ্দিন,"৩৩, পূর্ব লালগড় স্ট্যান্ড, Tomsom Bridge, Cumilla",6966092.28
+Tomsom Bridge,3.0,1729,3,22,বাসির জামান,"২১, হাজীতলা, Tomsom Bridge, Cumilla",7574797.13
+Police Line,3.1,1506,2,17,শাওন মোড়ল,"৪০৪, দেবীপুর, Police Line, Cumilla",6533742.92
+Kandirpar,4.0,1735,3,2,মাধু যাদব,"৪৮, নতুন গোপালতলা লেন, Kandirpar, Cumilla",8633774.34
+Chawkbazar,2.2,1760,3,5,রাজু মোড়ল,"১, নতুন গোপালতলা চত্বর, Chawkbazar, Cumilla",6389653.56
+Jhawtala,3.8,1044,2,14,আনন্দ সরকার,"২৮৭, পূর্ব পলাশচর রাস্তা, Jhawtala, Cumilla",5639656.35
+Jhawtala,3.8,1618,2,9,রোহিত সিনহা,"৬৫, পূর্ব নাসিরডাঙ্গা প্লাজা, Jhawtala, Cumilla",7875636.78
+Chawkbazar,2.2,1824,3,15,কাবেরি মিশ্র,"৯, নতুন গোপালপুর, Chawkbazar, Cumilla",7506646.24
+Kotbari,2.5,1886,3,15,জয়দীপ মিশ্র,"৪৯, উত্তর ইসলামবাড়ি, Kotbari, Cumilla",7321689.89
+Police Line,3.1,1938,3,13,অন্তরা হুরাইরা,"৩০৩, নাসিরপ্লাজা, Police Line, Cumilla",7543526.06
+Shashongacha,2.0,1733,3,16,মুশফিক হাকিম,"৪০, বিরামগড় লেন, Shashongacha, Cumilla",6493113.19
+Chawkbazar,2.2,2082,3,24,আশালতা পোদ্দার,"৮, শিবএভিনিউ, Chawkbazar, Cumilla",6810859.4
+Kotbari,2.5,2143,3,15,মনোজ পোদ্দার,"৩, মধ্য চিতলরোড, Kotbari, Cumilla",8506613.08
+Bagichagaon,3.5,2141,3,24,আদি মন্ডল,"৯৯, কুমারবাজার রাস্তা, Bagichagaon, Cumilla",8981672.79
+Dharmapur,1.8,1919,3,1,আকাশ মন্ডল,"৩, পুরাতন মহেশমাটি, Dharmapur, Cumilla",8338462.33
+Shashongacha,2.0,1519,2,12,অভি সরকার,"৯, জীবনগাঁও, Shashongacha, Cumilla",5390835.85
+Shashongacha,2.0,2234,4,15,অন্তরা মিঞা,"৫৭, গোপালঘাট, Shashongacha, Cumilla",8885356.67
+Kandirpar,4.0,1291,2,2,অহনা উদ্দিন,"১৯, রামচর স্ট্যান্ড, Kandirpar, Cumilla",6458769.95
+Police Line,3.1,2123,3,3,ডলি শুক্লা,"৮, বদরহার, Police Line, Cumilla",9365124.07
+Jhawtala,3.8,1322,2,2,আমায়া দত্ত,"৪০, সিরাজগ্রাম রোড, Jhawtala, Cumilla",6111262.27
+Kandirpar,4.0,1616,2,20,আশীষ দাস,"৯১৬, পূর্ব রানীডাঙ্গা চত্বর, Kandirpar, Cumilla",7732793.44
+Race Course,3.2,2176,3,24,দূর্গা সরকার,"৬, সিরাজসেন্টার, Race Course, Cumilla",8711795.61
+Race Course,3.2,1656,3,4,মিষ্টি গাঙ্গুলি,"৪১৯, হরিরামখালি ঘাট, Race Course, Cumilla",7466947.23
+Police Line,3.1,1642,2,5,মোস্তাফিজ মন্ডল,"৩, পুরাতন কমলস্টেশন, Police Line, Cumilla",7658554.92
+Chawkbazar,2.2,1967,3,9,অভিষেক সিনহা,"৩১৫, পশ্চিম মধুডাঙ্গা, Chawkbazar, Cumilla",8088997.97
+Bagichagaon,3.5,1745,3,2,বিনয় তালুকদার,"২৮, রানীমাটি মহাসড়ক, Bagichagaon, Cumilla",8103276.3
+Dharmapur,1.8,1843,3,1,ডলি মিঞা,"৭০৫, পশ্চিম পাইকস্ট্যান্ড, Dharmapur, Cumilla",7444638.95
+Kotbari,2.5,1924,3,4,অশোক সেন,"২২১, মধ্য শ্যামপ্লাজা, Kotbari, Cumilla",7936555.59
+Bagichagaon,3.5,1850,3,7,মুনতাসির সিনহা,"২৯৪, সিরাজডাঙ্গা, Bagichagaon, Cumilla",8944223.58
+Race Course,3.2,1513,2,16,প্রিয়া খাতুন,"৬, পশ্চিম ওসমানীসড়ক, Race Course, Cumilla",5608093.13
+Tomsom Bridge,3.0,2126,3,9,আনন্দ প্রধান,"৭, কেশবখালি, Tomsom Bridge, Cumilla",8884251.5
+Tomsom Bridge,3.0,1472,2,18,অলোকা মোড়ল,"৬, হাকিমখালি, Tomsom Bridge, Cumilla",5823544.27
+Shashongacha,2.0,1991,3,12,এনামুল প্রামানিক,"৩, নতুন মধুপার্ক, Shashongacha, Cumilla",8406838.35
+Jhawtala,3.8,1726,3,16,বিদ্যা দাশগুপ্তা,"৬, চৌদ্দমোড়, Jhawtala, Cumilla",7567024.57
+Tomsom Bridge,3.0,884,2,12,লতা দত্ত,"৫৩২, দেবলেন, Tomsom Bridge, Cumilla",4546522.19
+Race Course,3.2,1089,2,6,আনিস বিশ্বাস,"৩৭৮, পশ্চিম মহেশমাটি পার্ক, Race Course, Cumilla",4567858.66
+Kandirpar,4.0,967,2,1,দূর্গা বিশ্বাস,"৭৫, পূর্ব চৌদ্দবাড়ি স্টেশন, Kandirpar, Cumilla",6271811.94
+Shashongacha,2.0,800,2,14,নাদিম খানম,"৫৯৪, নতুন পলাশগড়, Shashongacha, Cumilla",2924058.38
+Dharmapur,1.8,2157,3,23,ইকবাল কাদের,"৬৯, পুরাতন লালনগর, Dharmapur, Cumilla",7328627.12
+Bagichagaon,3.5,1829,3,12,একরামুল আলি,"৬৬৮, পূর্ব করিমঘাট, Bagichagaon, Cumilla",9013092.34
+Kotbari,2.5,1905,3,20,কাবেরি তালুকদার,"৯৬৯, করিমস্ট্যান্ড, Kotbari, Cumilla",6688756.2
+Shashongacha,2.0,1306,2,7,আব্বাস মন্ডল,"৮৮, কেশবপুর ঘাট, Shashongacha, Cumilla",5036120.21
+Race Course,3.2,1023,2,3,শ্রাবন্তী সিং,"৫৮, মোহাম্মদঘাট, Race Course, Cumilla",5032499.33
+Jhawtala,3.8,1275,2,2,অঞ্জনা জামান,"৭, দক্ষিণ নাসিরখালি মহাসড়ক, Jhawtala, Cumilla",8187022.06
+Kandirpar,4.0,1329,2,7,ইকবাল আলি,"১৫৮, পূর্ব মানিকমাটি, Kandirpar, Cumilla",6166300.84
+Tomsom Bridge,3.0,2096,3,9,ইশিতা মন্ডল,"৫২, পুরাতন মনিরামচর পাড়া, Tomsom Bridge, Cumilla",9112239.03
+Police Line,3.1,2253,4,19,ইশতিয়াক বিশ্বাস,"৫২৪, হাজীগাঁ গলি, Police Line, Cumilla",9772008.76
+Chawkbazar,2.2,1662,3,13,রহিম বিশ্বাস,"৩৯, নতুন কমলবাড়ি স্টেশন, Chawkbazar, Cumilla",6039614.12
+Bagichagaon,3.5,2261,4,18,করিম রহমান,"২০২, পশ্চিম উজিরচত্বর, Bagichagaon, Cumilla",10130468.37
+Jhawtala,3.8,1686,3,13,অর্ঘ্য সরকার,"৩, ব্রাহ্মণপ্লাজা, Jhawtala, Cumilla",8252049.65
+Dharmapur,1.8,1482,2,16,চয়ন পোদ্দার,"৭, পুরাতন জীবনগঞ্জ এভিনিউ, Dharmapur, Cumilla",5774872.27
+Tomsom Bridge,3.0,1564,2,16,আরুণি মৃধা,"৯৫, কমললেন, Tomsom Bridge, Cumilla",6654923.04
+Shashongacha,2.0,2148,3,24,রাশেদুল মজুমদার,"৭৭, মধ্য বটিয়ানগর, Shashongacha, Cumilla",8004087.73
+Kandirpar,4.0,1300,2,23,অলোকা মৃধা,"৮, উত্তর উজিরগাঁও রোড, Kandirpar, Cumilla",6621695.01
+Race Course,3.2,1758,3,8,অমল সরকার,"৮৮, মোড়লগড়, Race Course, Cumilla",8017774.31
+Kotbari,2.5,2159,3,11,আশ্বিনী বিশ্বাস,"৬, নতুন করিমনগর, Kotbari, Cumilla",8651102.42
+Kandirpar,4.0,1410,2,22,আরাধ্যা তালুকদার,"৭, পুরাতন মহাদেবচর, Kandirpar, Cumilla",6745679.57
+Dharmapur,1.8,1243,2,10,রাজ আলম,"১৩, উত্তর লালখালি, Dharmapur, Cumilla",5786955.43
+Bagichagaon,3.5,1652,3,15,ডলি মুখার্জি,"৬, মধ্য মহেশনগর, Bagichagaon, Cumilla",6867082.96
+Police Line,3.1,824,2,13,অনিন্দিতা যাদব,"৫১, পূর্ব কুতুবগঞ্জ, Police Line, Cumilla",4685038.88
+Race Course,3.2,1465,2,12,অদিতি বাগচী,"৪১৯, পূর্ব কমলগড় পার্ক, Race Course, Cumilla",6510822.45
+Race Course,3.2,1300,2,11,মুনতাকিম উদ্দিন,"৫৯৫, মধ্য কমলমাটি, Race Course, Cumilla",6790436.62
+Police Line,3.1,2283,4,24,অদৃতা মজুমদার,"৩, করিমচর পার্ক, Police Line, Cumilla",9195131.9
+Tomsom Bridge,3.0,1209,2,4,আজম মিঞা,"৫০, পুরাতন হাকিমমোড়, Tomsom Bridge, Cumilla",5551759.59
+Jhawtala,3.8,1487,2,9,অর্ঘ্য মোড়ল,"৬৪, পূর্ব বন্দরমাটি চত্বর, Jhawtala, Cumilla",7782517.24
+Dharmapur,1.8,1474,2,15,শ্রাবনী জাহান,"৫, জীবনঘাট, Dharmapur, Cumilla",5674935.67
+Jhawtala,3.8,842,2,5,আরাধ্যা সরকার,"৮২৮, পুরাতন লালগাঁও পার্ক, Jhawtala, Cumilla",4632486.35
+Dharmapur,1.8,1943,3,14,মুনতাসির জাহান,"৬১, পশ্চিম বন্দরখালি, Dharmapur, Cumilla",7376561.6
+Bagichagaon,3.5,1276,2,0,প্রশান্ত চৌধুরী,"৭৯৩, সদরস্ট্যান্ড, Bagichagaon, Cumilla",6787607.81
+Kandirpar,4.0,1548,2,13,আমায়া মুখার্জি,"৮, আলমমাটি চত্বর, Kandirpar, Cumilla",7974217.1
+Tomsom Bridge,3.0,1577,2,23,কেয়া মিঞা,"৭৩, কালীতলা কর্নার, Tomsom Bridge, Cumilla",6913042.96
+Bagichagaon,3.5,1435,2,21,প্রদীপ বসু,"১২, ফটিকগঞ্জ, Bagichagaon, Cumilla",7295090.72
+Dharmapur,1.8,1276,2,6,মনোজ আচার্য্য,"৭১, পশ্চিম সুবর্ণনগর, Dharmapur, Cumilla",4457382.41
+Bagichagaon,3.5,1415,2,4,মাধুরী মৃধা,"৪১৪, নড়িয়াখালি, Bagichagaon, Cumilla",6520259.55
+Kotbari,2.5,1544,2,2,মিনা তালুকদার,"৯৮০, অভয়পার্ক, Kotbari, Cumilla",6824152.59
+Jhawtala,3.8,2220,4,23,আব্বাস মোড়ল,"২০, ফটিকমাটি, Jhawtala, Cumilla",9186689.29
+Tomsom Bridge,3.0,2162,3,7,নয়ন আবদুল্লাহ,"৬, সখিহার গলি, Tomsom Bridge, Cumilla",8673552.77
+Tomsom Bridge,3.0,877,2,5,কুনাল চট্টোপাধ্যায়,"৪৬, পুরাতন বিজয়ডাঙ্গা চত্বর, Tomsom Bridge, Cumilla",4475211.1
+Tomsom Bridge,3.0,1875,3,22,প্রিতম হাকিম,"৯, মধ্য ফকিরগাঁও স্ট্যান্ড, Tomsom Bridge, Cumilla",7209462.14
+Tomsom Bridge,3.0,1501,2,9,মাধুরী দে,"৯, মধ্য কালিয়াডাঙ্গা এভিনিউ, Tomsom Bridge, Cumilla",6078324.56
+Dharmapur,1.8,1202,2,24,বাসির আবদুল্লাহ,"৬, উত্তর বিশ্বনাথগঞ্জ চত্বর, Dharmapur, Cumilla",4969949.69
+Police Line,3.1,2022,3,21,একরামুল আবদুল্লাহ,"৩, কুতুববাজার, Police Line, Cumilla",8863227.04
+Dharmapur,1.8,1824,3,18,মাধুরী দাশগুপ্তা,"৭০, পূর্ব হাজীনগর মহাসড়ক, Dharmapur, Cumilla",6214636.78
+Kotbari,2.5,2140,3,20,নাদিম আরা,"৪০৪, পুরাতন মোল্লাতলা গলি, Kotbari, Cumilla",8072354.14
+Police Line,3.1,1785,3,14,বাঁধন মন্ডল,"৪২৪, চিতলমাটি, Police Line, Cumilla",7817953.03
+Dharmapur,1.8,1165,2,21,আয়ুষ মজুমদার,"৮, চিতলমাটি প্লাজা, Dharmapur, Cumilla",3926853.63
+Chawkbazar,2.2,1208,2,4,শান্ত মৃধা,"৪৭৮, মির্জাখালি সড়ক, Chawkbazar, Cumilla",5450770.28
+Tomsom Bridge,3.0,1394,2,24,অজিত সিং,"৬৩৯, পশ্চিম পলাশপ্লাজা, Tomsom Bridge, Cumilla",5720714.78
+Chawkbazar,2.2,1260,2,20,জয়দীপ মন্ডল,"৭৫৯, বাকেরগাঁ, Chawkbazar, Cumilla",6142608.95
+Kotbari,2.5,2529,4,4,আবু চৌধুরী,"৭৫৬, পূর্ব আলিগ্রাম, Kotbari, Cumilla",10040488.44
+Chawkbazar,2.2,1787,3,2,রাসেল মজুমদার,"৯, বিজয়বাড়ি পাড়া, Chawkbazar, Cumilla",6977331.67
+Jhawtala,3.8,1316,2,21,আতাহার ইসলাম,"৪, রায়এভিনিউ, Jhawtala, Cumilla",6728689.29
+Dharmapur,1.8,1223,2,19,মোস্তাফিজ প্রামানিক,"৮, বিজয়দিয়া, Dharmapur, Cumilla",4938524.64
+Race Course,3.2,1616,2,24,অনিন্দিতা মৃধা,"৭৩২, মধ্য রায়সড়ক, Race Course, Cumilla",7144572.16
+Shashongacha,2.0,1072,2,23,মুনতাকিম মৃধা,"৬, পুরাতন শ্যামগাঁ পাড়া, Shashongacha, Cumilla",3237961.04
+Kotbari,2.5,2147,3,24,চঞ্চল দে,"৬৬, পাইকনগর প্লাজা, Kotbari, Cumilla",9014907.69
+Tomsom Bridge,3.0,2107,3,1,তুষার বসু,"৮০১, নড়িয়াতলা, Tomsom Bridge, Cumilla",9126473.17
+Police Line,3.1,1128,2,11,অশোক কুমার,"২, মধ্য পাইকরোড, Police Line, Cumilla",5095106.31
+Dharmapur,1.8,1013,2,17,মুনতাসির তালুকদার,"৬২, নতুন দাউদপার্ক, Dharmapur, Cumilla",3588944.59
+Race Course,3.2,1449,2,16,রাজ চৌধুরী,"৩৯৫, মুরাদপুর লেন, Race Course, Cumilla",6585341.32
+Bagichagaon,3.5,1725,3,15,প্রান্ত চট্টোপাধ্যায়,"২৯, পশ্চিম লালডাঙ্গা, Bagichagaon, Cumilla",7677996.73
+Bagichagaon,3.5,1139,2,5,ইশতিয়াক হুরাইরা,"২৭৭, শ্যামলেন, Bagichagaon, Cumilla",5730050.92
+Jhawtala,3.8,1489,2,21,ইউসুফ মোড়ল,"৫২১, মুরাদগঞ্জ রাস্তা, Jhawtala, Cumilla",7663218.88
+Chawkbazar,2.2,1154,2,22,আশালতা মন্ডল,"৫৫১, পার্বতীতলা, Chawkbazar, Cumilla",4612456.48
+Chawkbazar,2.2,1852,3,11,ঈশানি বসু,"৪৭৮, সুবর্ণনগর, Chawkbazar, Cumilla",7561766.73
+Chawkbazar,2.2,1508,2,22,মোস্তাফিজ সিনহা,"৬, মাধববাজার এভিনিউ, Chawkbazar, Cumilla",6473451.25
+Kandirpar,4.0,2056,3,3,প্রশান্ত সাহা,"৬১১, পশ্চিম আনোয়ারগাঁ সেন্টার, Kandirpar, Cumilla",9632511.62
+Shashongacha,2.0,1151,2,5,নাদিম চৌধুরী,"৭৪০, পশ্চিম বকশীরোড, Shashongacha, Cumilla",5103823.05
+Tomsom Bridge,3.0,1225,2,2,রায়হান মন্ডল,"১৯, নতুন মোহাম্মদতলা পাড়া, Tomsom Bridge, Cumilla",5457472.13
+Shashongacha,2.0,1254,2,17,নাদিম হুরাইরা,"৩, দক্ষিণ মোহনগঞ্জ, Shashongacha, Cumilla",4354129.3
+Police Line,3.1,1921,3,15,প্রদ্যুম্ন বসু,"৬, মিরতলা, Police Line, Cumilla",7597902.09
+Race Course,3.2,1729,3,10,মনোজ তালুকদার,"৮৫৬, পশ্চিম বিশ্বনাথপ্লাজা, Race Course, Cumilla",7158895.1
+Shashongacha,2.0,1858,3,18,রুদ্র ইসলাম,"৪৭, বাজিতগলি, Shashongacha, Cumilla",7529910.18
+Kandirpar,4.0,2054,3,20,শহিদুল মৃধা,"৪, পূর্ব ফুলপাড়া, Kandirpar, Cumilla",10447494.67
+Jhawtala,3.8,1980,3,5,আশীষ বসু,"১৬৫, ফুলগ্রাম, Jhawtala, Cumilla",8847327.1
+Bagichagaon,3.5,1641,2,6,মুশফিক তালুকদার,"২৮৪, তারাগাঁও মহল্লা, Bagichagaon, Cumilla",7291028.17
+Shashongacha,2.0,1589,2,5,অভি বোস,"৪৫০, নতুন সুন্দরবাজার সেন্টার, Shashongacha, Cumilla",6523366.06
+Police Line,3.1,1728,3,2,শাহাবাজ বিশ্বাস,"৬০১, নতুন নাজিরমহল্লা, Police Line, Cumilla",8009902.26
+Jhawtala,3.8,1827,3,15,মিলা মিশ্র,"৪১৮, পুরাতন শান্তিগড়, Jhawtala, Cumilla",8571526.45
+Kandirpar,4.0,1740,3,23,ইজাজ তালুকদার,"৮, তারাকর্নার, Kandirpar, Cumilla",7988846.68
+Kandirpar,4.0,1738,3,6,আনন্দ হোসাইন,"১, কাজীচর, Kandirpar, Cumilla",8227377.93
+Chawkbazar,2.2,800,2,12,অশোক সিনহা,"৮৮২, পূর্ব মুরাদখালি, Chawkbazar, Cumilla",3211868.14
+Kotbari,2.5,1674,3,12,কাফি মৃধা,"৪০৩, পশ্চিম আনোয়ারডাঙ্গা, Kotbari, Cumilla",6374583.26
+Police Line,3.1,1863,3,7,সৌম্য রাও,"৯১, আলিখালি, Police Line, Cumilla",7708856.63
+Police Line,3.1,852,2,5,নাদিম রহমান,"৪, পশ্চিম কমলবাজার, Police Line, Cumilla",4457040.44
+Shashongacha,2.0,1766,3,0,নাদিম মজুমদার,"৭২৯, দক্ষিণ পলাশগড়, Shashongacha, Cumilla",6428264.8
+Kotbari,2.5,1279,2,21,রিনা বেগম,"১৫৩, দাউদগাঁ, Kotbari, Cumilla",5043468.75
+Kotbari,2.5,1893,3,14,আশীষ যাদব,"৮৩০, পশ্চিম বালিয়াসেন্টার, Kotbari, Cumilla",8617742.16
+Race Course,3.2,1239,2,9,মোস্তাফিজ রহমান,"৭০৬, বোরহানহাট পার্ক, Race Course, Cumilla",5442451.71
+Jhawtala,3.8,810,2,21,শাহাবাজ তালুকদার,"৫৩৬, সুন্দরপার্ক, Jhawtala, Cumilla",4674086.51
+Chawkbazar,2.2,1405,2,8,তনয় হোসাইন,"৬, শিবতলা, Chawkbazar, Cumilla",5522376.36
+Chawkbazar,2.2,1616,2,21,চঞ্চল প্রামানিক,"৪৯৯, উজিরকর্নার, Chawkbazar, Cumilla",5379390.95
+Kotbari,2.5,1585,2,13,আশ্বিনী মৃধা,"২৫, মুরাদবাড়ি, Kotbari, Cumilla",6003125.66
+Bagichagaon,3.5,1798,3,16,রায়হান চৌধুরী,"৪৪০, পুরাতন হরিরামদিয়া, Bagichagaon, Cumilla",8324917.76
+Police Line,3.1,1488,2,10,মুনতাসির কাদের,"৯৭, জগন্নাথগড় গলি, Police Line, Cumilla",6691530.51
+Shashongacha,2.0,3123,5,6,তনয় সিনহা,"৪৪, ফুলস্টেশন, Shashongacha, Cumilla",12654430.93
+Bagichagaon,3.5,800,2,5,অন্তরা শুক্লা,"৮১৪, শ্যামবাজার ঘাট, Bagichagaon, Cumilla",5883329.39
+Jhawtala,3.8,1364,2,19,আবির হাকিম,"৮, পশ্চিম মহাদেবসেন্টার, Jhawtala, Cumilla",6984062.47
+Tomsom Bridge,3.0,1225,2,9,প্রিয় কাদের,"৫৭৮, পাইকগাঁও, Tomsom Bridge, Cumilla",5243466.87
+Jhawtala,3.8,1067,2,14,রহিম আক্তার,"৬, পুরাতন শরণগাঁও, Jhawtala, Cumilla",4534674.45
+Kandirpar,4.0,1637,2,18,ইকবাল চৌধুরী,"৩১১, ইসলামবাজার, Kandirpar, Cumilla",7406788.21
+Kotbari,2.5,1526,2,15,ইশিতা বসু,"৯, সুবর্ণতলা, Kotbari, Cumilla",5805173.33
+Tomsom Bridge,3.0,2400,4,16,মুনতাকিম ইসলাম,"১২৮, রায়গাঁও মহাসড়ক, Tomsom Bridge, Cumilla",9474018.94
+Bagichagaon,3.5,1360,2,11,আয়ুষ সেন,"৯, মধ্য রানীগাঁও, Bagichagaon, Cumilla",7181197.09
+Jhawtala,3.8,2259,4,5,প্রদীপ সিনহা,"৬৯, সৈয়দরাস্তা, Jhawtala, Cumilla",9289369.14
+Tomsom Bridge,3.0,1959,3,17,ইজাজ মোড়ল,"২৯৮, মোল্লাস্টেশন, Tomsom Bridge, Cumilla",8176504.02
+Race Course,3.2,1223,2,24,লিটন মন্ডল,"৩৪, ইসলামগ্রাম, Race Course, Cumilla",6110963.62
+Police Line,3.1,1843,3,6,অনিন্দিতা মোড়ল,"৯২, কাজীডাঙ্গা, Police Line, Cumilla",7259622.93
+Kandirpar,4.0,1239,2,13,কুনাল প্রধান,"৬৫, শরণঘাট, Kandirpar, Cumilla",5792473.95
+Dharmapur,1.8,1322,2,19,মাধু প্রামানিক,"৮, পশ্চিম বিজয়গ্রাম ঘাট, Dharmapur, Cumilla",5122618.12
+Dharmapur,1.8,1148,2,18,অঞ্জনা বোস,"৩, সুবর্ণডাঙ্গা স্টেশন, Dharmapur, Cumilla",4558448.79
+Chawkbazar,2.2,2147,3,10,রিনা তাবাসসুম,"৩, পশ্চিম হাকিমগঞ্জ, Chawkbazar, Cumilla",6929779.33
+Shashongacha,2.0,1317,2,22,বাকের মন্ডল,"৮৫, মুরাদস্টেশন, Shashongacha, Cumilla",4736493.66
+Shashongacha,2.0,1780,3,22,কেয়া গাঙ্গুলি,"৪৮৩, পূর্ব হরিরামগাঁও, Shashongacha, Cumilla",6927220.01
+Shashongacha,2.0,1613,2,15,অর্ক জামান,"৮৪, নতুন সুন্দরগ্রাম পাড়া, Shashongacha, Cumilla",6037570.96
+Kotbari,2.5,1986,3,23,সাব্বির খাতুন,"৬, পূর্ব বোরহানতলা রাস্তা, Kotbari, Cumilla",7464219.74
+Kandirpar,4.0,1477,2,21,প্রত্যয় আবদুল্লাহ,"৬০১, পশ্চিম ফকিরদিয়া লেন, Kandirpar, Cumilla",6832062.26
+Bagichagaon,3.5,1856,3,9,সাবের বিশ্বাস,"৪, দক্ষিণ মিরডাঙ্গা প্লাজা, Bagichagaon, Cumilla",9529430.91
+Jhawtala,3.8,1256,2,9,প্রশান্ত দাশগুপ্তা,"৫৯, দক্ষিণ সৈয়দগড়, Jhawtala, Cumilla",5978995.45
+Kandirpar,4.0,1201,2,12,হৈমন্তী তালুকদার,"৪১, রায়বাড়ি প্লাজা, Kandirpar, Cumilla",6829441.41
+Race Course,3.2,1228,2,13,অর্পিতা সরকার,"৫৩, মধ্য মনোহরগাঁও চত্বর, Race Course, Cumilla",6009080.65
+Shashongacha,2.0,1659,3,10,করিম মন্ডল,"৫০১, শ্যামতলা, Shashongacha, Cumilla",5023723.77
+Dharmapur,1.8,1634,2,10,একরামুল সরকার,"৯২১, চিতলমহাসড়ক, Dharmapur, Cumilla",6856066.29
+Chawkbazar,2.2,1177,2,2,আরুণি মজুমদার,"৬, নতুন আনোয়ারতলা সেন্টার, Chawkbazar, Cumilla",4344650.49
+Tomsom Bridge,3.0,1305,2,5,প্রিয়াঙ্কা গঙ্গোপাধ্যায়,"৯৫, সৈয়দপুর গলি, Tomsom Bridge, Cumilla",6051878.29
+Kandirpar,4.0,1067,2,6,খুশি জাহান,"৫৭, পুরাতন বন্দরতলা চত্বর, Kandirpar, Cumilla",6115503.56
+Kandirpar,4.0,1828,3,24,চয়ন প্রামানিক,"৭৮৫, মহাদেবসেন্টার, Kandirpar, Cumilla",8193217.92
+Race Course,3.2,1231,2,2,প্রান্ত প্রামানিক,"৬৫১, কবিরচর রাস্তা, Race Course, Cumilla",6686061.02
+Race Course,3.2,976,2,16,প্রিতম ঘোষ,"৬৫, দক্ষিণ বালিয়ানগর স্টেশন, Race Course, Cumilla",4844405.58
+Bagichagaon,3.5,2075,3,22,অশোক মজুমদার,"২, নতুন দাউদগাঁ, Bagichagaon, Cumilla",8359410.6
+Chawkbazar,2.2,1710,3,4,অলোকা গাঙ্গুলি,"৩৭, পশ্চিম সৈয়দস্টেশন, Chawkbazar, Cumilla",6902115.8
+Tomsom Bridge,3.0,1976,3,13,তুষার মজুমদার,"৯৭১, লালগলি, Tomsom Bridge, Cumilla",7724280.42
+Bagichagaon,3.5,1970,3,17,রহিম আরা,"৮০৭, পুরাতন রায়বাড়ি, Bagichagaon, Cumilla",8866536.08
+Shashongacha,2.0,951,2,18,বাদল দেব,"৭৩৪, জগন্নাথহাট, Shashongacha, Cumilla",3696976.84
+Tomsom Bridge,3.0,936,2,19,রাহুল বাগচী,"৯৭, নড়িয়াচর, Tomsom Bridge, Cumilla",4501639.47
+Dharmapur,1.8,1431,2,8,অদৃতা মৃধা,"৫০১, নতুন জগন্নাথসেন্টার, Dharmapur, Cumilla",6672300.43
+Police Line,3.1,2408,4,6,নন্দিতা সেন,"১০, সোনামাটি লেন, Police Line, Cumilla",9661048.14
+Police Line,3.1,1886,3,21,কুনাল দে,"৬০, নাজিরগ্রাম প্লাজা, Police Line, Cumilla",8081342.41
+Bagichagaon,3.5,1592,2,10,আদি খান,"১০০, মাধবদিয়া মোড়, Bagichagaon, Cumilla",8114720.58
+Kandirpar,4.0,2222,4,16,নয়ন আলি,"৭৯৬, নাসিরডাঙ্গা পার্ক, Kandirpar, Cumilla",10059721.5
+Kotbari,2.5,1815,3,7,জনা মিত্র,"১৩, পশ্চিম ফুলডাঙ্গা মহাসড়ক, Kotbari, Cumilla",6934195.58
+Chawkbazar,2.2,800,2,8,আমায়া প্রামানিক,"২২, সদরপুর রাস্তা, Chawkbazar, Cumilla",3509806.06
+Dharmapur,1.8,1314,2,19,শাহজাহান আওয়াল,"৬, উত্তর মাধবগঞ্জ পার্ক, Dharmapur, Cumilla",5232866.27
+Chawkbazar,2.2,1616,2,5,বিদ্যা আচার্য্য,"৮, পূর্ব দাউদএভিনিউ, Chawkbazar, Cumilla",6547672.4
+Race Course,3.2,2190,3,5,অলোকা দত্ত,"৯৯৮, নতুন মানিকগাঁ, Race Course, Cumilla",9904890.27
+Shashongacha,2.0,1659,3,11,অক্ষয় সরকার,"৪, সোনামাটি, Shashongacha, Cumilla",6834049.53
+Police Line,3.1,1958,3,6,রহিম সরকার,"১, সুন্দরহাট রাস্তা, Police Line, Cumilla",8148306.52
+Chawkbazar,2.2,1422,2,1,অঞ্জনা সিনহা,"৫, পশ্চিম বটিয়ামাটি, Chawkbazar, Cumilla",5951120.81
+Kotbari,2.5,1802,3,5,আশীষ দাশগুপ্তা,"৫২, মহাদেবলেন, Kotbari, Cumilla",9107705.13
+Jhawtala,3.8,1684,3,7,মুশফিক হক,"৬৮২, ইসলামমোড়, Jhawtala, Cumilla",7599321.62
+Dharmapur,1.8,1603,2,7,কাবেরি চ্যাটার্জি,"৩২৬, উত্তর বিশ্বনাথতলা চত্বর, Dharmapur, Cumilla",6677605.44
+Chawkbazar,2.2,1599,2,19,রুদ্র খান,"৬, পশ্চিম বকশীমহল্লা, Chawkbazar, Cumilla",5951484.71
+Kandirpar,4.0,800,2,8,মুনতাকিম মজুমদার,"৬৯, দক্ষিণ বন্দরগ্রাম, Kandirpar, Cumilla",4229684.69
+Dharmapur,1.8,1782,3,24,মিথিলা হক,"১, পুরাতন মনোহরকর্নার, Dharmapur, Cumilla",6211020.3
+Jhawtala,3.8,1817,3,4,হৈমন্তী তালুকদার,"৫৫৫, পশ্চিম আলমগঞ্জ মহাসড়ক, Jhawtala, Cumilla",8225091.08
+Dharmapur,1.8,1558,2,7,বৃষ্টি আরা,"৬, মধ্য সুন্দরমহল্লা, Dharmapur, Cumilla",5871229.88
+Bagichagaon,3.5,1426,2,5,কাবেরি মজুমদার,"৬২৮, দক্ষিণ ফকিরপার্ক, Bagichagaon, Cumilla",6988260.9
+Police Line,3.1,2037,3,6,নয়ন মৃধা,"৯, মধ্য পাইকপাড়া, Police Line, Cumilla",8993157.9
+Shashongacha,2.0,1847,3,3,আবু আবদুল্লাহ,"২০, নতুন বাজিতহার সেন্টার, Shashongacha, Cumilla",6899771.93
+Kotbari,2.5,2028,3,2,শাহাবাজ আক্তার,"৩, দক্ষিণ রায়পুর, Kotbari, Cumilla",8279292.56
+Chawkbazar,2.2,1387,2,12,চঞ্চল আবদুল্লাহ,"৬৯৯, শ্যামমাটি, Chawkbazar, Cumilla",5244740.39
+Jhawtala,3.8,1445,2,0,প্রশান্ত ঠাকুর,"১৫৮, মধ্য জগন্নাথদিয়া মোড়, Jhawtala, Cumilla",8056107.27
+Jhawtala,3.8,2306,4,11,কাজল সুলতানা,"৬৪, উত্তর কালীতলা চত্বর, Jhawtala, Cumilla",10806808.49
+Dharmapur,1.8,1165,2,9,বিদ্যা দাশগুপ্তা,"৮৬২, পশ্চিম মহাদেবডাঙ্গা স্ট্যান্ড, Dharmapur, Cumilla",4460181.15
+Bagichagaon,3.5,1651,3,4,রাশেদুল আরা,"৯০, বেগমহাট, Bagichagaon, Cumilla",6827401.44
+Shashongacha,2.0,1841,3,5,বিনা প্রামানিক,"২৭, সোনাবাজার সড়ক, Shashongacha, Cumilla",7957980.76
+Tomsom Bridge,3.0,1857,3,20,প্রিয়ম মৃধা,"১৩, মনিরামডাঙ্গা পাড়া, Tomsom Bridge, Cumilla",8429283.94
+Kandirpar,4.0,1445,2,5,আলিয়া মন্ডল,"৪৮৬, মধ্য গৌরবাজার চত্বর, Kandirpar, Cumilla",8066932.95
+Tomsom Bridge,3.0,928,2,14,আরাধ্যা মুখার্জি,"৪, পশ্চিম নাসিরস্টেশন, Tomsom Bridge, Cumilla",4981213.93
+Shashongacha,2.0,1681,3,23,নাদিম আলি,"৭, পশ্চিম ইসলামরোড, Shashongacha, Cumilla",6130272.41
+Chawkbazar,2.2,1849,3,4,আবু আবদুল্লাহ,"১৪, দক্ষিণ নড়িয়ারাস্তা, Chawkbazar, Cumilla",7448306.99
+Kotbari,2.5,1483,2,19,কবিতা বাগচী,"১৮, দক্ষিণ মহেশগঞ্জ রাস্তা, Kotbari, Cumilla",5857274.95
+Shashongacha,2.0,1751,3,3,ঋষিতা পাল,"২, পশ্চিম সখিতলা, Shashongacha, Cumilla",6934880.64
+Bagichagaon,3.5,1430,2,10,অঞ্জনা ইসলাম,"৪২, উত্তর রামএভিনিউ, Bagichagaon, Cumilla",6772880.39
+Tomsom Bridge,3.0,976,2,14,আয়ুশি বন্দোপাধ্যায়,"৯, পূর্ব চৌদ্দঘাট, Tomsom Bridge, Cumilla",4985968.3
+Tomsom Bridge,3.0,1612,2,1,জয়দীপ কুমার,"৩, পূর্ব হোসেনরোড, Tomsom Bridge, Cumilla",7568755.6
+Police Line,3.1,1400,2,22,দূর্গা চৌধুরী,"৬, শিবগ্রাম, Police Line, Cumilla",6505295.78
+Kandirpar,4.0,1366,2,8,করিম রহমান,"৭৩, নতুন ফকিরসেন্টার, Kandirpar, Cumilla",7236200.93
+Shashongacha,2.0,1511,2,8,আরিয়া উদ্দিন,"৩, পুরাতন হাকিমবাড়ি মহল্লা, Shashongacha, Cumilla",5830675.3
+Bagichagaon,3.5,2320,4,23,অদৃতা মজুমদার,"৮, সৈয়দদিয়া, Bagichagaon, Cumilla",9422128.38
+Kandirpar,4.0,2115,3,23,মৃত্যুঞ্জয় মিশ্র,"২২৬, পশ্চিম দেবীপুর, Kandirpar, Cumilla",9470789.76
+Police Line,3.1,2470,4,19,নাইম বেগম,"৩, ওসমানীখালি চত্বর, Police Line, Cumilla",10410736.79
+Kandirpar,4.0,2527,4,22,রাজু দাশগুপ্তা,"৩, বিরামমহল্লা, Kandirpar, Cumilla",10217124.44
+Jhawtala,3.8,1023,2,16,আরাধ্যা ব্যানার্জি,"৫, উত্তর তারাকর্নার, Jhawtala, Cumilla",5403677.07
+Police Line,3.1,1241,2,2,অনিন্দিতা তালুকদার,"৯৮, মোহাম্মদকর্নার, Police Line, Cumilla",6679797.95
+Bagichagaon,3.5,1774,3,0,আরুণি পোদ্দার,"৬১, মনিরামগ্রাম লেন, Bagichagaon, Cumilla",8409997.22
+Kandirpar,4.0,1459,2,16,প্রদীপ মোড়ল,"৩২১, জীবনগঞ্জ, Kandirpar, Cumilla",6706779.62
+Dharmapur,1.8,1367,2,18,রাজু দাশগুপ্তা,"৫৩৮, উত্তর গৌরচত্বর, Dharmapur, Cumilla",4976664.56
+Chawkbazar,2.2,1378,2,11,ইমতিয়াজ আওয়াল,"৭৭৮, দাউদরোড, Chawkbazar, Cumilla",5889330.49
+Race Course,3.2,2245,4,13,জগদীশ চৌধুরী,"৪, তারাগলি, Race Course, Cumilla",10145798.14
+Jhawtala,3.8,2074,3,21,খুশি দাস,"২, পশ্চিম সুবর্ণলেন, Jhawtala, Cumilla",9115606.39
+Bagichagaon,3.5,999,2,3,ইজাজ তালুকদার,"৫৬৯, কাজীমাটি মোড়, Bagichagaon, Cumilla",6741281.97
+Police Line,3.1,1995,3,13,অর্না দত্ত,"৩, পুরাতন বিজয়তলা স্ট্যান্ড, Police Line, Cumilla",8275815.7
+Shashongacha,2.0,1759,3,23,অভিষেক আবদুল্লাহ,"৫, পশ্চিম কমলগড়, Shashongacha, Cumilla",5777645.73
+Police Line,3.1,1198,2,0,ইকবাল মন্ডল,"৭৮৮, মধ্য লালগলি, Police Line, Cumilla",5816478.35
+Race Course,3.2,1911,3,19,বিনা শুক্লা,"১, মির্জানগর গলি, Race Course, Cumilla",7927762.92
+Kotbari,2.5,1829,3,0,অদিতি সেন,"৬৯, উত্তর কালিয়াগ্রাম, Kotbari, Cumilla",7441058.31
+Race Course,3.2,1593,2,7,প্রিয়াঙ্কা সিং,"৩, দক্ষিণ নন্দীবাজার মোড়, Race Course, Cumilla",7406046.93
+Tomsom Bridge,3.0,1435,2,3,সজীব কাদের,"৪৫, পশ্চিম জগন্নাথগ্রাম, Tomsom Bridge, Cumilla",6422225.94
+Dharmapur,1.8,1285,2,7,রোহিত গঙ্গোপাধ্যায়,"৫৯, পশ্চিম মিরগড়, Dharmapur, Cumilla",4738183.99
+Police Line,3.1,1956,3,8,ঋষিতা বিশ্বাস,"৬, দেববাজার, Police Line, Cumilla",7924577.98
+Chawkbazar,2.2,1529,2,9,কেয়া মোড়ল,"৫, নতুন সৈয়দলেন, Chawkbazar, Cumilla",6323223.61
+Kotbari,2.5,1305,2,7,আবু সিনহা,"৮০৫, নাজিরগাঁ সড়ক, Kotbari, Cumilla",5269419.74
+Jhawtala,3.8,1121,2,11,অর্পিতা খান,"৭৯, মধুডাঙ্গা স্টেশন, Jhawtala, Cumilla",6264854.28
+Jhawtala,3.8,2130,3,6,বিনা পাণ্ডে,"৯২৬, মধ্য শ্যামতলা, Jhawtala, Cumilla",10009926.39
+Dharmapur,1.8,1960,3,24,তন্ময় যাদব,"৬২, গৌরপার্ক, Dharmapur, Cumilla",7739836.16
+Kandirpar,4.0,1788,3,19,ইউসুফ সুলতানা,"৮৪, উত্তর হাকিমগাঁ সড়ক, Kandirpar, Cumilla",8856585.12
+Kotbari,2.5,2062,3,1,মুনতাসির হোসাইন,"৮, নতুন সিরাজমাটি ঘাট, Kotbari, Cumilla",8333127.91
+Kandirpar,4.0,989,2,14,রাসেল হুরাইরা,"৯, মোল্লাতলা, Kandirpar, Cumilla",5938916.99
+Dharmapur,1.8,1443,2,19,চয়ন চট্টোপাধ্যায়,"৫, মানিকহার রোড, Dharmapur, Cumilla",5191425.24
+Race Course,3.2,1490,2,3,মুনতাসির জামান,"৬০, মধ্য হাকিমনগর, Race Course, Cumilla",6882837.69
+Jhawtala,3.8,1575,2,6,অর্না মিঞা,"৫০৪, নতুন তারাঘাট, Jhawtala, Cumilla",8427648.11
+Police Line,3.1,1219,2,1,প্রিয়া মৃধা,"৫, নতুন করিমঘাট, Police Line, Cumilla",5758995.44
+Shashongacha,2.0,1988,3,22,ইজাজ বিশ্বাস,"১, পশ্চিম মির্জামহল্লা, Shashongacha, Cumilla",7792575.12
+Shashongacha,2.0,1454,2,2,একরামুল প্রামানিক,"৬৬৫, উত্তর নাসিরনগর, Shashongacha, Cumilla",5791193.15
+Police Line,3.1,1369,2,5,বিরাট শুক্লা,"১৫৭, বিজয়রাস্তা, Police Line, Cumilla",6712951.71
+Race Course,3.2,880,2,17,ইমন মিঞা,"৬৪৬, জীবনমহাসড়ক, Race Course, Cumilla",4704805.47
+Chawkbazar,2.2,1895,3,8,ইজাজ প্রামানিক,"৪৮, উত্তর হোসেনস্টেশন, Chawkbazar, Cumilla",6852247.16
+Bagichagaon,3.5,1685,3,21,আশা সরকার,"১৩, মাধবস্টেশন, Bagichagaon, Cumilla",7142002.18
+Jhawtala,3.8,1768,3,23,আশীষ মৃধা,"৭৪, সুবর্ণহার, Jhawtala, Cumilla",7616409.97
+Kandirpar,4.0,1403,2,4,জগদীশ তালুকদার,"৫, চৌদ্দমোড়, Kandirpar, Cumilla",7428733.22
+Kandirpar,4.0,2074,3,18,প্রশান্ত ব্যানার্জি,"৮২, পশ্চিম কালীগ্রাম সেন্টার, Kandirpar, Cumilla",8373922.66
+Bagichagaon,3.5,2311,4,21,ঈশানি কুমার,"৪৩২, পূর্ব বকশীকর্নার, Bagichagaon, Cumilla",10258819.21
+Tomsom Bridge,3.0,1381,2,7,প্রান্ত উদ্দিন,"১, নতুন বিরামপার্ক, Tomsom Bridge, Cumilla",6205054.74
+Race Course,3.2,804,2,11,প্রিয়ম চট্টোপাধ্যায়,"৮৫, মধ্য কালিয়াদিয়া, Race Course, Cumilla",4214594.21
+Jhawtala,3.8,1416,2,16,অঞ্জনা আরা,"৫, পশ্চিম হোসেনপার্ক, Jhawtala, Cumilla",6442084.76
+Kandirpar,4.0,2145,3,19,আবু আওয়াল,"৮৩, মহেশমাটি, Kandirpar, Cumilla",9716364.8
+Police Line,3.1,1234,2,13,শুভশ্রী মিশ্র,"৩, নাজিরহাট, Police Line, Cumilla",6160554.62
+Kotbari,2.5,1688,3,23,আশা মজুমদার,"২, কবিরগ্রাম, Kotbari, Cumilla",7104122.81
+Kotbari,2.5,1446,2,4,রহিম প্রামানিক,"২০৮, রানীহার রোড, Kotbari, Cumilla",6519161.76
+Jhawtala,3.8,1688,3,5,ইমতিয়াজ বিশ্বাস,"৮৪৫, পুরাতন সৈয়দমাটি, Jhawtala, Cumilla",8641828.92
+Race Course,3.2,1294,2,23,মৃত্যুঞ্জয় প্রামানিক,"৭, মোড়লবাজার, Race Course, Cumilla",6123285.3
+Police Line,3.1,1229,2,16,অর্না বন্দোপাধ্যায়,"৯, দক্ষিণ ব্রাহ্মণতলা, Police Line, Cumilla",5600818.41
+Bagichagaon,3.5,1162,2,7,মনোজ কান্ত,"৬৯৬, উত্তর সখিদিয়া, Bagichagaon, Cumilla",6208301.6
+Tomsom Bridge,3.0,2353,4,17,আরুণি চৌধুরী,"১, দক্ষিণ কমলনগর, Tomsom Bridge, Cumilla",9790269.86
+Race Course,3.2,1539,2,5,নাইম আলি,"১৬২, মধ্য মির্জাহার, Race Course, Cumilla",6693475.52
+Chawkbazar,2.2,1576,2,18,হৈমন্তী সিনহা,"৮৭, পশ্চিম নাসিরগঞ্জ কর্নার, Chawkbazar, Cumilla",6266672.51
+Kandirpar,4.0,1690,3,8,আতাহার খানম,"২, দক্ষিণ চিতলগ্রাম গলি, Kandirpar, Cumilla",8101386.56
+Race Course,3.2,2035,3,0,মাধু তালুকদার,"৯, পশ্চিম আলিগাঁও, Race Course, Cumilla",8845509.19
+Race Course,3.2,1568,2,16,মুনতাসির হোসাইন,"৪৯, ফকিরবাড়ি পার্ক, Race Course, Cumilla",6767362.17
+Kotbari,2.5,1481,2,13,রাসেল হুরাইরা,"৭, আনোয়ারমোড়, Kotbari, Cumilla",6620848.09
+Dharmapur,1.8,1670,3,18,আতাহার উদ্দিন,"৪৯১, মির্জাএভিনিউ, Dharmapur, Cumilla",5418076.46
+Jhawtala,3.8,2249,4,1,বাঁধন চন্দ্র,"৮০, মাধবস্ট্যান্ড, Jhawtala, Cumilla",10308436.43
+Race Course,3.2,1942,3,16,মুশফিক বেগম,"৫, পশ্চিম দৌলতগাঁও, Race Course, Cumilla",8526118.96
+Police Line,3.1,1611,2,17,অন্তরা গাঙ্গুলি,"৪, বাজিতগ্রাম, Police Line, Cumilla",6605590.39
+Jhawtala,3.8,1440,2,9,আয়ুশি বিশ্বাস,"৭, মাধবনগর সেন্টার, Jhawtala, Cumilla",5352098.41
+Chawkbazar,2.2,1717,3,20,শাহজাহান আলি,"৬, মনিরামখালি চত্বর, Chawkbazar, Cumilla",5874748.74
+Race Course,3.2,1743,3,7,কুনাল সিং,"৭৭, মধ্য সোনাতলা এভিনিউ, Race Course, Cumilla",7852442.34
+Dharmapur,1.8,1711,3,11,শুভ হাকিম,"৮৩, পূর্ব শ্যামডাঙ্গা ঘাট, Dharmapur, Cumilla",6897896.56
+Jhawtala,3.8,1630,2,7,কেয়া রাও,"২৯৫, নন্দীবাড়ি এভিনিউ, Jhawtala, Cumilla",8196777.23
+Tomsom Bridge,3.0,1401,2,19,আনিস মোড়ল,"৪, পশ্চিম ইসলামমহল্লা, Tomsom Bridge, Cumilla",6861702.82
+Dharmapur,1.8,1507,2,18,লতা মন্ডল,"৮৬৮, মধ্য চৌদ্দবাড়ি এভিনিউ, Dharmapur, Cumilla",5743047.99
+Kotbari,2.5,1592,2,5,রিনা ব্যানার্জি,"৮৯৮, পূর্ব উজিরএভিনিউ, Kotbari, Cumilla",6606604.31
+Tomsom Bridge,3.0,997,2,19,জয়ন্ত ঠাকুর,"৩৩৭, হাজীবাড়ি প্লাজা, Tomsom Bridge, Cumilla",5336664.41
+Kandirpar,4.0,2412,4,12,অক্ষয় চৌধুরী,"২৯, পুরাতন সদরমহাসড়ক, Kandirpar, Cumilla",10453585.08
+Jhawtala,3.8,1863,3,12,অর্ঘ্য বাগচী,"৬৯, ইসলামগড় স্ট্যান্ড, Jhawtala, Cumilla",8381438.8
+Tomsom Bridge,3.0,1462,2,18,অন্তরা হোসাইন,"৯৪৪, নতুন হাজীচত্বর, Tomsom Bridge, Cumilla",6112847.42
+Shashongacha,2.0,1055,2,15,সুশান্ত মোড়ল,"৩৬, কালীপাড়া, Shashongacha, Cumilla",4500294.75
+Bagichagaon,3.5,800,2,16,বিনা মন্ডল,"৬৮, নতুন মহেশগড় রাস্তা, Bagichagaon, Cumilla",5049832.81
+Shashongacha,2.0,2130,3,15,আয়ুষ সরকার,"৫, চিতলখালি, Shashongacha, Cumilla",8341216.07
+Jhawtala,3.8,1797,3,23,ঈশানি সাহা,"৪৬০, আলিগড়, Jhawtala, Cumilla",8592295.51
+Shashongacha,2.0,1434,2,21,আয়ুশি বিশ্বাস,"২৯৬, নতুন কবিরগাঁও এভিনিউ, Shashongacha, Cumilla",5583510.15
+Shashongacha,2.0,1210,2,2,বৃষ্টি জামান,"৯, জীবনমহল্লা, Shashongacha, Cumilla",5989245.48
+Police Line,3.1,1870,3,2,জনা জাহান,"৯, পূর্ব বিশ্বনাথমহাসড়ক, Police Line, Cumilla",7921201.8
+Shashongacha,2.0,1389,2,2,অমল বন্দোপাধ্যায়,"১৮৬, রায়প্লাজা, Shashongacha, Cumilla",5803163.25
+Jhawtala,3.8,2049,3,21,মিনা ইসলাম,"১, জীবনপুর স্ট্যান্ড, Jhawtala, Cumilla",9015633.69
+Chawkbazar,2.2,1640,2,17,শুভ ঘোষ,"৪১, সুন্দরমহল্লা, Chawkbazar, Cumilla",5337704.88
+Kotbari,2.5,1742,3,6,ইজাজ খাতুন,"৫, পুরাতন মোহাম্মদমহল্লা, Kotbari, Cumilla",7424395.19
+Kotbari,2.5,1492,2,20,চঞ্চল মৃধা,"৮৬, দৌলতদিয়া লেন, Kotbari, Cumilla",6713702.38
+Tomsom Bridge,3.0,1183,2,19,কাবেরি তালুকদার,"৪৭, মধ্য মনিরামমোড়, Tomsom Bridge, Cumilla",5632422.38
+Shashongacha,2.0,1556,2,3,আতাহার চৌধুরী,"৬, পুরাতন ফুলচর সড়ক, Shashongacha, Cumilla",6458992.16
+Police Line,3.1,1084,2,0,প্রদ্যুম্ন মজুমদার,"১৯, দৌলততলা, Police Line, Cumilla",6029799.33
+Chawkbazar,2.2,1728,3,24,আদি প্রামানিক,"৪, ওসমানীগড় এভিনিউ, Chawkbazar, Cumilla",5632776.48
+Shashongacha,2.0,1748,3,3,প্রিয়া জাহান,"৮৩, অভয়হাট প্লাজা, Shashongacha, Cumilla",6968602.86
+Jhawtala,3.8,1285,2,11,মুনতাসির সিনহা,"৬৩, পুরাতন সখিলেন, Jhawtala, Cumilla",6028655.65
+Jhawtala,3.8,1775,3,15,শাওন সরকার,"১৮০, দেবহার, Jhawtala, Cumilla",8425621.48
+Dharmapur,1.8,2207,4,19,বিনয় মন্ডল,"৯, আলিস্টেশন, Dharmapur, Cumilla",7681432.42
+Police Line,3.1,1404,2,21,প্রিয় সিনহা,"৯৬০, বাঘারপাড়া, Police Line, Cumilla",6827078.53
+Dharmapur,1.8,1972,3,24,আব্বাস মন্ডল,"৮, পূর্ব কেশবপার্ক, Dharmapur, Cumilla",7488568.21
+Kotbari,2.5,2153,3,1,আকাশ তালুকদার,"১, দক্ষিণ বটিয়াগাঁ, Kotbari, Cumilla",8552985.79
+Chawkbazar,2.2,1698,3,23,আদি মোড়ল,"৯, উত্তর সুবর্ণমোড়, Chawkbazar, Cumilla",5714087.26
+Police Line,3.1,1097,2,7,নন্দিতা মোড়ল,"৬, নতুন নাজিরমাটি রোড, Police Line, Cumilla",6113578.85
+Shashongacha,2.0,1711,3,5,প্রত্যয় কুমার,"২১, মাধবগাঁও, Shashongacha, Cumilla",6056529.1
+Police Line,3.1,2024,3,23,আমায়া মৃধা,"৫৫৭, ফকিরগড়, Police Line, Cumilla",9209316.88
+Dharmapur,1.8,1464,2,23,অক্ষয় সেন,"৩, হোসেনগাঁও ঘাট, Dharmapur, Cumilla",4678947.11
+Race Course,3.2,2226,4,0,আজম উদ্দিন,"২২, উত্তর সুন্দরহার স্ট্যান্ড, Race Course, Cumilla",10162695.27
+Dharmapur,1.8,1935,3,23,প্রীতি বোস,"১১, বটিয়াগলি, Dharmapur, Cumilla",8114737.37
+Jhawtala,3.8,1642,2,22,মোস্তাফিজ ইসলাম,"৫৪, মধ্য মোল্লারাস্তা, Jhawtala, Cumilla",7033352.15
+Shashongacha,2.0,1754,3,8,সাবের রহমান,"৬৭৪, শ্যামগঞ্জ মোড়, Shashongacha, Cumilla",6914251.53
+Dharmapur,1.8,1941,3,12,আশ্বিনী বাগচী,"২, মধ্য কুমারহার, Dharmapur, Cumilla",7038253.13
+Kandirpar,4.0,1498,2,2,করিম আওয়াল,"৯, মনিরামডাঙ্গা, Kandirpar, Cumilla",7616814.61
+Dharmapur,1.8,1670,3,13,নাদিম হুরাইরা,"৫, উত্তর হাকিমসড়ক, Dharmapur, Cumilla",6825878.66
+Chawkbazar,2.2,828,2,3,মিষ্টি খান,"৬৫, উত্তর জীবনখালি গলি, Chawkbazar, Cumilla",3482299.82
+Bagichagaon,3.5,1315,2,19,অর্ঘ্য মৃধা,"৩, পুরাতন মনোহরমহাসড়ক, Bagichagaon, Cumilla",6238908.19
+Dharmapur,1.8,2034,3,15,প্রদ্যুম্ন চৌধুরী,"২৪৯, উত্তর হাকিমমহাসড়ক, Dharmapur, Cumilla",6507307.47
+Police Line,3.1,1857,3,16,আয়ুশি চৌধুরী,"২৬, পশ্চিম বালিয়াগড়, Police Line, Cumilla",7919763.19
+Jhawtala,3.8,1959,3,10,লতা রায়,"৮১৯, চৌদ্দপুর সেন্টার, Jhawtala, Cumilla",8978976.93
+Dharmapur,1.8,2578,4,13,রিনা বসু,"৩, দক্ষিণ জগন্নাথখালি, Dharmapur, Cumilla",9500809.21
+Jhawtala,3.8,2145,3,12,প্রদ্যুম্ন বাগচী,"৪৫০, মোল্লাগঞ্জ মোড়, Jhawtala, Cumilla",10219694.62
+Kandirpar,4.0,1668,3,23,শ্রাবন্তী রায়,"২৭, মহেশগ্রাম পাড়া, Kandirpar, Cumilla",7854152.31
+Race Course,3.2,1432,2,1,আরুণি মন্ডল,"৩৭৬, নতুন গৌরপুর, Race Course, Cumilla",6750972.06
+Chawkbazar,2.2,1573,2,15,অলোকা মিত্র,"৮, হাকিমদিয়া গলি, Chawkbazar, Cumilla",6135345.05
+Chawkbazar,2.2,1994,3,17,শ্রাবনী আরা,"৩, ইসলামপ্লাজা, Chawkbazar, Cumilla",7996327.28
+Tomsom Bridge,3.0,1817,3,22,লিটন জামান,"৯, চিতলবাড়ি প্লাজা, Tomsom Bridge, Cumilla",7844378.74
+Kandirpar,4.0,1731,3,22,নয়ন মিঞা,"৪৯, নতুন হাকিমমহল্লা, Kandirpar, Cumilla",8264318.53
+Kandirpar,4.0,1993,3,24,শুভ গাঙ্গুলি,"১, পূর্ব কবিরপ্লাজা, Kandirpar, Cumilla",8367784.09
+Bagichagaon,3.5,1412,2,17,বিনা প্রধান,"৮৫, কালীগলি, Bagichagaon, Cumilla",6719852.01
+Chawkbazar,2.2,875,2,7,বাদল কাদের,"৫৩৩, উত্তর কালিয়াগ্রাম প্লাজা, Chawkbazar, Cumilla",4854335.69
+Tomsom Bridge,3.0,1690,3,13,কাজল প্রধান,"৫৩৩, মধ্য নন্দীগড় ঘাট, Tomsom Bridge, Cumilla",6851717.6
+Dharmapur,1.8,1998,3,14,প্রান্ত রহমান,"৯, উত্তর মানিকপ্লাজা, Dharmapur, Cumilla",6984196.85
+Jhawtala,3.8,1230,2,1,সাব্বির মৃধা,"৬৫, মধ্য মোহনপাড়া, Jhawtala, Cumilla",5422714.0
+Bagichagaon,3.5,2433,4,1,অর্না আরা,"১, মধ্য নন্দীরাস্তা, Bagichagaon, Cumilla",9367909.0
+Bagichagaon,3.5,1756,3,19,আশীষ প্রামানিক,"১০০, পশ্চিম শাজাহানখালি পাড়া, Bagichagaon, Cumilla",8113485.3
+Jhawtala,3.8,1874,3,15,কাবেরি মজুমদার,"৮১৩, নতুন মির্জাগ্রাম, Jhawtala, Cumilla",8541036.58
+Police Line,3.1,1851,3,4,নাইম আক্তার,"৯৮০, দক্ষিণ বিশ্বনাথবাড়ি গলি, Police Line, Cumilla",8318792.53
+Kotbari,2.5,1635,2,23,সুরভি খাতুন,"৫, নাজিরহাট রাস্তা, Kotbari, Cumilla",5544811.29
+Dharmapur,1.8,1684,3,17,ইউসুফ বিশ্বাস,"৮৭, ফুলরাস্তা, Dharmapur, Cumilla",6190135.5
+Jhawtala,3.8,1140,2,20,প্রিয়তি তালুকদার,"৮৫, বিরামঘাট, Jhawtala, Cumilla",5487186.3
+Chawkbazar,2.2,1633,2,2,সাবের হাকিম,"২৮৫, পাইকচর, Chawkbazar, Cumilla",6799942.74
+Dharmapur,1.8,1243,2,16,বিনয় সাহা,"৪৭২, শাজাহানপার্ক, Dharmapur, Cumilla",4539104.01
+Race Course,3.2,1521,2,12,আবির আলম,"৭০, পূর্ব মিরবাড়ি, Race Course, Cumilla",7099735.05
+Jhawtala,3.8,2033,3,19,শহিদুল রহমান,"৭, মধ্য বকশীচর, Jhawtala, Cumilla",8935612.97
+Police Line,3.1,2162,3,17,বিদ্যা সিনহা,"৫, সখিপুর, Police Line, Cumilla",8646959.23
+Chawkbazar,2.2,1700,3,7,প্রদীপ চট্টোপাধ্যায়,"৯৬, পুরাতন মোড়লগ্রাম, Chawkbazar, Cumilla",7422908.77
+Race Course,3.2,1889,3,20,দূর্গা মোড়ল,"৯৭, সুবর্ণগাঁ, Race Course, Cumilla",7863331.37
+Police Line,3.1,2026,3,0,আব্বাস তালুকদার,"৫৪, মাধবহার পাড়া, Police Line, Cumilla",9276806.39
+Tomsom Bridge,3.0,1453,2,3,শ্রাবন্তী ইসলাম,"৫, মধ্য বেগমপুর, Tomsom Bridge, Cumilla",7152268.57
+Kandirpar,4.0,1430,2,0,জগদীশ পাণ্ডে,"৪২, রানীচর এভিনিউ, Kandirpar, Cumilla",6930358.18
+Dharmapur,1.8,1541,2,16,আকাশ ইসলাম,"৮৩৪, করিমবাজার, Dharmapur, Cumilla",5740398.8
+Kandirpar,4.0,1611,2,1,আরিয়ান মিত্র,"৪, পশ্চিম চৌদ্দসেন্টার, Kandirpar, Cumilla",7597011.14
+Shashongacha,2.0,1210,2,5,মোস্তাফিজ মিঞা,"২৭, সিরাজহার, Shashongacha, Cumilla",4709564.32
+Kotbari,2.5,2261,4,2,লিটন আলি,"৮৮৩, পশ্চিম কমলহাট, Kotbari, Cumilla",9433735.18
+Bagichagaon,3.5,2074,3,12,অহনা মোড়ল,"৯, কুমারগ্রাম প্লাজা, Bagichagaon, Cumilla",9111096.32
+Police Line,3.1,1532,2,7,ডলি সিনহা,"৫, মধুদিয়া, Police Line, Cumilla",7398067.12
+Shashongacha,2.0,1366,2,17,তুষার রহমান,"২২৫, উজিররোড, Shashongacha, Cumilla",5195617.07
+Shashongacha,2.0,1170,2,24,কবিতা কাদের,"৯৮৮, পূর্ব কুমারতলা ঘাট, Shashongacha, Cumilla",5049882.71
+Race Course,3.2,1404,2,21,আতাহার সরকার,"৮১৮, দৌলতগঞ্জ, Race Course, Cumilla",6097814.29
+Police Line,3.1,1254,2,7,রাজু খান,"১৯২, উত্তর জীবনহাট প্লাজা, Police Line, Cumilla",5464575.9
+Tomsom Bridge,3.0,2023,3,14,প্রিতম হাকিম,"৪৮, মধ্য সুন্দরগাঁও স্টেশন, Tomsom Bridge, Cumilla",8247074.78
+Shashongacha,2.0,1073,2,6,অশোক প্রামানিক,"৩, রায়ডাঙ্গা গলি, Shashongacha, Cumilla",4441118.76
+Dharmapur,1.8,1329,2,24,কাফি মোড়ল,"৮, মধ্য শান্তিহার মহল্লা, Dharmapur, Cumilla",4204096.93
+Police Line,3.1,1450,2,5,ঋষিতা আচার্য্য,"৫২, দৌলতহার, Police Line, Cumilla",6233052.91
+Kotbari,2.5,1253,2,16,আশ্বিনী চৌধুরী,"৯৭৫, নতুন ইসলামপাড়া, Kotbari, Cumilla",5074037.82
+Dharmapur,1.8,1749,3,19,করিম আরা,"১৮, পুরাতন মোহাম্মদবাড়ি ঘাট, Dharmapur, Cumilla",6088522.02
+Kotbari,2.5,1642,2,20,তামিম সরকার,"৭১৪, উত্তর বোরহানএভিনিউ, Kotbari, Cumilla",6381288.38
+Jhawtala,3.8,1846,3,13,বিপাশা মিত্র,"৫৯৮, তারাগ্রাম স্টেশন, Jhawtala, Cumilla",8203377.15
+Police Line,3.1,1854,3,8,বিপাশা কুমার,"৩১৯, মানিকমাটি, Police Line, Cumilla",8383643.63
+Kandirpar,4.0,1576,2,18,প্রদীপ কান্ত,"৮, জগন্নাথরোড, Kandirpar, Cumilla",7680080.48
+Chawkbazar,2.2,1993,3,5,নয়ন উদ্দিন,"৭, বেগমহাট, Chawkbazar, Cumilla",7274877.66
+Jhawtala,3.8,1910,3,14,ঈশানি ব্যানার্জি,"৭৬০, তেররাস্তা, Jhawtala, Cumilla",8675413.48
+Kandirpar,4.0,800,2,6,অমল তালুকদার,"২৯৪, বাজিতবাড়ি লেন, Kandirpar, Cumilla",5751154.75
+Kandirpar,4.0,1610,2,7,মনোজ বাগচী,"১১৬, পূর্ব হোসেনপাড়া, Kandirpar, Cumilla",7466496.0
+Kandirpar,4.0,1704,3,20,অর্ক হোসাইন,"৬৮২, ফুলপাড়া, Kandirpar, Cumilla",8538561.63
+Dharmapur,1.8,2202,4,6,আয়ুশি মন্ডল,"৬৯৯, পশ্চিম দেবীমহাসড়ক, Dharmapur, Cumilla",8348233.77
+Kotbari,2.5,2142,3,11,আতাহার খান,"৭৬, শরণতলা, Kotbari, Cumilla",8081503.72
+Dharmapur,1.8,968,2,12,আরিয়া মন্ডল,"৭, হাজীসড়ক, Dharmapur, Cumilla",2894394.46
+Shashongacha,2.0,1800,3,19,বাসির সরকার,"৬, পশ্চিম বাকেরতলা স্টেশন, Shashongacha, Cumilla",6615928.75
+Bagichagaon,3.5,1574,2,2,ইশিতা চৌধুরী,"৩০, মনিরামগাঁ, Bagichagaon, Cumilla",7969474.64
+Shashongacha,2.0,1297,2,8,কাফি সরকার,"৯৮৬, নতুন মনোহরপুর, Shashongacha, Cumilla",5325909.9
+Shashongacha,2.0,1510,2,6,আজম মজুমদার,"৬০৩, পশ্চিম সৈয়দগ্রাম, Shashongacha, Cumilla",6150631.82
+Kandirpar,4.0,1927,3,6,শাহজাহান হাকিম,"২, বালিয়াদিয়া স্টেশন, Kandirpar, Cumilla",8422962.01
+Tomsom Bridge,3.0,1919,3,19,ইজাজ জামান,"১, হোসেনখালি, Tomsom Bridge, Cumilla",8288400.73
+Kandirpar,4.0,1496,2,11,ঋষিতা ঠাকুর,"৬৪, সুবর্ণরাস্তা, Kandirpar, Cumilla",7126111.6
+Kandirpar,4.0,1299,2,16,ইকবাল বেগম,"৭৬৭, উত্তর ব্রাহ্মণগাঁও সেন্টার, Kandirpar, Cumilla",6876743.48
+Jhawtala,3.8,1755,3,2,শাহজাহান সরকার,"৮৭, শিবগাঁও রোড, Jhawtala, Cumilla",8951880.83
+Kandirpar,4.0,1492,2,8,অর্ক পাণ্ডে,"১০, ইসলামতলা, Kandirpar, Cumilla",6240380.74
+Tomsom Bridge,3.0,1177,2,4,মাধুরী বিশ্বাস,"৭, পূর্ব বালিয়াগ্রাম পাড়া, Tomsom Bridge, Cumilla",6247154.73
+Shashongacha,2.0,1591,2,14,বিরাট মৃধা,"৯৪, রামগঞ্জ, Shashongacha, Cumilla",6764279.44
+Dharmapur,1.8,1303,2,5,ইশতিয়াক বেগম,"৭১, দাউদমাটি, Dharmapur, Cumilla",5594829.37
+Police Line,3.1,1376,2,5,তামিম আরা,"৯১৯, পুরাতন কালিয়াপ্লাজা, Police Line, Cumilla",5860911.78
+Kotbari,2.5,2149,3,14,ইমন ঠাকুর,"৮৫৪, নতুন কুমারচর স্টেশন, Kotbari, Cumilla",8464253.27
+Chawkbazar,2.2,1565,2,11,অলোকা দাস,"৪৫, পুরাতন কেশববাজার কর্নার, Chawkbazar, Cumilla",7167573.79
+Tomsom Bridge,3.0,1330,2,2,আশালতা সরকার,"৬০, বটিয়াগাঁ সেন্টার, Tomsom Bridge, Cumilla",4945468.91
+Tomsom Bridge,3.0,1055,2,7,মুনতাসির হক,"৯০, পুরাতন দেবীপুর প্লাজা, Tomsom Bridge, Cumilla",5696199.64
+Kandirpar,4.0,1942,3,19,সৌমিক প্রামানিক,"৩, উত্তর চিতলগঞ্জ পাড়া, Kandirpar, Cumilla",8716613.4
+Jhawtala,3.8,1765,3,5,রুদ্র সরকার,"৭৩৩, উত্তর মনোহরসড়ক, Jhawtala, Cumilla",8841059.47
+Shashongacha,2.0,1740,3,10,আয়ুষ আচার্য্য,"৯, মধ্য হাজীপুর লেন, Shashongacha, Cumilla",5769430.68
+Kandirpar,4.0,1502,2,3,আবু সরকার,"৩৬৫, নতুন মানিকমাটি প্লাজা, Kandirpar, Cumilla",8150249.49
+Dharmapur,1.8,2266,4,3,সৌমিক তালুকদার,"৪, পূর্ব ফুলখালি রাস্তা, Dharmapur, Cumilla",8100740.41
+Dharmapur,1.8,1573,2,16,কুনাল চৌধুরী,"১, মধ্য মির্জাখালি, Dharmapur, Cumilla",6468268.6
+Tomsom Bridge,3.0,1419,2,9,নয়ন পাণ্ডে,"১৫২, কমলঘাট, Tomsom Bridge, Cumilla",6842189.95
+Chawkbazar,2.2,937,2,14,আরাধ্যা মজুমদার,"৮৯০, পূর্ব আলমমাটি, Chawkbazar, Cumilla",3507350.59
+Kotbari,2.5,1868,3,11,শুভশ্রী মোড়ল,"৫৮৩, দক্ষিণ বদরগঞ্জ কর্নার, Kotbari, Cumilla",7827502.4
+Tomsom Bridge,3.0,1440,2,16,রুদ্র মিঞা,"৬৪, মির্জাডাঙ্গা এভিনিউ, Tomsom Bridge, Cumilla",5506996.35
+Bagichagaon,3.5,1677,3,18,দূর্গা সিনহা,"৫, নতুন নন্দীমোড়, Bagichagaon, Cumilla",7970894.43
+Bagichagaon,3.5,2178,3,19,আরিয়া তালুকদার,"৭৭, হোসেনএভিনিউ, Bagichagaon, Cumilla",8667573.08
+Dharmapur,1.8,1029,2,15,অঞ্জনা বর্মন,"৪৫৯, পশ্চিম বিশ্বনাথতলা মোড়, Dharmapur, Cumilla",4196677.41
+Race Course,3.2,1710,3,16,প্রান্ত কান্ত,"৫৭১, পশ্চিম মনিরামহার, Race Course, Cumilla",6819930.37
+Kotbari,2.5,906,2,0,অন্তরা আলম,"৭৩, মিরবাড়ি, Kotbari, Cumilla",4679357.13
+Kotbari,2.5,2151,3,2,চঞ্চল দেব,"৩১৭, পশ্চিম মিরস্ট্যান্ড, Kotbari, Cumilla",8891460.31
+Race Course,3.2,2118,3,12,অর্ক মৃধা,"৩, মানিকপার্ক, Race Course, Cumilla",9286118.3
+Kotbari,2.5,1843,3,6,বাঁধন আবদুল্লাহ,"৮৩, মাধবস্টেশন, Kotbari, Cumilla",6914598.13
+Kotbari,2.5,1037,2,15,অন্তরা জামান,"২, হাজীস্ট্যান্ড, Kotbari, Cumilla",4753722.24
+Shashongacha,2.0,1395,2,0,আরুণি পোদ্দার,"৯, হাকিমস্ট্যান্ড, Shashongacha, Cumilla",6395112.96
+Race Course,3.2,1073,2,20,আবু বিশ্বাস,"২, পুরাতন রায়গঞ্জ, Race Course, Cumilla",4994199.43
+Chawkbazar,2.2,1263,2,18,নন্দিতা দাস,"৯, মধ্য কাজীমোড়, Chawkbazar, Cumilla",4927076.27
+Jhawtala,3.8,1599,2,19,বাঁধন আওয়াল,"২, গৌরনগর, Jhawtala, Cumilla",7378101.68
+Tomsom Bridge,3.0,1419,2,10,শাওন প্রামানিক,"৭১৩, ওসমানীনগর কর্নার, Tomsom Bridge, Cumilla",5762191.95
+Dharmapur,1.8,1701,3,15,শান্ত ইসলাম,"৪১, মনোহরখালি এভিনিউ, Dharmapur, Cumilla",6057059.97
+Kotbari,2.5,1919,3,20,প্রদীপ সিনহা,"৬৮২, বালিয়াখালি সেন্টার, Kotbari, Cumilla",7339273.87
+Police Line,3.1,1370,2,10,শুভশ্রী পাণ্ডে,"৬১৯, বটিয়াগাঁ মহল্লা, Police Line, Cumilla",6836981.5
+Jhawtala,3.8,2044,3,22,ঋষিতা রায়,"৩, পুরাতন বাকেরহার রাস্তা, Jhawtala, Cumilla",8935020.74
+Tomsom Bridge,3.0,2080,3,13,আমায়া বাগচী,"৫০৭, উত্তর মির্জাস্টেশন, Tomsom Bridge, Cumilla",8792185.51
+Police Line,3.1,897,2,20,অমল প্রধান,"১৩, দক্ষিণ মনিরামগাঁ মহাসড়ক, Police Line, Cumilla",4884168.56
+Bagichagaon,3.5,1257,2,2,অজিত আচার্য্য,"১৫৪, উত্তর বিরামমাটি, Bagichagaon, Cumilla",7069650.73
+Tomsom Bridge,3.0,1789,3,18,খুশি হুরাইরা,"৮৭, দক্ষিণ শিবপুর সড়ক, Tomsom Bridge, Cumilla",7805600.2
+Police Line,3.1,1482,2,7,মৃত্যুঞ্জয় মিশ্র,"৭৫৫, কালীহার স্ট্যান্ড, Police Line, Cumilla",6166896.34
+Kandirpar,4.0,1963,3,2,মাধুরী পাণ্ডে,"৮৪৭, কাজীচত্বর, Kandirpar, Cumilla",9599684.0
+Chawkbazar,2.2,1699,3,2,তামিম জামান,"২০, শ্যামবাড়ি রাস্তা, Chawkbazar, Cumilla",7305944.93
+Dharmapur,1.8,863,2,15,আদি তালুকদার,"৬৪, নতুন সুন্দরসড়ক, Dharmapur, Cumilla",3949528.4
+Police Line,3.1,1066,2,13,অলোকা গঙ্গোপাধ্যায়,"২০, বাজিতখালি সেন্টার, Police Line, Cumilla",5327488.0
+Jhawtala,3.8,1372,2,7,কেয়া সুলতানা,"৫৯০, চৌদ্দপ্লাজা, Jhawtala, Cumilla",7196386.05
+Kandirpar,4.0,1967,3,11,মিলন সিনহা,"২, ফকিরগলি, Kandirpar, Cumilla",9143519.92
+Jhawtala,3.8,1558,2,9,প্রিয়া সিনহা,"১৫২, ওসমানীপুর সেন্টার, Jhawtala, Cumilla",7285230.41
+Police Line,3.1,1504,2,18,অলোকা পাল,"৫৫, পশ্চিম সিরাজলেন, Police Line, Cumilla",5887458.5
+Race Course,3.2,1572,2,5,ঈশানি মৃধা,"৭, ফুলকর্নার, Race Course, Cumilla",6891195.93
+Kandirpar,4.0,1032,2,22,নাইম মন্ডল,"১৮, বিশ্বনাথনগর, Kandirpar, Cumilla",6307559.33
+Police Line,3.1,1433,2,13,অদৃতা আচার্য্য,"৭, উজিরদিয়া ঘাট, Police Line, Cumilla",6487704.81
+Dharmapur,1.8,1300,2,17,প্রান্ত রাও,"১৯৯, মাধবগড় এভিনিউ, Dharmapur, Cumilla",4848092.73
+Bagichagaon,3.5,1287,2,7,সাব্বির আবদুল্লাহ,"২৬, বিরামবাড়ি সড়ক, Bagichagaon, Cumilla",6809112.82
+Bagichagaon,3.5,1006,2,14,আজাদ মন্ডল,"২, নতুন আনোয়ারচর, Bagichagaon, Cumilla",4369167.88
+Race Course,3.2,800,2,14,আজম উদ্দিন,"৭৯, গৌরগাঁও, Race Course, Cumilla",4835992.07
+Shashongacha,2.0,1921,3,22,মিম দাস,"৬৬, হাজীবাজার গলি, Shashongacha, Cumilla",6972648.42
+Police Line,3.1,1748,3,22,শাহাবাজ উদ্দিন,"৪৬৪, তারাগড় কর্নার, Police Line, Cumilla",7077669.71
+Race Course,3.2,2089,3,4,রাশেদুল রহমান,"১, দক্ষিণ নন্দীকর্নার, Race Course, Cumilla",8444071.66
+Dharmapur,1.8,1830,3,15,সাবের খান,"৮৫৩, দাউদহাট, Dharmapur, Cumilla",6947358.11
+Jhawtala,3.8,1606,2,13,বিপাশা বেগম,"৮, পুরাতন বিরামহাট, Jhawtala, Cumilla",6913176.19
+Tomsom Bridge,3.0,1044,2,1,অর্না মোড়ল,"৪, বাকেরগড়, Tomsom Bridge, Cumilla",5513180.74
+Police Line,3.1,1975,3,0,সাব্বির প্রামানিক,"৪৯, মিরমোড়, Police Line, Cumilla",8472191.48
+Tomsom Bridge,3.0,1312,2,24,ঋষিতা প্রামানিক,"৫৪৬, নন্দীএভিনিউ, Tomsom Bridge, Cumilla",5224544.54
+Bagichagaon,3.5,1791,3,4,অঞ্জনা জাহান,"৫, উত্তর সোনাহার, Bagichagaon, Cumilla",8273360.98
+Chawkbazar,2.2,1903,3,10,আরাধ্যা মন্ডল,"১, কালিয়াগাঁ স্ট্যান্ড, Chawkbazar, Cumilla",7565547.78
+Chawkbazar,2.2,1427,2,20,আনিস মজুমদার,"৪৫৯, মহাদেবডাঙ্গা পার্ক, Chawkbazar, Cumilla",5625999.61
+Shashongacha,2.0,1749,3,17,অভিষেক সরকার,"৭, মধ্য বেগমসড়ক, Shashongacha, Cumilla",6017522.51
+Bagichagaon,3.5,1678,3,11,সাব্বির জাহান,"৫০, উত্তর কমলগড় লেন, Bagichagaon, Cumilla",7787557.11
+Tomsom Bridge,3.0,1947,3,6,অর্না পাল,"২০, কালিয়ারাস্তা, Tomsom Bridge, Cumilla",8254111.15
+Kandirpar,4.0,1757,3,1,ইজাজ জামান,"৭১১, মোল্লাচর, Kandirpar, Cumilla",7727013.22
+Kandirpar,4.0,2044,3,4,প্রিয়তি জাহান,"৬৩০, মধ্য গোপালসেন্টার, Kandirpar, Cumilla",9796517.04
+Shashongacha,2.0,2451,4,12,নিশিতা প্রামানিক,"৩, দেবদিয়া এভিনিউ, Shashongacha, Cumilla",8954090.98
+Police Line,3.1,959,2,12,আরিয়ান সিনহা,"৭, পুরাতন ফকিরলেন, Police Line, Cumilla",4378591.8
+Shashongacha,2.0,1779,3,18,হৈমন্তী মৃধা,"৭০, নতুন হাজীসেন্টার, Shashongacha, Cumilla",6558944.19
+Police Line,3.1,1711,3,12,বাকের চৌধুরী,"৬, ব্রাহ্মণপার্ক, Police Line, Cumilla",7316055.13
+Jhawtala,3.8,1304,2,11,অদৃতা সিনহা,"৫৬৪, মধুগড় সেন্টার, Jhawtala, Cumilla",6735360.13
+Police Line,3.1,1220,2,14,এনামুল মৃধা,"২, দক্ষিণ বিজয়দিয়া, Police Line, Cumilla",6095089.2
+Shashongacha,2.0,1179,2,8,অদৃতা দাশগুপ্তা,"৭, দক্ষিণ সুবর্ণখালি, Shashongacha, Cumilla",4705150.16
+Kotbari,2.5,2020,3,19,শাহাবাজ চৌধুরী,"৩৩৭, পুরাতন মোহাম্মদদিয়া, Kotbari, Cumilla",8232961.4
+Police Line,3.1,1504,2,22,বিনয় মোড়ল,"১৬, নতুন শ্যামচর সড়ক, Police Line, Cumilla",6485728.49
+Bagichagaon,3.5,1459,2,21,শাহাবাজ আক্তার,"৪৫, মোল্লাতলা সেন্টার, Bagichagaon, Cumilla",6849864.6
+Tomsom Bridge,3.0,1789,3,17,রাসেল তালুকদার,"৫১, উত্তর ইসলামবাজার মহল্লা, Tomsom Bridge, Cumilla",7348642.0
+Chawkbazar,2.2,1470,2,5,মুশফিক বিশ্বাস,"৩৮৭, পূর্ব অভয়তলা, Chawkbazar, Cumilla",5780672.64
+Tomsom Bridge,3.0,1636,2,6,মোস্তাফিজ কাদের,"১৭, পূর্ব বেগমমোড়, Tomsom Bridge, Cumilla",7225172.22
+Race Course,3.2,1642,2,11,মিনা বন্দোপাধ্যায়,"৬৯৭, দক্ষিণ নাজিরনগর রোড, Race Course, Cumilla",7216156.16
+Bagichagaon,3.5,1749,3,9,শাহজাহান চৌধুরী,"৫২৫, চৌদ্দরোড, Bagichagaon, Cumilla",8131223.05
+Jhawtala,3.8,1322,2,15,সাব্বির মোড়ল,"২৮, শরণপুর, Jhawtala, Cumilla",5750399.61
+Dharmapur,1.8,1818,3,9,অলোকা সিনহা,"৩২, আনোয়ারগড় পাড়া, Dharmapur, Cumilla",7754934.07
+Kotbari,2.5,1583,2,0,আশ্বিনী সাহা,"৭৮১, বাঘারডাঙ্গা রোড, Kotbari, Cumilla",6183365.13
+Tomsom Bridge,3.0,1693,3,22,আমায়া মৃধা,"৫৮৯, মুরাদস্টেশন, Tomsom Bridge, Cumilla",7359922.89
+Tomsom Bridge,3.0,859,2,3,ইমতিয়াজ মিঞা,"৯৭৪, মুরাদকর্নার, Tomsom Bridge, Cumilla",4264275.99
+Kotbari,2.5,1161,2,11,বাসির খান,"৬, পূর্ব ব্রাহ্মণগঞ্জ, Kotbari, Cumilla",6114332.06
+Jhawtala,3.8,1795,3,14,আবির হুরাইরা,"৮, মধ্য শিবপাড়া, Jhawtala, Cumilla",8114085.76
+Tomsom Bridge,3.0,2071,3,3,আলিয়া চৌধুরী,"৯৪৭, ইসলামখালি, Tomsom Bridge, Cumilla",8762969.73
+Chawkbazar,2.2,1521,2,23,বিরাট তালুকদার,"৭৮, মধ্য শিবগলি, Chawkbazar, Cumilla",5885057.63
+Shashongacha,2.0,1541,2,20,নন্দিতা সিনহা,"৪১৮, পুরাতন মিরডাঙ্গা, Shashongacha, Cumilla",4627679.77
+Shashongacha,2.0,1810,3,0,আসাদ প্রামানিক,"৩৬৭, পুরাতন নড়িয়াচর কর্নার, Shashongacha, Cumilla",7871347.06
+Bagichagaon,3.5,1413,2,23,অজিত মন্ডল,"৫৮৭, পূর্ব ওসমানীবাড়ি রোড, Bagichagaon, Cumilla",6460011.86
+Kandirpar,4.0,1517,2,12,মাধু মোড়ল,"৯, উত্তর বদরগ্রাম স্ট্যান্ড, Kandirpar, Cumilla",7459870.28
+Chawkbazar,2.2,1705,3,4,রাজ বসু,"৪, মুরাদসেন্টার, Chawkbazar, Cumilla",6255612.64
+Tomsom Bridge,3.0,947,2,13,হৈমন্তী শুক্লা,"৯৮, বাকেরবাজার, Tomsom Bridge, Cumilla",3999447.98
+Dharmapur,1.8,1597,2,12,প্রিয়তি প্রামানিক,"৬, কেশবঘাট, Dharmapur, Cumilla",5932453.69
+Dharmapur,1.8,800,2,3,কাজল সাহা,"৪, উত্তর বাকেরচর, Dharmapur, Cumilla",3545993.89
+Kotbari,2.5,1862,3,14,আনন্দ প্রধান,"৮, পশ্চিম জগন্নাথকর্নার, Kotbari, Cumilla",7322406.13
+Shashongacha,2.0,1794,3,8,অভি সেন,"৭, বিশ্বনাথমাটি মহাসড়ক, Shashongacha, Cumilla",5863625.89
+Police Line,3.1,1292,2,21,রাজ খান,"৭৫, পশ্চিম ফটিকরোড, Police Line, Cumilla",5767403.02
+Police Line,3.1,1893,3,24,প্রশান্ত সরকার,"৩৩, বিরামপ্লাজা, Police Line, Cumilla",7765032.01
+Chawkbazar,2.2,1943,3,23,মাধুরী চৌধুরী,"১৬৩, দক্ষিণ শিবচত্বর, Chawkbazar, Cumilla",6280984.98
+Kotbari,2.5,1988,3,22,অভি মিশ্র,"৮৭, নালিতাবাজার কর্নার, Kotbari, Cumilla",7577641.12
+Jhawtala,3.8,2338,4,14,কাবেরি মৃধা,"৯২, উত্তর নন্দীগলি, Jhawtala, Cumilla",9900677.5
+Chawkbazar,2.2,1661,3,2,মিনা মুখার্জি,"২২, চৌদ্দগাঁও রোড, Chawkbazar, Cumilla",6506651.84
+Police Line,3.1,1941,3,22,প্রিয় প্রামানিক,"৭১০, নড়িয়ামহাসড়ক, Police Line, Cumilla",8869924.24
+Chawkbazar,2.2,1956,3,17,অভি সিনহা,"৭১, পশ্চিম আলিরাস্তা, Chawkbazar, Cumilla",7414346.85
+Race Course,3.2,1239,2,22,প্রদ্যুম্ন মন্ডল,"৮২৩, নতুন বদরতলা, Race Course, Cumilla",4950821.76
+Kandirpar,4.0,2052,3,10,বিপাশা সরকার,"৫৬৬, পূর্ব মানিকহাট, Kandirpar, Cumilla",8725427.05
+Shashongacha,2.0,1616,2,8,বাসির চৌধুরী,"৭, মিরবাড়ি, Shashongacha, Cumilla",5799311.93
+Tomsom Bridge,3.0,1461,2,6,সাব্বির হুরাইরা,"৫, মধ্য মনিরামপুর, Tomsom Bridge, Cumilla",6588161.14
+Tomsom Bridge,3.0,1559,2,1,লতা আলি,"১৫, দেবীহাট, Tomsom Bridge, Cumilla",6650575.2
+Bagichagaon,3.5,1602,2,6,অমল দাস,"৪৫, উত্তর রামপুর, Bagichagaon, Cumilla",7244439.54
+Kandirpar,4.0,1872,3,14,লতা বসু,"৭৩১, মোল্লাবাজার, Kandirpar, Cumilla",9205217.1
+Jhawtala,3.8,1309,2,0,জয়দীপ বসু,"৯, বিশ্বনাথমহল্লা, Jhawtala, Cumilla",7247737.97
+Dharmapur,1.8,1792,3,21,আশুতোষ দত্ত,"৪, মনিরামবাজার মহল্লা, Dharmapur, Cumilla",5536859.78
+Police Line,3.1,2001,3,10,আরাধ্যা দেব,"৫, পার্বতীএভিনিউ, Police Line, Cumilla",8764904.59
+Bagichagaon,3.5,800,2,16,মাধুরী মোড়ল,"৩৫, পূর্ব আনোয়ারবাজার রোড, Bagichagaon, Cumilla",4927657.71
+Dharmapur,1.8,1023,2,1,শ্রাবন্তী আলি,"১৪৬, পূর্ব বটিয়ামাটি স্ট্যান্ড, Dharmapur, Cumilla",3718078.01
+Tomsom Bridge,3.0,1739,3,17,আলিয়া সুলতানা,"৭, ফুলডাঙ্গা, Tomsom Bridge, Cumilla",8187784.25
+Tomsom Bridge,3.0,1773,3,4,শাওন ইসলাম,"৩, বাকেরদিয়া, Tomsom Bridge, Cumilla",6788098.5
+Jhawtala,3.8,1274,2,10,অর্ণব রায়,"৯৭১, মোহনগাঁ, Jhawtala, Cumilla",6955224.81
+Jhawtala,3.8,838,2,20,কবিতা পাল,"৭২৯, মহেশমাটি সেন্টার, Jhawtala, Cumilla",6011523.14
+Chawkbazar,2.2,1449,2,5,তনয় হোসাইন,"৬২২, দক্ষিণ শাজাহানগাঁ মহাসড়ক, Chawkbazar, Cumilla",5338165.52
+Jhawtala,3.8,1769,3,6,মিথিলা চৌধুরী,"৩, পশ্চিম বাকেরগাঁ পার্ক, Jhawtala, Cumilla",7801127.52
+Bagichagaon,3.5,1847,3,5,প্রান্ত বসু,"৩৪, বোরহাননগর, Bagichagaon, Cumilla",8606095.59
+Dharmapur,1.8,2046,3,12,চয়ন আক্তার,"৯০৯, পূর্ব মোল্লাগড় সড়ক, Dharmapur, Cumilla",7178488.95
+Dharmapur,1.8,1977,3,2,মাধুরী মোড়ল,"৩৫০, মনোহরচর, Dharmapur, Cumilla",8012738.69
+Shashongacha,2.0,1880,3,18,আশালতা রায়,"৩৭, পার্বতীমাটি, Shashongacha, Cumilla",6791672.0
+Jhawtala,3.8,2068,3,18,প্রিয়া সিনহা,"৩১৩, পলাশগ্রাম, Jhawtala, Cumilla",8807194.04
+Jhawtala,3.8,1256,2,19,অর্পিতা সুলতানা,"৮৬৫, পুরাতন কবিরহার, Jhawtala, Cumilla",6098317.36
+Bagichagaon,3.5,2171,3,4,রাজ দাশগুপ্তা,"৩৪৩, মহেশচর, Bagichagaon, Cumilla",9277478.63
+Kandirpar,4.0,1926,3,0,অজিত পোদ্দার,"৯২, দক্ষিণ মনিরামগঞ্জ, Kandirpar, Cumilla",9562784.01
+Police Line,3.1,959,2,10,ইমতিয়াজ প্রামানিক,"৩০৬, উত্তর অভয়তলা, Police Line, Cumilla",4419598.53
+Police Line,3.1,1423,2,0,শাওন সেন,"৫, মধ্য আনোয়ারগাঁ, Police Line, Cumilla",5780141.12
+Kandirpar,4.0,1049,2,18,রুদ্র বোস,"৭৪, কালীস্টেশন, Kandirpar, Cumilla",5318984.2
+Kotbari,2.5,1384,2,10,আতাহার আলি,"৯৫, সখিলেন, Kotbari, Cumilla",5816333.4
+Chawkbazar,2.2,1040,2,12,মাধুরী রাও,"৯, বিরামখালি এভিনিউ, Chawkbazar, Cumilla",3504520.42
+Kandirpar,4.0,2136,3,5,বিদ্যা মজুমদার,"১৭, উত্তর হাজীগঞ্জ চত্বর, Kandirpar, Cumilla",10806142.21
+Shashongacha,2.0,1358,2,4,আরিয়ান আওয়াল,"৯৯৬, মোল্লাগাঁও রাস্তা, Shashongacha, Cumilla",5300653.76
+Dharmapur,1.8,1385,2,19,বিপাশা ঘোষ,"৩২১, হাকিমচর, Dharmapur, Cumilla",5584679.35
+Shashongacha,2.0,1408,2,3,বাসির মোড়ল,"৪৬, উত্তর জীবনগাঁ, Shashongacha, Cumilla",5687081.61
+Bagichagaon,3.5,1971,3,0,বিদ্যা চৌধুরী,"৩৪, উত্তর আনোয়ারগাঁও, Bagichagaon, Cumilla",8712746.18
+Police Line,3.1,1309,2,16,আলিয়া জাহান,"২৪, রামগঞ্জ মহাসড়ক, Police Line, Cumilla",5643566.54
+Dharmapur,1.8,2105,3,16,অজয় চন্দ্র,"৪৬, পূর্ব রায়গাঁও, Dharmapur, Cumilla",8166611.27
+Jhawtala,3.8,1611,2,20,রিনা সিনহা,"৩৬৭, করিমহার, Jhawtala, Cumilla",7145005.14
+Race Course,3.2,1409,2,1,আজম রহমান,"১, পুরাতন সোনাখালি স্টেশন, Race Course, Cumilla",7103668.99
+Chawkbazar,2.2,1330,2,11,অর্ণব প্রামানিক,"২, বাঘারবাড়ি গলি, Chawkbazar, Cumilla",6525917.36
+Tomsom Bridge,3.0,1055,2,12,বিপাশা আচার্য্য,"২২, দক্ষিণ মোহননগর মহল্লা, Tomsom Bridge, Cumilla",4702716.86
+Tomsom Bridge,3.0,2028,3,2,আলিয়া চৌধুরী,"২৮৮, মিরঘাট, Tomsom Bridge, Cumilla",8081010.57
+Police Line,3.1,1029,2,4,অভিষেক মৃধা,"৪৪৭, পুরাতন সৈয়দমাটি লেন, Police Line, Cumilla",5028860.23
+Chawkbazar,2.2,1648,2,20,রোহিত চৌধুরী,"৫৯, মধ্য হাজীবাড়ি স্ট্যান্ড, Chawkbazar, Cumilla",6429306.69
+Bagichagaon,3.5,1716,3,18,রোহিত প্রামানিক,"৫, পূর্ব রামতলা, Bagichagaon, Cumilla",7685241.02
+Tomsom Bridge,3.0,831,2,17,মিলন চৌধুরী,"২৯, শিবহার, Tomsom Bridge, Cumilla",4926487.6
+Tomsom Bridge,3.0,1613,2,23,ইজাজ মৃধা,"২৩৮, বাকেরগঞ্জ চত্বর, Tomsom Bridge, Cumilla",7088935.41
+Shashongacha,2.0,1017,2,5,শাহাবাজ মজুমদার,"৮, মোহাম্মদঘাট, Shashongacha, Cumilla",5073210.38
+Bagichagaon,3.5,1441,2,2,ঋষিতা মিশ্র,"৭৫৭, দক্ষিণ বাঘারসড়ক, Bagichagaon, Cumilla",6194050.1
+Bagichagaon,3.5,1844,3,10,অনিন্দিতা মোড়ল,"৬, পুরাতন নাসিরঘাট, Bagichagaon, Cumilla",8755772.55
+Jhawtala,3.8,1490,2,9,তন্ময় যাদব,"৭৮, পুরাতন লালপাড়া, Jhawtala, Cumilla",7302775.97
+Bagichagaon,3.5,1581,2,22,বাদল মোড়ল,"৯, গোপালরাস্তা, Bagichagaon, Cumilla",6912142.36
+Police Line,3.1,1709,3,22,শাহজাহান চৌধুরী,"৩৯, পলাশগ্রাম সড়ক, Police Line, Cumilla",6874816.2
+Chawkbazar,2.2,1363,2,9,অজয় সরকার,"৪২২, অভয়গ্রাম, Chawkbazar, Cumilla",5647123.94
+Kandirpar,4.0,1125,2,24,ঈশানি চ্যাটার্জি,"৮৯, মধ্য বাঘারঘাট, Kandirpar, Cumilla",6218059.55
+Race Course,3.2,949,2,8,লিটন চৌধুরী,"৮২, পুরাতন মধুগড়, Race Course, Cumilla",4769430.12
+Tomsom Bridge,3.0,1843,3,11,বাকের হক,"৮৭, সুন্দরহার, Tomsom Bridge, Cumilla",7552472.15
+Tomsom Bridge,3.0,1903,3,12,প্রদ্যুম্ন যাদব,"৭, জগন্নাথডাঙ্গা কর্নার, Tomsom Bridge, Cumilla",9554117.87
+Chawkbazar,2.2,1777,3,6,রিনা হুরাইরা,"১১৫, নতুন কমলদিয়া মহল্লা, Chawkbazar, Cumilla",6105466.86
+Race Course,3.2,1547,2,8,আয়ুশি মোড়ল,"৩২, পুরাতন মাধবগাঁও সেন্টার, Race Course, Cumilla",6425351.03
+Chawkbazar,2.2,2180,3,20,মাধু পোদ্দার,"১, দেবীমাটি পাড়া, Chawkbazar, Cumilla",8041238.75
+Shashongacha,2.0,2031,3,2,মাধু চৌধুরী,"৩৫৫, সৈয়দহার পাড়া, Shashongacha, Cumilla",8320579.07
+Chawkbazar,2.2,1845,3,12,প্রান্ত জামান,"২৮৩, সোনাপুর, Chawkbazar, Cumilla",8227817.72
+Chawkbazar,2.2,956,2,18,প্রত্যয় আলি,"১৬৯, পুরাতন সৈয়দনগর স্ট্যান্ড, Chawkbazar, Cumilla",4686697.62
+Race Course,3.2,1503,2,8,আরিয়া সেন,"৯৫০, আনোয়ারসড়ক, Race Course, Cumilla",5842565.71
+Chawkbazar,2.2,2570,4,0,অর্ণব সিনহা,"১, মিরচত্বর, Chawkbazar, Cumilla",10065374.72
+Shashongacha,2.0,1418,2,19,আনিস বেগম,"২৮৬, পুরাতন মনিরামমহল্লা, Shashongacha, Cumilla",5100669.72
+Kotbari,2.5,800,2,16,বাসির আবদুল্লাহ,"৬, পুরাতন পাইকতলা ঘাট, Kotbari, Cumilla",3675661.64
+Dharmapur,1.8,1457,2,4,প্রিয়াঙ্কা হক,"৮৫, ফুলগ্রাম, Dharmapur, Cumilla",5390300.04
+Shashongacha,2.0,1626,2,10,প্রত্যয় সরকার,"২, বটিয়াবাড়ি, Shashongacha, Cumilla",5913381.71
+Race Course,3.2,1935,3,11,ইশিতা খাতুন,"৮৮, নালিতাগাঁ সেন্টার, Race Course, Cumilla",8635152.05
+Jhawtala,3.8,2101,3,8,জনা মজুমদার,"২, উত্তর বোরহানমোড়, Jhawtala, Cumilla",8454311.97
+Kandirpar,4.0,1791,3,3,অনিন্দিতা ব্যানার্জি,"৯৫১, বটিয়াস্ট্যান্ড, Kandirpar, Cumilla",8845359.38
+Jhawtala,3.8,1506,2,10,বাঁধন প্রামানিক,"৩২১, কুমারপার্ক, Jhawtala, Cumilla",7140118.3
+Bagichagaon,3.5,1609,2,11,সৌম্য পাল,"৬১৭, জগন্নাথবাড়ি চত্বর, Bagichagaon, Cumilla",6786758.18
+Shashongacha,2.0,1575,2,21,আনন্দ আওয়াল,"১, পুরাতন সুন্দরনগর, Shashongacha, Cumilla",6209720.61
+Shashongacha,2.0,822,2,4,আনিস সিনহা,"১৪, পশ্চিম বাজিতলেন, Shashongacha, Cumilla",3133493.13
+Shashongacha,2.0,1416,2,20,তামিম মজুমদার,"৪০, পুরাতন নড়িয়াডাঙ্গা গলি, Shashongacha, Cumilla",6086241.12
+Kandirpar,4.0,1919,3,1,শাহাবাজ জামান,"৫, পশ্চিম ওসমানীবাড়ি কর্নার, Kandirpar, Cumilla",9327178.72
+Shashongacha,2.0,1796,3,1,চয়ন আলম,"৩, বাজিততলা, Shashongacha, Cumilla",7182003.12
+Dharmapur,1.8,1270,2,22,আয়ুশি মজুমদার,"৭৭৮, হাকিমগড় ঘাট, Dharmapur, Cumilla",4682495.6
+Kotbari,2.5,1314,2,7,নন্দিতা কান্ত,"৫৬৫, কালীখালি মহল্লা, Kotbari, Cumilla",4968373.53
+Tomsom Bridge,3.0,1616,2,4,আমায়া রাও,"৬, দক্ষিণ বোরহানগাঁ, Tomsom Bridge, Cumilla",6342326.4
+Kotbari,2.5,1152,2,22,সজীব রহমান,"২৭, দক্ষিণ বকশীডাঙ্গা গলি, Kotbari, Cumilla",4373506.93
+Bagichagaon,3.5,1473,2,13,তামিম সরকার,"১, বিজয়বাজার ঘাট, Bagichagaon, Cumilla",7084923.0
+Chawkbazar,2.2,2271,4,4,রাজ মুখার্জি,"৪, মনোহরসেন্টার, Chawkbazar, Cumilla",9032667.36
+Dharmapur,1.8,1677,3,13,দূর্গা মোড়ল,"৮০, মধ্য মোড়লমাটি, Dharmapur, Cumilla",7135698.89
+Shashongacha,2.0,1319,2,9,প্রদীপ বিশ্বাস,"১, পুরাতন বিজয়গঞ্জ সড়ক, Shashongacha, Cumilla",5657000.05
+Race Course,3.2,1000,2,22,কাফি হক,"৭৭৭, পশ্চিম ফকিরহার, Race Course, Cumilla",4620395.85
+Jhawtala,3.8,2529,4,5,লিটন সরকার,"৭১, পূর্ব বিশ্বনাথনগর, Jhawtala, Cumilla",11050048.96
+Chawkbazar,2.2,2382,4,19,ইমন মজুমদার,"৪, ইসলামগলি, Chawkbazar, Cumilla",9460986.4
+Chawkbazar,2.2,1478,2,9,আমায়া পাণ্ডে,"১৮১, মোহনবাড়ি, Chawkbazar, Cumilla",4774849.58
+Shashongacha,2.0,1571,2,12,আশ্বিনী বিশ্বাস,"৯৯, বাঘারগ্রাম কর্নার, Shashongacha, Cumilla",6130528.42
+Tomsom Bridge,3.0,1706,3,10,মাধুরী প্রামানিক,"৬৮১, নতুন কালিয়াখালি স্টেশন, Tomsom Bridge, Cumilla",7172390.99
+Kotbari,2.5,1657,3,11,নাইম হক,"৭৩, মির্জাবাড়ি, Kotbari, Cumilla",7189543.07
+Race Course,3.2,1008,2,0,জনা হুরাইরা,"৪৯১, নতুন কালিয়াতলা পাড়া, Race Course, Cumilla",5061804.4
+Shashongacha,2.0,1589,2,17,আলিয়া মিশ্র,"৫৪, নতুন রানীগ্রাম মহল্লা, Shashongacha, Cumilla",5912412.08
+Kotbari,2.5,1434,2,2,জগদীশ সেন,"৯৮৩, বটিয়াকর্নার, Kotbari, Cumilla",6018642.28
+Shashongacha,2.0,1152,2,21,লতা মুখার্জি,"৫, নতুন সুবর্ণলেন, Shashongacha, Cumilla",4673209.32
+Kandirpar,4.0,2359,4,20,ঋষিতা বিশ্বাস,"৭৩, পশ্চিম হাজীগঞ্জ প্লাজা, Kandirpar, Cumilla",9978460.94
+Tomsom Bridge,3.0,1493,2,4,বিদ্যা প্রধান,"৬, নতুন দাউদএভিনিউ, Tomsom Bridge, Cumilla",5657498.71
+Tomsom Bridge,3.0,1979,3,13,ইকবাল বিশ্বাস,"৩৫১, দক্ষিণ বকশীডাঙ্গা, Tomsom Bridge, Cumilla",8270365.2
+Police Line,3.1,1620,2,21,অভিষেক পোদ্দার,"৯৫২, নন্দীমোড়, Police Line, Cumilla",6783230.21
+Police Line,3.1,1355,2,9,আসাদ মিঞা,"৫২১, মোহাম্মদসেন্টার, Police Line, Cumilla",6616422.88
+Bagichagaon,3.5,994,2,12,সাবের আবদুল্লাহ,"৪৪, উত্তর নাসিরগাঁ রোড, Bagichagaon, Cumilla",5563432.34
+Kotbari,2.5,1577,2,6,তুষার ঠাকুর,"৬, দাউদপার্ক, Kotbari, Cumilla",7407897.18
+Chawkbazar,2.2,1465,2,11,মুনতাসির মজুমদার,"৭, ইসলামএভিনিউ, Chawkbazar, Cumilla",6574984.14
+Police Line,3.1,1696,3,5,বাদল দে,"২, মুরাদচর, Police Line, Cumilla",7577702.64
+Kandirpar,4.0,1564,2,18,ইশিতা মোড়ল,"৮৩, মধ্য বিজয়খালি গলি, Kandirpar, Cumilla",7533086.22
+Chawkbazar,2.2,2211,4,1,মিলন হক,"৩০০, হরিরামনগর, Chawkbazar, Cumilla",9107485.08
+Jhawtala,3.8,2003,3,20,অন্তরা রাও,"৪১০, নতুন ব্রাহ্মণনগর, Jhawtala, Cumilla",8756105.95
+Kotbari,2.5,1525,2,15,জনা হুরাইরা,"৩০৯, কমলগ্রাম, Kotbari, Cumilla",6682580.01
+Shashongacha,2.0,1153,2,9,নন্দিতা মৃধা,"৫৩৫, সুন্দরমহল্লা, Shashongacha, Cumilla",4945021.9
+Dharmapur,1.8,1661,3,15,অর্ক চ্যাটার্জি,"২৩, নতুন শ্যামসড়ক, Dharmapur, Cumilla",6394270.58
+Kandirpar,4.0,1133,2,13,আরুণি সেন,"৫৩২, মাধবস্ট্যান্ড, Kandirpar, Cumilla",6494960.23
+Jhawtala,3.8,1792,3,24,ইশিতা জামান,"৭৫, বালিয়াগ্রাম পার্ক, Jhawtala, Cumilla",7954794.11
+Jhawtala,3.8,1908,3,21,কুনাল আচার্য্য,"৬৭, মধ্য হরিরামদিয়া, Jhawtala, Cumilla",7801584.17
+Shashongacha,2.0,1869,3,19,অর্ণব বিশ্বাস,"৭৭০, মনিরামগাঁও রোড, Shashongacha, Cumilla",7177907.66
+Shashongacha,2.0,1705,3,18,প্রান্ত মোড়ল,"৩, কমলএভিনিউ, Shashongacha, Cumilla",5808336.88
+Shashongacha,2.0,1670,3,19,অর্পিতা সরকার,"৫, মধ্য গোপালগাঁও, Shashongacha, Cumilla",6107279.37
+Dharmapur,1.8,1567,2,2,বিপাশা বিশ্বাস,"৭৩৫, পুরাতন নাসিরমোড়, Dharmapur, Cumilla",6082329.32
+Chawkbazar,2.2,2152,3,2,জয়ন্ত বোস,"৬০, মধ্য শান্তিবাড়ি, Chawkbazar, Cumilla",7244227.49
+Dharmapur,1.8,2047,3,5,মাধু সেন,"৫২৩, বদরমহল্লা, Dharmapur, Cumilla",8610210.7
+Dharmapur,1.8,1414,2,16,অঞ্জনা মন্ডল,"৫৩৫, উত্তর শরণসেন্টার, Dharmapur, Cumilla",4927788.36
+Tomsom Bridge,3.0,1395,2,15,ইকবাল সরকার,"৫৫৩, সুবর্ণগাঁ, Tomsom Bridge, Cumilla",5605219.1
+Kandirpar,4.0,2258,4,5,অমল পাণ্ডে,"৮, উজিরসড়ক, Kandirpar, Cumilla",10094124.29
