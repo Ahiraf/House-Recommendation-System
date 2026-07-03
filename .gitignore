@@ -12,3 +12,5 @@ venv/
 # OS / editor cruft
 .DS_Store
 .ipynb_checkpoints/
+
+.puku/
