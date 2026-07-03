@@ -1,0 +1,14 @@
+# Databases are rebuilt automatically from the CSV on startup
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS / editor cruft
+.DS_Store
+.ipynb_checkpoints/

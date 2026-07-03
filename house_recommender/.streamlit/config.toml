@@ -1,0 +1,8 @@
+[client]
+# "viewer" hides developer-only controls like the Deploy button,
+# while keeping the settings menu available to end users.
+toolbarMode = "viewer"
+
+[theme]
+base = "dark"
+primaryColor = "#4f8bf9"
