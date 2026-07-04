@@ -168,6 +168,7 @@ USER = "guest"
 
 DEFAULTS = {
     "results": [],
+    "searched": False,
     "compare_ids": set(),
     "f_district": "Any",
     "f_location": "",
@@ -192,6 +193,7 @@ def reset_filters():
     st.session_state.f_budget = 9000000
     st.session_state.f_max_pps = 0
     st.session_state.results = []
+    st.session_state.searched = False
     st.session_state.compare_ids = set()
 
 
@@ -344,12 +346,21 @@ def main_app():
             for i, r in enumerate(results):
                 r["_uid"] = i
             st.session_state.results = results
+            st.session_state.searched = True
             st.session_state.compare_ids = set()
             auth.add_search(user, prefs)
 
         results = st.session_state.results
         if not results:
-            st.info("No results yet. Use the sidebar to search.")
+            if st.session_state.searched:
+                st.warning(
+                    "😕 **No houses matched your filters.** Try relaxing them — "
+                    "for example set **Max Price / sqft** to `0` (no limit), "
+                    "raise your **Budget**, change **House Size** to *Any*, or "
+                    "clear the **Location** field."
+                )
+            else:
+                st.info("No results yet. Use the sidebar to search.")
         else:
             st.success(f"Found {len(results)} matching houses (ranked by best fit).")
 
