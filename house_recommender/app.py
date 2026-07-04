@@ -88,6 +88,20 @@ st.markdown("""
         /* Full-width sidebar so the preferences form is easy to use. */
         [data-testid="stSidebar"] {min-width: 85vw !important; width: 85vw !important;}
 
+        /* Tabs (Search / My Favorites / Search History / Charts): on a narrow
+           screen the row overflows and some tabs get cut off. Let them wrap to
+           multiple lines and shrink spacing so all four stay visible/tappable. */
+        [data-testid="stTabs"] [data-baseweb="tab-list"] {
+          flex-wrap: wrap !important;
+          gap: 0.15rem !important;
+          overflow-x: visible !important;
+        }
+        [data-testid="stTabs"] [data-baseweb="tab"] {
+          padding: 0.25rem 0.5rem !important;
+          font-size: 0.8rem !important;
+          white-space: nowrap !important;
+        }
+
         /* Slightly smaller headings so titles don't wrap awkwardly. */
         h1 {font-size: 1.5rem !important;}
         h2 {font-size: 1.2rem !important;}
