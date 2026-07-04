@@ -73,6 +73,14 @@ st.markdown("""
         opacity: 1 !important;
       }
 
+      /* Section navigation (horizontal radio). Allow the four options to wrap
+         onto multiple lines so they never overflow/clip on small screens, and
+         give them a bit more tap area. */
+      div[role="radiogroup"] {
+        flex-wrap: wrap !important;
+        gap: 0.25rem 1rem !important;
+      }
+
       /* ---- Mobile / small screens ---- */
       @media (max-width: 640px) {
         /* Trim big desktop margins so content uses the full width. */
@@ -89,24 +97,6 @@ st.markdown("""
 
         /* Full-width sidebar so the preferences form is easy to use. */
         [data-testid="stSidebar"] {min-width: 85vw !important; width: 85vw !important;}
-
-        /* Tabs (Search / My Favorites / Search History / Charts): on a narrow
-           screen the row overflows and some tabs get cut off. Let them wrap to
-           multiple lines and shrink spacing so all four stay visible/tappable. */
-        [data-testid="stTabs"] [data-baseweb="tab-list"] {
-          flex-wrap: wrap !important;
-          gap: 0.15rem !important;
-          overflow-x: visible !important;
-          height: auto !important;
-          min-height: unset !important;
-          max-height: none !important;
-        }
-        [data-testid="stTabs"] [data-baseweb="tab"] {
-          padding: 0.25rem 0.5rem !important;
-          font-size: 0.8rem !important;
-          white-space: nowrap !important;
-          height: auto !important;
-        }
 
         /* Slightly smaller headings so titles don't wrap awkwardly. */
         h1 {font-size: 1.5rem !important;}
@@ -348,27 +338,37 @@ def main_app():
             "max_price_per_sqft": st.session_state.f_max_pps or None,
         }
 
-    tab_search, tab_favs, tab_history, tab_charts = st.tabs(
-        ["🔎 Search", "⭐ My Favorites", "🕘 Search History", "📊 Charts"]
-    )
+    # Run the search up-front so clicking "Find Houses" works no matter which
+    # section is open, then jump to the Search section to show the results.
+    if search:
+        prefs = current_prefs()
+        weights = auth.learned_weights(user, DEFAULT_WEIGHTS) if use_smart else None
+        popularity = auth.popularity_signatures() if use_popularity else None
+        results = recommend(prefs, top_n=top_n, weights=weights, popularity=popularity)
+        # tag every result with a stable unique id for compare-checkbox state
+        for i, r in enumerate(results):
+            r["_uid"] = i
+        st.session_state.results = results
+        st.session_state.searched = True
+        st.session_state.compare_ids = set()
+        auth.add_search(user, prefs)
+        st.session_state.nav = "🔎 Search"
 
-    # -------- SEARCH TAB --------
-    with tab_search:
+    # Navigation: st.tabs' bar overflows/clips on small phones, hiding sections.
+    # A horizontal radio always shows all four and wraps cleanly on mobile.
+    section = st.radio(
+        "Section",
+        ["🔎 Search", "⭐ My Favorites", "🕘 Search History", "📊 Charts"],
+        horizontal=True,
+        label_visibility="collapsed",
+        key="nav",
+    )
+    st.markdown("---")
+
+    # -------- SEARCH SECTION --------
+    if section == "🔎 Search":
         st.title("🔎 Find Your Home")
         st.caption("Set your preferences in the sidebar, then click **Find Houses**.")
-
-        if search:
-            prefs = current_prefs()
-            weights = auth.learned_weights(user, DEFAULT_WEIGHTS) if use_smart else None
-            popularity = auth.popularity_signatures() if use_popularity else None
-            results = recommend(prefs, top_n=top_n, weights=weights, popularity=popularity)
-            # tag every result with a stable unique id for compare-checkbox state
-            for i, r in enumerate(results):
-                r["_uid"] = i
-            st.session_state.results = results
-            st.session_state.searched = True
-            st.session_state.compare_ids = set()
-            auth.add_search(user, prefs)
 
         results = st.session_state.results
         if not results:
@@ -437,8 +437,8 @@ def main_app():
 
             render_compare(results, st.session_state.compare_ids)
 
-    # -------- FAVORITES TAB --------
-    with tab_favs:
+    # -------- FAVORITES SECTION --------
+    elif section == "⭐ My Favorites":
         st.title("⭐ My Favorites")
         favs = auth.get_favorites(user)
         if not favs:
@@ -460,8 +460,8 @@ def main_app():
                             for s in sims:
                                 st.write(f"• {house_label(s)} — **{s['match_score']:.0f}%** match")
 
-    # -------- HISTORY TAB --------
-    with tab_history:
+    # -------- HISTORY SECTION --------
+    elif section == "🕘 Search History":
         st.title("🕘 Search History")
         hist = auth.get_searches(user, limit=15)
         if not hist:
@@ -475,8 +475,8 @@ def main_app():
                 st.write(f"🕒 {s['searched_at'][:19].replace('T', ' ')} — " +
                          (", ".join(f"{k}: {v}" for k, v in p.items()) or "no filters"))
 
-    # -------- CHARTS TAB --------
-    with tab_charts:
+    # -------- CHARTS SECTION --------
+    elif section == "📊 Charts":
         st.title("📊 Market Snapshot")
         st.caption("How prices, areas and listings are distributed in the dataset.")
         all_df = load_all_houses()
