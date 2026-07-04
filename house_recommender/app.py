@@ -22,6 +22,15 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+# Folium gives a fully draggable (pan + zoom) Leaflet map. Fall back to the
+# built-in st.map if it isn't installed so the app still runs everywhere.
+try:
+    import folium
+    from streamlit_folium import st_folium
+    _HAS_FOLIUM = True
+except ImportError:
+    _HAS_FOLIUM = False
+
 from recommender import recommend, similar_to, DB_PATH, DEFAULT_WEIGHTS
 from load_data import ensure_database
 import auth
@@ -177,7 +186,34 @@ def render_map(records):
     if df.empty:
         st.info("No map coordinates available for these districts.")
         return
-    st.map(df[["lat", "lon"]], zoom=6)
+
+    if not _HAS_FOLIUM:
+        # Fallback: still zoomable/pannable, but folium is smoother.
+        st.map(df[["lat", "lon"]], zoom=6)
+        return
+
+    center = [float(df["lat"].mean()), float(df["lon"].mean())]
+    fmap = folium.Map(
+        location=center,
+        zoom_start=6,
+        tiles="OpenStreetMap",
+        dragging=True,          # click-and-drag to pan
+        scrollWheelZoom=True,   # wheel to zoom
+        control_scale=True,
+    )
+    for _, row in df.iterrows():
+        price = row.get("Budget_BDT")
+        district = row.get("District", "")
+        popup = f"{district}"
+        if pd.notna(price):
+            popup += f" — {float(price):,.0f} BDT"
+        folium.Marker(
+            location=[row["lat"], row["lon"]],
+            popup=popup,
+            tooltip=district or None,
+            icon=folium.Icon(color="red", icon="home", prefix="fa"),
+        ).add_to(fmap)
+    st_folium(fmap, use_container_width=True, height=480, returned_objects=[])
 
 
 def render_compare(records, compare_ids):
