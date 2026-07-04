@@ -73,14 +73,6 @@ st.markdown("""
         opacity: 1 !important;
       }
 
-      /* Section navigation (horizontal radio). Allow the four options to wrap
-         onto multiple lines so they never overflow/clip on small screens, and
-         give them a bit more tap area. */
-      div[role="radiogroup"] {
-        flex-wrap: wrap !important;
-        gap: 0.25rem 1rem !important;
-      }
-
       /* ---- Mobile / small screens ---- */
       @media (max-width: 640px) {
         /* Trim big desktop margins so content uses the full width. */
@@ -354,13 +346,12 @@ def main_app():
         auth.add_search(user, prefs)
         st.session_state.nav = "🔎 Search"
 
-    # Navigation: st.tabs' bar overflows/clips on small phones, hiding sections.
-    # A horizontal radio always shows all four and wraps cleanly on mobile.
-    section = st.radio(
-        "Section",
+    # Navigation: st.tabs (and even a horizontal radio) overflow/clip on narrow
+    # phones and hide sections. A selectbox dropdown is compact and can never
+    # clip — it always shows the current section and reveals all four on tap.
+    section = st.selectbox(
+        "Go to",
         ["🔎 Search", "⭐ My Favorites", "🕘 Search History", "📊 Charts"],
-        horizontal=True,
-        label_visibility="collapsed",
         key="nav",
     )
     st.markdown("---")
