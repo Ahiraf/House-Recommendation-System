@@ -6,14 +6,14 @@ Flexible CSV -> SQLite loader for the House Recommendation System.
 The database always uses this fixed schema (one table: `houses`):
     District, Location, House_Size, Bedrooms, Bathrooms, Area_sqft, Budget_BDT, Source
 
-To add a NEW dataset in the future you do NOT touch any other file.
-You only:
-    1. Add an entry to the SOURCES list below (or call load_csv() yourself),
+To add a NEW dataset in the future no need to  touch any other file.
+only:
+    1. Add an entry to the SOURCES list below (or call load_csv()),
        mapping the new file's column names to our schema names.
     2. Re-run:  python load_data.py
 That's it -- the API and recommender keep working unchanged.
 
-House_Size is derived automatically from Area_sqft if you don't provide it.
+House_Size is derived automatically from Area_sqft if it is not provided.
 """
 
 import os
