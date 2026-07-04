@@ -52,14 +52,24 @@ st.set_page_config(
 
 st.markdown("""
     <style>
+      /* Hide only the deploy button + footer. We deliberately do NOT hide the
+         whole toolbar/header, because the sidebar's reopen ("»") arrow lives
+         there — hiding the toolbar makes it impossible to reopen "Your
+         Preferences" once collapsed. */
       .stDeployButton {display: none;}
+      [data-testid="stAppDeployButton"] {display: none;}
       footer {visibility: hidden;}
 
-      /* Keep the sidebar toggle (">") visible so mobile users can reopen
-         "Your Preferences" after collapsing it. Only hide the extra menu. */
-      [data-testid="stToolbar"] {visibility: hidden; height: 0; position: fixed;}
+      /* Belt-and-suspenders: force the sidebar expand/collapse controls to stay
+         visible across Streamlit versions (testid names have changed over time). */
       [data-testid="stSidebarCollapseButton"],
-      [data-testid="collapsedControl"] {visibility: visible !important;}
+      [data-testid="stSidebarCollapsedControl"],
+      [data-testid="stExpandSidebarButton"],
+      [data-testid="collapsedControl"] {
+        visibility: visible !important;
+        display: flex !important;
+        opacity: 1 !important;
+      }
 
       /* ---- Mobile / small screens ---- */
       @media (max-width: 640px) {
