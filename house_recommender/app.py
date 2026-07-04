@@ -45,9 +45,11 @@ st.set_page_config(
     page_title="House Recommendation System",
     page_icon="🏠",
     layout="wide",
-    # Open the "Your Preferences" sidebar by default (incl. on mobile, where
-    # Streamlit otherwise hides it behind a small arrow users often miss).
-    initial_sidebar_state="expanded",
+    # "auto": sidebar stays open on desktop, but collapses on mobile so the main
+    # content (the Search/Favorites/History/Charts tabs) is visible instead of
+    # being hidden behind the full-screen sidebar overlay. Mobile users open the
+    # preferences via the ">>" arrow (kept visible by the CSS below).
+    initial_sidebar_state="auto",
 )
 
 st.markdown("""
@@ -95,11 +97,15 @@ st.markdown("""
           flex-wrap: wrap !important;
           gap: 0.15rem !important;
           overflow-x: visible !important;
+          height: auto !important;
+          min-height: unset !important;
+          max-height: none !important;
         }
         [data-testid="stTabs"] [data-baseweb="tab"] {
           padding: 0.25rem 0.5rem !important;
           font-size: 0.8rem !important;
           white-space: nowrap !important;
+          height: auto !important;
         }
 
         /* Slightly smaller headings so titles don't wrap awkwardly. */
