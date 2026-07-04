@@ -13,6 +13,7 @@ Returned house dicts include:
 
 import os
 import sqlite3
+import tempfile
 import pandas as pd
 
 try:
@@ -22,7 +23,9 @@ except ImportError:  # graceful fallback if not installed
     _HAS_FUZZ = False
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DB_PATH = os.environ.get("HOUSES_DB", os.path.join(HERE, "houses.db"))
+# Default to the system temp dir (always writable). Must match load_data.py so
+# both modules read/write the same database file.
+DB_PATH = os.environ.get("HOUSES_DB", os.path.join(tempfile.gettempdir(), "houses.db"))
 
 DEFAULT_WEIGHTS = {
     "budget": 35,

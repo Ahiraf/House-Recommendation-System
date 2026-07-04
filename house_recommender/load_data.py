@@ -19,6 +19,7 @@ House_Size is derived automatically from Area_sqft if you don't provide it.
 import os
 import re
 import sqlite3
+import tempfile
 import pandas as pd
 import numpy as np
 
@@ -28,9 +29,10 @@ import numpy as np
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.dirname(HERE)          # parent "Recommendation System" folder
-# DB location can be overridden with the HOUSES_DB env var (handy for testing
-# or for cloud hosts with a writable temp dir).
-DB_PATH = os.environ.get("HOUSES_DB", os.path.join(HERE, "houses.db"))
+# DB location can be overridden with the HOUSES_DB env var. Default to the
+# system temp dir, which is always writable — the repo mount on cloud hosts
+# (e.g. Streamlit Cloud) can be read-only, which breaks writing the SQLite file.
+DB_PATH = os.environ.get("HOUSES_DB", os.path.join(tempfile.gettempdir(), "houses.db"))
 
 # Canonical schema columns (order matters for the table)
 SCHEMA = ["District", "Location", "House_Size", "Bedrooms",

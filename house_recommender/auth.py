@@ -11,12 +11,15 @@ is stored under a single local profile.
 import os
 import json
 import sqlite3
+import tempfile
 from datetime import datetime
 
 import pandas as pd
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-USERS_DB = os.environ.get("USERS_DB", os.path.join(HERE, "users.db"))
+# Default to the system temp dir (always writable). The repo mount on cloud
+# hosts (e.g. Streamlit Cloud) can be read-only, which breaks writing this file.
+USERS_DB = os.environ.get("USERS_DB", os.path.join(tempfile.gettempdir(), "users.db"))
 
 
 # ---------------------------------------------------------------------------
