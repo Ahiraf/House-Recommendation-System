@@ -41,13 +41,47 @@ import auth
 ensure_database()
 auth.init_user_db()
 
-st.set_page_config(page_title="House Recommendation System", page_icon="🏠", layout="wide")
+st.set_page_config(
+    page_title="House Recommendation System",
+    page_icon="🏠",
+    layout="wide",
+    # Open the "Your Preferences" sidebar by default (incl. on mobile, where
+    # Streamlit otherwise hides it behind a small arrow users often miss).
+    initial_sidebar_state="expanded",
+)
 
 st.markdown("""
     <style>
-      [data-testid="stToolbar"] {visibility: hidden; height: 0; position: fixed;}
       .stDeployButton {display: none;}
       footer {visibility: hidden;}
+
+      /* Keep the sidebar toggle (">") visible so mobile users can reopen
+         "Your Preferences" after collapsing it. Only hide the extra menu. */
+      [data-testid="stToolbar"] {visibility: hidden; height: 0; position: fixed;}
+      [data-testid="stSidebarCollapseButton"],
+      [data-testid="collapsedControl"] {visibility: visible !important;}
+
+      /* ---- Mobile / small screens ---- */
+      @media (max-width: 640px) {
+        /* Trim big desktop margins so content uses the full width. */
+        .block-container {padding: 1rem 0.75rem 3rem 0.75rem !important;}
+
+        /* Let side-by-side columns wrap and stack instead of getting squished
+           (house cards, Find/Reset buttons, compare tables, etc.). */
+        [data-testid="stHorizontalBlock"] {flex-wrap: wrap !important;}
+        [data-testid="stHorizontalBlock"] > [data-testid="stColumn"],
+        [data-testid="stHorizontalBlock"] > [data-testid="column"] {
+          flex: 1 1 100% !important;
+          min-width: 100% !important;
+        }
+
+        /* Full-width sidebar so the preferences form is easy to use. */
+        [data-testid="stSidebar"] {min-width: 85vw !important; width: 85vw !important;}
+
+        /* Slightly smaller headings so titles don't wrap awkwardly. */
+        h1 {font-size: 1.5rem !important;}
+        h2 {font-size: 1.2rem !important;}
+      }
     </style>
 """, unsafe_allow_html=True)
 
