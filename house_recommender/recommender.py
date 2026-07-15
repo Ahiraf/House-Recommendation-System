@@ -1,19 +1,21 @@
 """
-recommender.py
---------------
-Content-based weighted scoring engine with score breakdowns,
-fuzzy location matching, similar-house lookup, and optional
-personalized weights / popularity boost.
+Content-based ML recommender.
 
-Returned house dicts include:
-    match_score      overall fit %, 0-100
-    score_breakdown  dict criterion -> %, so the UI can explain WHY
-    Price_per_sqft   derived column
+Numeric features are scaled with scikit-learn's MinMaxScaler (learned from the
+data), each requested criterion contributes a 0-1 similarity, and criteria are
+combined by weight. `similar_to()` uses a k-Nearest-Neighbours model over the
+scaled feature space.
+
+Returned house dicts add: match_score (0-100), score_breakdown (criterion -> %),
+and Price_per_sqft.
 """
 
 import os
 import sqlite3
 import tempfile
+from functools import lru_cache
+
+import numpy as np
 import pandas as pd
 
 try:
@@ -21,6 +23,9 @@ try:
     _HAS_FUZZ = True
 except ImportError:  # graceful fallback if not installed
     _HAS_FUZZ = False
+
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.neighbors import NearestNeighbors
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 # Default to the system temp dir (always writable). Must match load_data.py so
@@ -41,6 +46,19 @@ WEIGHTS = DEFAULT_WEIGHTS
 BUDGET_TOLERANCE = 0.10
 POPULARITY_BOOST_MAX = 5.0   # max additive % boost from popularity signal
 
+# The numeric columns fed to the ML feature scaler.
+NUMERIC_FEATURES = ["Budget_BDT", "Area_sqft", "Bedrooms", "Bathrooms"]
+# Ordinal encoding for the size category (used both as a feature and for scoring).
+SIZE_ORDINAL = {"small": 0.0, "medium": 0.5, "large": 1.0}
+
+# Maps a scoring criterion -> (weight key, dataframe column, preference key).
+NUMERIC_CRITERIA = [
+    ("budget", "Budget_BDT", "budget_bdt"),
+    ("area", "Area_sqft", "area_sqft"),
+    ("bedrooms", "Bedrooms", "bedrooms"),
+    ("bathrooms", "Bathrooms", "bathrooms"),
+]
+
 
 def load_houses():
     conn = sqlite3.connect(DB_PATH)
@@ -51,7 +69,43 @@ def load_houses():
     return df
 
 
-def _location_score(locations, query):
+def _numeric_frame(df):
+    """Coerce the numeric feature columns and fill gaps with the column median."""
+    num = df[NUMERIC_FEATURES].apply(pd.to_numeric, errors="coerce")
+    return num.fillna(num.median())
+
+
+@lru_cache(maxsize=1)
+def _fit_model():
+    """Fit (and cache) the scaler + kNN model on the full dataset.
+
+    Returns (df, scaler, feature_matrix, nn_model). Cached for the life of the
+    process; ensure_database() runs before this on startup, so the data is ready.
+    """
+    df = load_houses()
+    num = _numeric_frame(df)
+    scaler = MinMaxScaler().fit(num)
+    scaled = scaler.transform(num)
+
+    size = (df["House_Size"].astype(str).str.lower().map(SIZE_ORDINAL)
+            .fillna(0.5).to_numpy().reshape(-1, 1))
+    feats = np.hstack([scaled, size])
+
+    nn = NearestNeighbors(metric="cosine").fit(feats)
+    return df, scaler, feats, nn
+
+
+def _scale_value(scaler, column, value):
+    """Scale one raw value into the model's 0..1 space for a single column."""
+    j = NUMERIC_FEATURES.index(column)
+    lo = scaler.data_min_[j]
+    rng = scaler.data_max_[j] - lo
+    if rng == 0:
+        return 0.0
+    return float(np.clip((float(value) - lo) / rng, 0.0, 1.0))
+
+
+def _location_sim(locations, query):
     s = locations.fillna("").astype(str).str.lower()
     q = str(query).lower().strip()
     if not q:
@@ -68,119 +122,121 @@ def recommend(preferences, top_n=10, weights=None, popularity=None):
     weights:     optional per-user override of DEFAULT_WEIGHTS.
     popularity:  optional dict {(district_lower, location_lower): count}.
                  Adds a small bonus to houses popular among other users.
+
+    Ranking is content-based: each requested criterion contributes a
+    similarity in [0, 1] (numeric features are compared in the sklearn-scaled
+    space), and criteria are combined by their weights.
     """
     weights = {**DEFAULT_WEIGHTS, **(weights or {})}
-    df = load_houses()
+    df, scaler, _feats, _nn = _fit_model()
     p = {k: v for k, v in preferences.items() if v not in (None, "", "Any")}
 
     # ---- Hard filters
+    mask = pd.Series(True, index=df.index)
     if p.get("district"):
-        df = df[df["District"].str.lower() == str(p["district"]).lower()]
-
+        mask &= df["District"].str.lower() == str(p["district"]).lower()
     budget = p.get("budget_bdt")
     if budget:
-        df = df[df["Budget_BDT"] <= budget * (1 + BUDGET_TOLERANCE)]
-
+        mask &= df["Budget_BDT"] <= budget * (1 + BUDGET_TOLERANCE)
     if p.get("max_price_per_sqft") and "Price_per_sqft" in df.columns:
-        df = df[df["Price_per_sqft"] <= p["max_price_per_sqft"]]
+        mask &= df["Price_per_sqft"] <= p["max_price_per_sqft"]
 
-    if df.empty:
+    sub = df[mask].copy()
+    if sub.empty:
         return []
 
-    components = {}   # name -> per-row contribution (Series, 0..weight)
-    used = []
+    # Scaled numeric features for the surviving candidates.
+    scaled = pd.DataFrame(
+        scaler.transform(_numeric_frame(df).loc[sub.index]),
+        index=sub.index, columns=NUMERIC_FEATURES,
+    )
 
-    if budget:
-        w = weights["budget"]
-        over = (df["Budget_BDT"] - budget).clip(lower=0)
-        s = (1 - over / (budget * BUDGET_TOLERANCE)).clip(0, 1)
-        components["budget"] = w * s
-        used.append(w)
+    components = {}   # name -> per-row similarity (Series, 0..1)
+    used_w = []
 
-    if p.get("area_sqft"):
-        w = weights["area"]
-        target = float(p["area_sqft"])
-        diff = (df["Area_sqft"] - target).abs() / max(target, 1)
-        components["area"] = w * (1 - diff).clip(0, 1)
-        used.append(w)
+    # Numeric criteria: similarity = 1 - |scaled_query - scaled_row|.
+    for name, col, pref_key in NUMERIC_CRITERIA:
+        if p.get(pref_key) is None:
+            continue
+        q = _scale_value(scaler, col, p[pref_key])
+        components[name] = (1.0 - (scaled[col] - q).abs()).clip(0, 1)
+        used_w.append(weights[name])
 
-    if p.get("bedrooms"):
-        w = weights["bedrooms"]
-        diff = (df["Bedrooms"] - p["bedrooms"]).abs() / 3.0
-        components["bedrooms"] = w * (1 - diff).clip(0, 1).fillna(0)
-        used.append(w)
-
-    if p.get("bathrooms"):
-        w = weights["bathrooms"]
-        diff = (df["Bathrooms"] - p["bathrooms"]).abs() / 3.0
-        components["bathrooms"] = w * (1 - diff).clip(0, 1).fillna(0)
-        used.append(w)
-
+    # Size category: ordinal closeness.
     if p.get("house_size"):
-        w = weights["house_size"]
-        s = (df["House_Size"].str.lower() == str(p["house_size"]).lower()).astype(float)
-        components["house_size"] = w * s
-        used.append(w)
+        q_ord = SIZE_ORDINAL.get(str(p["house_size"]).lower(), 0.5)
+        row_ord = sub["House_Size"].astype(str).str.lower().map(SIZE_ORDINAL).fillna(0.5)
+        components["house_size"] = (1.0 - (row_ord - q_ord).abs()).clip(0, 1)
+        used_w.append(weights["house_size"])
 
+    # Location: fuzzy text similarity.
     if p.get("location"):
-        w = weights["location"]
-        components["location"] = w * _location_score(df["Location"], p["location"])
-        used.append(w)
+        components["location"] = _location_sim(sub["Location"], p["location"])
+        used_w.append(weights["location"])
 
-    total_w = sum(used) if used else 1
-    raw = sum(components.values()) if components else pd.Series(0.0, index=df.index)
-    score = raw / total_w * 100
+    total_w = sum(used_w) if used_w else 1
+    if components:
+        raw = sum(weights[name] * comp for name, comp in components.items())
+        score = raw / total_w * 100
+    else:
+        score = pd.Series(0.0, index=sub.index)
 
     # Collaborative-ish popularity boost: small, additive, capped.
     if popularity:
         max_count = max(popularity.values())
-        keys = list(zip(df["District"].str.lower(), df["Location"].str.lower()))
+        keys = list(zip(sub["District"].str.lower(), sub["Location"].str.lower()))
         boost = pd.Series(
             [POPULARITY_BOOST_MAX * (popularity.get(k, 0) / max_count) for k in keys],
-            index=df.index,
+            index=sub.index,
         )
         score = (score + boost).clip(upper=100)
 
-    df = df.copy()
-    df["match_score"] = score.round(1)
-    df = df.sort_values("match_score", ascending=False).head(top_n).copy()
+    sub["match_score"] = score.round(1)
+    sub = sub.sort_values("match_score", ascending=False).head(top_n).copy()
 
-    # Per-row breakdown (% of max for each criterion used) — only for top_n.
+    # Per-row breakdown (% for each criterion used) — only for top_n rows.
     breakdowns = []
-    for idx in df.index:
-        b = {}
-        for name, contrib in components.items():
-            w = weights.get(name, 0)
-            if w > 0:
-                b[name] = round(float(contrib.loc[idx]) / w * 100, 1)
+    for idx in sub.index:
+        b = {name: round(float(comp.loc[idx]) * 100, 1)
+             for name, comp in components.items()}
         breakdowns.append(b)
-    df["score_breakdown"] = breakdowns
+    sub["score_breakdown"] = breakdowns
 
-    return df.to_dict(orient="records")
+    return sub.to_dict(orient="records")
 
 
 def similar_to(house, top_n=5, weights=None):
-    """Recommend houses similar to a given one (used from the Favorites tab)."""
-    prefs = {
-        "district": house.get("District"),
-        "location": house.get("Location"),
-        "house_size": house.get("House_Size"),
-        "bedrooms": house.get("Bedrooms"),
-        "bathrooms": house.get("Bathrooms"),
-        "area_sqft": house.get("Area_sqft"),
-        "budget_bdt": house.get("Budget_BDT"),
-    }
-    results = recommend(prefs, top_n=top_n + 1, weights=weights)
+    """Recommend houses similar to a given one (used from the Favorites tab).
+
+    Uses a k-Nearest-Neighbours model over the scaled feature space — a
+    content-based ML retrieval rather than re-running the weighted scorer.
+    """
+    df, scaler, _feats, nn = _fit_model()
+
+    # Build this house's feature vector in the model's space.
+    raw = pd.DataFrame([[house.get(c) for c in NUMERIC_FEATURES]], columns=NUMERIC_FEATURES)
+    raw = raw.apply(pd.to_numeric, errors="coerce").fillna(_numeric_frame(df).median())
+    scaled = scaler.transform(raw)
+    size = SIZE_ORDINAL.get(str(house.get("House_Size", "")).lower(), 0.5)
+    vec = np.hstack([scaled, [[size]]])
+
+    k = min(top_n + 5, len(df))
+    distances, indices = nn.kneighbors(vec, n_neighbors=k)
+
     out = []
-    for r in results:
+    for dist, i in zip(distances[0], indices[0]):
+        row = df.iloc[i].to_dict()
         same = (
-            r.get("District") == house.get("District")
-            and r.get("Location") == house.get("Location")
-            and abs(float(r.get("Budget_BDT") or 0) - float(house.get("Budget_BDT") or 0)) < 1
-            and abs(float(r.get("Area_sqft") or 0) - float(house.get("Area_sqft") or 0)) < 1
+            row.get("District") == house.get("District")
+            and row.get("Location") == house.get("Location")
+            and abs(float(row.get("Budget_BDT") or 0) - float(house.get("Budget_BDT") or 0)) < 1
+            and abs(float(row.get("Area_sqft") or 0) - float(house.get("Area_sqft") or 0)) < 1
         )
-        if not same:
-            out.append(r)
+        if same:
+            continue
+        # cosine distance -> similarity %
+        row["match_score"] = round(float(np.clip(1.0 - dist, 0.0, 1.0)) * 100, 1)
+        out.append(row)
         if len(out) >= top_n:
             break
     return out
