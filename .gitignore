@@ -12,5 +12,8 @@ venv/
 # OS / editor cruft
 .DS_Store
 .ipynb_checkpoints/
-
+Screenshot*
 .puku/
+
+# Streamlit secrets (never commit API keys)
+house_recommender/.streamlit/secrets.toml

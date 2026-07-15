@@ -1,18 +1,4 @@
-"""
-app.py
-------
-Streamlit web UI for the House Recommendation System.
-
-Features:
-  * Recommendations with per-criterion "Why this match?" breakdowns
-  * Map view of recommendations (district centroids + jitter)
-  * Charts tab (price distribution, area vs price)
-  * Side-by-side compare for 2-3 picked houses
-  * Favorites with "Similar houses" suggestions
-  * Personalized weights learned from a user's favorites
-  * Collaborative popularity boost (signal from all users' favorites)
-  * Search history, CSV download
-"""
+"""Streamlit web UI for the House Recommendation System."""
 
 import os
 import sqlite3
@@ -22,8 +8,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-# Folium gives a fully draggable (pan + zoom) Leaflet map. Fall back to the
-# built-in st.map if it isn't installed so the app still runs everywhere.
+# Folium gives a draggable/zoomable map; fall back to st.map if it's missing.
 try:
     import folium
     from streamlit_folium import st_folium
@@ -34,6 +19,7 @@ except ImportError:
 from recommender import recommend, similar_to, DB_PATH, DEFAULT_WEIGHTS
 from load_data import ensure_database
 import auth
+import nlp_search
 
 # ---------------------------------------------------------------------------
 # Setup
@@ -41,29 +27,39 @@ import auth
 ensure_database()
 auth.init_user_db()
 
+# Bridge the OpenAI API key from Streamlit secrets into the environment so the
+# OpenAI SDK (used by nlp_search) can find it on Streamlit Cloud.
+if not os.environ.get("OPENAI_API_KEY"):
+    try:
+        if "OPENAI_API_KEY" in st.secrets:
+            os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+    except Exception:
+        pass
+
+# The preference keys the recommender understands (also produced by AI search).
+PREF_KEYS = [
+    "district", "location", "house_size", "bedrooms",
+    "bathrooms", "area_sqft", "budget_bdt", "max_price_per_sqft",
+]
+
 st.set_page_config(
     page_title="House Recommendation System",
     page_icon="🏠",
     layout="wide",
-    # "auto": sidebar stays open on desktop, but collapses on mobile so the main
-    # content (the Search/Favorites/History/Charts tabs) is visible instead of
-    # being hidden behind the full-screen sidebar overlay. Mobile users open the
-    # preferences via the ">>" arrow (kept visible by the CSS below).
+    # Auto: sidebar open on desktop, collapsed on mobile so the main content
+    # shows instead of being hidden behind the sidebar overlay.
     initial_sidebar_state="auto",
 )
 
 st.markdown("""
     <style>
-      /* Hide only the deploy button + footer. We deliberately do NOT hide the
-         whole toolbar/header, because the sidebar's reopen ("»") arrow lives
-         there — hiding the toolbar makes it impossible to reopen "Your
-         Preferences" once collapsed. */
+      /* Hide the deploy button + footer, but keep the toolbar so the sidebar
+         reopen arrow stays reachable. */
       .stDeployButton {display: none;}
       [data-testid="stAppDeployButton"] {display: none;}
       footer {visibility: hidden;}
 
-      /* Belt-and-suspenders: force the sidebar expand/collapse controls to stay
-         visible across Streamlit versions (testid names have changed over time). */
+      /* Keep the sidebar expand/collapse controls visible across versions. */
       [data-testid="stSidebarCollapseButton"],
       [data-testid="stSidebarCollapsedControl"],
       [data-testid="stExpandSidebarButton"],
@@ -75,11 +71,9 @@ st.markdown("""
 
       /* ---- Mobile / small screens ---- */
       @media (max-width: 640px) {
-        /* Trim big desktop margins so content uses the full width. */
         .block-container {padding: 1rem 0.75rem 3rem 0.75rem !important;}
 
-        /* Let side-by-side columns wrap and stack instead of getting squished
-           (house cards, Find/Reset buttons, compare tables, etc.). */
+        /* Let columns wrap and stack instead of getting squished. */
         [data-testid="stHorizontalBlock"] {flex-wrap: wrap !important;}
         [data-testid="stHorizontalBlock"] > [data-testid="stColumn"],
         [data-testid="stHorizontalBlock"] > [data-testid="column"] {
@@ -87,10 +81,7 @@ st.markdown("""
           min-width: 100% !important;
         }
 
-        /* Full-width sidebar so the preferences form is easy to use. */
         [data-testid="stSidebar"] {min-width: 85vw !important; width: 85vw !important;}
-
-        /* Slightly smaller headings so titles don't wrap awkwardly. */
         h1 {font-size: 1.5rem !important;}
         h2 {font-size: 1.2rem !important;}
       }
@@ -197,6 +188,7 @@ def reset_filters():
     st.session_state.results = []
     st.session_state.searched = False
     st.session_state.compare_ids = set()
+    st.session_state.ai_parsed = None
 
 
 # ===========================================================================
@@ -343,12 +335,11 @@ def main_app():
         st.session_state.results = results
         st.session_state.searched = True
         st.session_state.compare_ids = set()
+        st.session_state.ai_parsed = None
         auth.add_search(user, prefs)
         st.session_state.nav = "🔎 Search"
 
-    # Navigation: st.tabs (and even a horizontal radio) overflow/clip on narrow
-    # phones and hide sections. A selectbox dropdown is compact and can never
-    # clip — it always shows the current section and reveals all four on tap.
+    # A selectbox dropdown for section nav — compact and never clips on mobile.
     section = st.selectbox(
         "Go to",
         ["🔎 Search", "⭐ My Favorites", "🕘 Search History", "📊 Charts"],
@@ -359,7 +350,64 @@ def main_app():
     # -------- SEARCH SECTION --------
     if section == "🔎 Search":
         st.title("🔎 Find Your Home")
-        st.caption("Set your preferences in the sidebar, then click **Find Houses**.")
+        st.caption("Set your preferences in the sidebar, then click **Find Houses** — "
+                   "or just describe what you want below and let AI search for you.")
+
+        # -------- AI (natural-language) search --------
+        AI_EXAMPLES = [
+            "3-bed medium flat in Dhaka under 90 lakh, at least 1400 sqft",
+            "Large family home in Chittagong, 4 beds, budget 1.5 crore",
+            "Small affordable apartment in Sylhet under 60 lakh",
+        ]
+
+        def _use_example(q):
+            st.session_state.nl_query = q
+            st.session_state._run_ai = True
+
+        with st.container(border=True):
+            st.subheader("🔮 AI Search")
+            nl = st.text_input(
+                "Describe your ideal home in plain words",
+                key="nl_query",
+                placeholder="e.g. 3-bed family flat in Dhaka under 90 lakh, at least 1400 sqft",
+            )
+            ai_search = st.button("Search with AI ✨", type="primary")
+            st.caption("Or tap an example:")
+            for col, ex in zip(st.columns(len(AI_EXAMPLES)), AI_EXAMPLES):
+                col.button(ex, key=f"ex_{ex[:15]}", on_click=_use_example,
+                           args=(ex,), use_container_width=True)
+
+        run_ai = ai_search or st.session_state.pop("_run_ai", False)
+        if run_ai and nl.strip():
+            with st.spinner("Interpreting your request…"):
+                try:
+                    parsed = nlp_search.parse_query(nl.strip(), get_districts())
+                except nlp_search.NLPUnavailable as e:
+                    st.warning(
+                        f"AI search isn't available ({e}). "
+                        "Add your `OPENAI_API_KEY` to enable it, or use the sidebar filters."
+                    )
+                    parsed = None
+                except Exception as e:
+                    st.error(f"AI search failed: {e}")
+                    parsed = None
+
+            if parsed:
+                prefs = {k: parsed.get(k) for k in PREF_KEYS}
+                weights = auth.learned_weights(user, DEFAULT_WEIGHTS) if use_smart else None
+                popularity = auth.popularity_signatures() if use_popularity else None
+                results = recommend(prefs, top_n=top_n, weights=weights, popularity=popularity)
+                for i, r in enumerate(results):
+                    r["_uid"] = i
+                st.session_state.results = results
+                st.session_state.searched = True
+                st.session_state.compare_ids = set()
+                st.session_state.ai_parsed = {k: v for k, v in prefs.items() if v}
+                auth.add_search(user, prefs)
+
+        if st.session_state.get("ai_parsed"):
+            chips = ", ".join(f"**{k}**: {v}" for k, v in st.session_state.ai_parsed.items())
+            st.caption(f"🔮 AI understood — {chips or 'no specific filters'}")
 
         results = st.session_state.results
         if not results:
