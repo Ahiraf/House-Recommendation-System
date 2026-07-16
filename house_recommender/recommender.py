@@ -4,7 +4,9 @@ Content-based ML recommender.
 Numeric features are scaled with scikit-learn's MinMaxScaler (learned from the
 data), each requested criterion contributes a 0-1 similarity, and criteria are
 combined by weight. `similar_to()` uses a k-Nearest-Neighbours model over the
-scaled feature space.
+scaled feature space, using *weighted Euclidean* distance so neighbours are the
+houses closest in absolute price/size/rooms (importance-weighted), rather than
+cosine, which only compared vector direction and made nearly everything ~98%.
 
 Returned house dicts add: match_score (0-100), score_breakdown (criterion -> %),
 and Price_per_sqft.
@@ -51,6 +53,22 @@ NUMERIC_FEATURES = ["Budget_BDT", "Area_sqft", "Bedrooms", "Bathrooms"]
 # Ordinal encoding for the size category (used both as a feature and for scoring).
 SIZE_ORDINAL = {"small": 0.0, "medium": 0.5, "large": 1.0}
 
+# Per-feature importance applied to the kNN feature space, in the column order
+# [budget, area, bedrooms, bathrooms, house_size]. These mirror DEFAULT_WEIGHTS
+# so "similar" reflects what users actually care about (budget/area more than a
+# bathroom). Each feature is multiplied by sqrt(normalised weight) so that plain
+# Euclidean distance becomes a *weighted* Euclidean distance.
+KNN_FEATURE_WEIGHTS = {
+    "budget": 35, "area": 20, "bedrooms": 15, "bathrooms": 10, "house_size": 10,
+}
+
+
+def _knn_weight_vector():
+    """sqrt of the normalised feature weights, in feature-column order."""
+    keys = ["budget", "area", "bedrooms", "bathrooms", "house_size"]
+    w = np.array([KNN_FEATURE_WEIGHTS[k] for k in keys], dtype=float)
+    return np.sqrt(w / w.sum())
+
 # Maps a scoring criterion -> (weight key, dataframe column, preference key).
 NUMERIC_CRITERIA = [
     ("budget", "Budget_BDT", "budget_bdt"),
@@ -89,9 +107,12 @@ def _fit_model():
 
     size = (df["House_Size"].astype(str).str.lower().map(SIZE_ORDINAL)
             .fillna(0.5).to_numpy().reshape(-1, 1))
-    feats = np.hstack([scaled, size])
+    # Apply per-feature weights, then use Euclidean distance. Weighted Euclidean
+    # ranks by *absolute* closeness in size/price (unlike cosine, which only
+    # compared the profile's direction and made almost everything look ~98%).
+    feats = np.hstack([scaled, size]) * _knn_weight_vector()
 
-    nn = NearestNeighbors(metric="cosine").fit(feats)
+    nn = NearestNeighbors(metric="euclidean").fit(feats)
     return df, scaler, feats, nn
 
 
@@ -208,8 +229,9 @@ def recommend(preferences, top_n=10, weights=None, popularity=None):
 def similar_to(house, top_n=5, weights=None):
     """Recommend houses similar to a given one (used from the Favorites tab).
 
-    Uses a k-Nearest-Neighbours model over the scaled feature space — a
-    content-based ML retrieval rather than re-running the weighted scorer.
+    Uses a k-Nearest-Neighbours model (weighted Euclidean distance) over the
+    scaled feature space — a content-based ML retrieval rather than re-running
+    the weighted scorer.
     """
     df, scaler, _feats, nn = _fit_model()
 
@@ -218,7 +240,8 @@ def similar_to(house, top_n=5, weights=None):
     raw = raw.apply(pd.to_numeric, errors="coerce").fillna(_numeric_frame(df).median())
     scaled = scaler.transform(raw)
     size = SIZE_ORDINAL.get(str(house.get("House_Size", "")).lower(), 0.5)
-    vec = np.hstack([scaled, [[size]]])
+    # Same per-feature weighting the model was fit with.
+    vec = np.hstack([scaled, [[size]]]) * _knn_weight_vector()
 
     k = min(top_n + 5, len(df))
     distances, indices = nn.kneighbors(vec, n_neighbors=k)
@@ -234,8 +257,9 @@ def similar_to(house, top_n=5, weights=None):
         )
         if same:
             continue
-        # cosine distance -> similarity %
-        row["match_score"] = round(float(np.clip(1.0 - dist, 0.0, 1.0)) * 100, 1)
+        # weighted-Euclidean distance -> similarity %. 1/(1+d) maps distance 0
+        # to 100% and decays smoothly as houses get further apart.
+        row["match_score"] = round(100.0 / (1.0 + float(dist)), 1)
         out.append(row)
         if len(out) >= top_n:
             break
